@@ -6,14 +6,15 @@ permalink: /about/
 
 ![Jarrett Fuller]({{ site.baseurl }}/images/portrait.jpg)
 
+<div class="profile">
+    <div class="text">
+        <div class="profile_section">
+            #### Profile
+            Jarrett Fuller is a designer and writer. He currently is completing his MFA from Maryland Institute College of Art focusing on graphic design, criticism, and curation, where he is also adjunct faculty. He also hosts the weekly podcast, <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a> where he interviews designers, writers, and educators about the intersection of design criticism and practice.
 
-<div class="profile_section">
-    <h4>Profile</h4>
-            <article><p>Jarrett Fuller is a designer and writer. He currently is completing his MFA from Maryland Institute College of Art focusing on graphic design, criticism, and curation, where he is also adjunct faculty. He also hosts the weekly podcast, <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a> where he interviews designers, writers, and educators about the intersection of design criticism and practice.</p>
+            From 2013 to 2015, he was a designer at <a href="http://www.facebook.com">Facebook</a> on their Business Marketing team where he worked on a range of interactive, branding, and environmental projects. Previously he was a designer at <a href="http://www.warbyparker.com">Warby Parker</a> and has continued a freelance practice where he's worked with clients large and small, including Instagram, John Hopkins University, and Wondermade. In 2016, he interned for the design team at <a href="http://www.whitney.org">The Whitney Museum of American Art</a> in New York and was a participant in <a href="https://www.canopycanopycanopy.com/education#intensive">Triple Canopy's Publication Intensive</a>, a two-week workshop that explores the history and future of publishing.</p>
 
-<p>From 2013 to 2015, he was a designer at <a href="http://www.facebook.com">Facebook</a> on their Business Marketing team where he worked on a range of interactive, branding, and environmental projects. Previously he was a designer at <a href="http://www.warbyparker.com">Warby Parker</a> and has continued a freelance practice where he's worked with clients large and small, including Instagram, John Hopkins University, and Wondermade. In 2016, he interned for the design team at <a href="http://www.whitney.org">The Whitney Museum of American Art</a> in New York and was a participant in <a href="https://www.canopycanopycanopy.com/education#intensive">Triple Canopy's Publication Intensive</a>, a two-week workshop that explores the history and future of publishing.</p>
-
-<p>With Rory King, he co-hosted the <a href="http://this-is-sway.tumblr.com">Sway podcast</a> where he discussed issues in design, education, and criticism. The podcast is part of a multi-disciplinary project that explored what design can be in an expanded sense through criticism, dialogue, and various experimental projects.</p></article>
+            With Rory King, he co-hosted the <a href="http://this-is-sway.tumblr.com">Sway podcast</a> where he discussed issues in design, education, and criticism. The podcast is part of a multi-disciplinary project that explored what design can be in an expanded sense through criticism, dialogue, and various experimental projects.</article>
             </div>
 
                 <div class="profile_section">
@@ -43,7 +44,7 @@ permalink: /about/
 </article>
             </div>
 
-
+            </div>
 
 
                 <sidebar>
