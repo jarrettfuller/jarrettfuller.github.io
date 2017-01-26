@@ -7,6 +7,38 @@
             <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css" />
        <link href='https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="images/icon.ico">
+
+        <style type="text/css">
+.preview {
+  set the width you want here. This will automagically limit the width of the anchors too;
+}
+
+/*all anchors in this ul*/
+.preview a {
+    width: 100%; /*this Haslayout trigger taking the place of zoom and therefore passes the validator, if it matters. Width is already naturally 100% by default anyway so we haven't changed anything except trigger Haslayout for IE*/
+    position:relative;
+    text-decoration:none;
+}
+/*all images inside boat ul*/
+.preview img {
+    position: fixed;
+    display: block; /*abso-position is already block context; you only need this line if IE is squirrely without it. Otherwise, take this line out*/
+    margin-left:-9999px; /*IE likes margins better than "left" for some reason*/
+    top:10%;
+    left: 0; /*but set a left and top for stability*/
+    z-index: -900;
+    width: 90%;
+}
+
+.preview a:hover, .preview a:focus {
+}
+
+.preview a:hover img, .preview a:focus img {
+    margin-left: 5%; /*set the image where you want it on hover/focus of anchor*/
+}
+
+        </style>
+
     </head>
     <body>
         <header><h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
