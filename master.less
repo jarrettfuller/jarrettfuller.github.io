@@ -1,0 +1,284 @@
+@padding: 25px, 50px, 25px, 50px;
+@fonts: 'Lora', Times, serif;
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+.clear {
+    clear: both;
+    display: block;
+}
+body {
+    background-color: cornsilk;
+}
+a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+}
+header {
+    display:-webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+        padding-bottom: 50px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+//    border-bottom: 1px solid white;
+}
+header h1 {
+    width: 50%;
+    font-family: @fonts;
+}
+header h1 a {
+    border-bottom: 0px solid white;
+}
+header nav {
+    width: 50%;
+    font-family: 'Arimo', Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 24px;
+    padding-top: 15px;
+}
+header ul li {
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    list-style: none;
+}
+header ul li a {
+    color: grey;
+    border-bottom: 0px solid white;
+}
+h3 {
+    font-family: @fonts;
+    font-size: 24px;
+    font-weight: 400;
+}
+p {
+    font-family: @fonts;
+    font-size: 18px;
+    line-height: 1.5em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/*------GRID------*/
+
+#container {
+    font-family: @fonts;
+//    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: auto;
+    background-color: white;
+}
+#container a {
+    border-bottom: 1px solid cornsilk;
+}
+#container a:hover {
+    border-bottom: 1px solid black;
+}
+    .row,
+    .group,
+    .grouped {
+        margin-left: -1em;
+        margin-right: -1em;
+        overflow: hidden;
+        padding-bottom: 50px;
+    }
+    .column,
+    .columns {
+    float: left;
+    padding-left: 1em;
+    padding-right: 1em;
+//    background: grey;
+
+    }
+    .column,
+.columns img {
+    width: 100%;
+}
+
+    .one     {width: calc(100% / 12 * 01); }
+    .two     {width: calc(100% / 12 * 02); }
+    .three   {width: calc(100% / 12 * 03); }
+    .four    {width: calc(100% / 12 * 04); }
+    .five    {width: calc(100% / 12 * 05); }
+    .six     {width: calc(100% / 12 * 06); }
+    .seven   {width: calc(100% / 12 * 07); }
+    .eight   {width: calc(100% / 12 * 08); }
+    .nine    {width: calc(100% / 12 * 09); }
+    .ten     {width: calc(100% / 12 * 10); }
+    .eleven  {width: calc(100% / 12 * 11); }
+    .twelve  {width: calc(100% / 12 * 12); }
+
+    /* column offset */
+    .offset-by-one     {margin-left: calc(100% / 12 * 01); }
+    .offset-by-two     {margin-left: calc(100% / 12 * 02); }
+    .offset-by-three   {margin-left: calc(100% / 12 * 03); }
+    .offset-by-four    {margin-left: calc(100% / 12 * 04); }
+    .offset-by-five    {margin-left: calc(100% / 12 * 05); }
+    .offset-by-six     {margin-left: calc(100% / 12 * 06); }
+    .offset-by-seven   {margin-left: calc(100% / 12 * 07); }
+    .offset-by-eight   {margin-left: calc(100% / 12 * 08); }
+    .offset-by-nine    {margin-left: calc(100% / 12 * 09); }
+    .offset-by-ten     {margin-left: calc(100% / 12 * 10); }
+    .offset-by-eleven  {margin-left: calc(100% / 12 * 11); }
+    .offset-by-twelve  {margin-left: calc(100% / 12 * 12); }
+
+/* ------COVERS-------*/
+figure {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 2em;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+figcaption {
+    display: none;
+    position: absolute;
+    padding: 15px;
+    font-family: @fonts;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255,255,255,.5);
+    overflow: hidden;
+}
+
+figure:hover figcaption {
+    display: block;
+    overflow: hidden;
+}
+//.entry {
+//    float: left;
+//    width: 100%;
+//}
+
+
+/*------RECIPE------*/
+.hero {
+    width: auto;
+    background-color: lightgray;
+}
+.hero img {
+    width: 100%;
+    display: block;
+}
+.page {
+//    margin-top: 50px;
+//    margin-right: 50px;
+//    margin-left: 50px;
+//    width: auto;
+//    background-color: white;
+}
+.page h1 { font-size: 56px; padding-top: 10px; text-align: center;}
+.page h2 {
+    font-size: 14px;
+    font-family: 'Lora', Times, serif;
+    letter-spacing: 1px;
+    color: rgba(0,0,0,.4);
+    font-style: italic;
+    padding-top: 10px;
+text-align: center;
+}
+article {
+    padding-bottom: 1em;
+    padding-top: 1em;
+//    display:-webkit-flex;
+//    display: -ms-flexbox;
+//    display: flex;
+}
+.recipe {
+    width: 60%;
+    margin: auto;
+    padding-top: 30px;
+}
+.recipe ul {
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px dotted grey;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.recipe li {
+    list-style: none;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 0px;
+    padding-left: 0px;
+    font-family: 'Arimo', Helvetica, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    color: rgba(0,0,0,.6);
+}
+.recipe img {
+    width: 100%;
+}
+
+/*------FOOTER------*/
+
+footer {
+    width: 100%;
+//    border-top: 1px solid white;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+    display: block;
+    font-family: 'Lora', Times, serif;
+}
+
+
+/* -------------------------MOBILE--------------------*/
+
+@media (max-width: 700px) {
+    body {
+        background-color: white;
+    }
+    header {
+        background-color: cornsilk;
+        display: block;
+        padding-left: 30px;
+        padding-bottom: 50px;
+    }
+    header h1 { width: 100%;}
+    header nav { width: 100%; padding-top: 10px; padding-left: 0px;}
+    header nav ul {padding-left: 0px; margin-left: 0px;}
+    header nav ul li {padding-left: 0px;}
+
+    #container {margin-left: 15px; margin-right: 15px;}
+    .page h1 {font-size: 24px;}
+    .page h2 {font-size: 18px;}
+    .recipe {width: 100%;}
+    .recipe ul {width: 100%;}
+
+    .one,.two,.three,.four,.five,.six,.seven,.eight,.nine, .ten,.eleven,.twelve
+        {width: 100%; }
+    .column,
+    .columns {padding-left: 0px; padding-right: 0px;}
+
+    .page { margin: 20px;}
+
+    article { display: block;}
+    figcaption {
+        display: block;
+        position: relative;
+        width: 100%;
+        background-color: cornsilk;}
+    figure img {display: block;}
+    footer {
+        background-color: cornsilk;
+        padding-left: 30px; padding-right: 15px;
+    }
+}
