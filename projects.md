@@ -11,7 +11,7 @@ layout: default
             <div class="type">Design</div>
             <div class="year">{{ post.year }}</div>
         </div>
-            <img src={{ post.image }}></a>
+            {{ post.image }}</a>
 
 
 
