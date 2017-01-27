@@ -7,9 +7,9 @@ layout: default
             <p>{{ page.discription }}</p>
         </div>
             <div class="type">
-                <ul class="tag_list">
+                <ul>
                 {.% for tag in post.tags %}
-                <li class="inline archive_list">{.{ tag }}</li>
+                <li class="inline archive_list">{{ tag }}</li>
                 {.% endfor %}
     </ul></div>
             <div class="year">{{ page.year }}</div>
