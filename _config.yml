@@ -79,6 +79,6 @@ collections:
 - design:
     output: true
     permalink: /design/:path/:title.:output
-- writing
+- writing:
     output: true
     permalink: /essay/:path/:title.:output
