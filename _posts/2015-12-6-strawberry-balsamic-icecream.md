@@ -1,5 +1,5 @@
 ---
-layout: image
+layout: text
 title: Collage and the Creative Process
 category: Essay
 discription:
