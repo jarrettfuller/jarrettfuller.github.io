@@ -45,7 +45,7 @@ url:
 baseurl: ""
 
 collections:
-    design:
+  - design:
         output: true
         permalink: /awesome/:title
 
