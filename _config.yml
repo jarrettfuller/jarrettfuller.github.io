@@ -75,4 +75,7 @@ exclude:
     - README.md
     - CNAME
 
-
+collections:
+    design:
+    output: true
+    permalink: /projects/:path/
