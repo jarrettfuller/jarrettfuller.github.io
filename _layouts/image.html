@@ -6,7 +6,7 @@ layout: default
         <div class="project"><h4>{{ page.title }}</h4>
             <p>{{ page.discription }}</p>
         </div>
-            <div class="type"><li>{{ page.tag }}</li></div>
+            <div class="type"><ul><li>{{ each tags }}</li></ul></div>
             <div class="year">{{ page.year }}</div>
     </div>
 
