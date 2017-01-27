@@ -10,7 +10,6 @@ tags:
 - Print
 year: 2016
 image: http://www.jarrettfuller.com/portfolio/images/essay-book_03.jpg
-permalink: design/essays
 
 ---
 
