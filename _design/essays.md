@@ -1,10 +1,23 @@
 ---
 layout: image
 title: I don't know what Graphic Design is
+category: Design
 discription: Published in 2016, <i>I Don't Know What Graphic Design Is</i>, is a collection of my essays on design, culture, and technology from the last five years. Ranging from criticism, book reviews, and theoretical texts, this book captures my thinking on design and uncovers the common themes that I've returned to again and again. Printed in black and white, using only Helvetica, the simple layout emphasizes the print-on-demand form while also putting the words first.
-categories: Design
+tags:
+- Design
+- Writing
+- Publishing
+- Print
+year: 2016
 image: http://www.jarrettfuller.com/portfolio/images/essay-book_03.jpg
+permalink: design/essays
 
 ---
 
 
+<img src="http://www.jarrettfuller.com/portfolio/images/essay-book_01.jpg">
+<img src="http://www.jarrettfuller.com/portfolio/images/essay-book_03.jpg">
+<img src="http://www.jarrettfuller.com/portfolio/images/essay-book_04.jpg">
+<img src="http://www.jarrettfuller.com/portfolio/images/essay-book_05.jpg">
+<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/essay-book_02.jpg"></div>
+<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/essay-book_06.jpg"></div>
