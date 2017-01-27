@@ -13,8 +13,6 @@ layout: default
         </div>
             <img src="{{ post.image }}"></a>
 
-
-
     {% endfor %}
 
 <section class="clear"></section>
