@@ -2,16 +2,19 @@
 layout: default
 ---
 
-<article class="page">
+<main class="preview">
   {% for post in site.posts %}
 
-<div class="four columns">
-      <div class="entry">
-        <a href="{{ site.baseurl }}{{ post.url }}"><figure>
-            <img src="{{ post.image }}">
-          <figcaption>      <h3>{{ post.title }}</h3></figcaption></figure></a>
-      </div>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="object">
+            <div class="project">{{ post.title }}</div>
+            <div class="type">Design</div>
+            <div class="year">{{ post.year }}</div>
         </div>
+            <img src={{ post.image }}</a>
+
+
+
     {% endfor %}
-</article>
+
 <section class="clear"></section>
