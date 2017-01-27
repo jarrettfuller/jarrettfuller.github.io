@@ -74,3 +74,8 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+collections:
+- design
+    permalink: /design/:path/:title.:output
+- writing
