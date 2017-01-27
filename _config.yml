@@ -47,7 +47,7 @@ baseurl: ""
 collections:
     design:
         output: true
-        permalink: /awesome/:path/:title
+        permalink: /awesome/:title
 
 #
 # !! You don't need to change any of the configuration flags below !!
