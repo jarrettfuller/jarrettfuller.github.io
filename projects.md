@@ -9,7 +9,7 @@ layout: default
         <div class="object">
             <div class="project">{{ post.title }}</div>
             <div class="type">Design</div>
-            <div class="year">{{ post.year }}</div>
+            <div class="year"></div>
         </div>
             <img src={{ post.image }}</a>
 
