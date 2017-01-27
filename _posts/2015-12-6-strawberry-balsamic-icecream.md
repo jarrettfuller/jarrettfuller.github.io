@@ -1,43 +1,30 @@
 ---
-layout: post
-title: Strawberry Balsamic Ice Cream
-image: https://c1.staticflickr.com/1/718/21228690084_e02f28254c_b.jpg
-serving: Yields about 1 quart
+layout: image
+title: Collage and the Creative Process
+category: Essay
+discription:
+tags:
+year: 2016
+image: https://65.media.tumblr.com/b5962753318282f860a7b65dd5936fff/tumblr_inline_oe63jiSGad1qzwy5u_1280.jpg
+permalink: writing/collage
 ---
 
 
-* 1-1/2 pints strawberries (3 cups), preferably organic, hulled and halved or quartered
-* 2-1/2 Tbs. sugar
-* 2 tsp. balsamic vinegar
-* For the base:
-* 5 large egg yolks
-* 1/2 cup sugar
-* 1-3/4 cups heavy cream
-* 3/4 cup 1% or 2% milk
-* 1/4 tsp. kosher salt
-* 2 tsp. balsamic vinegar
+<img src="https://65.media.tumblr.com/b5962753318282f860a7b65dd5936fff/tumblr_inline_oe63jiSGad1qzwy5u_1280.jpg">
+<p>If there is one art form that will come to define the 21st century, it will be collage. The internet has made visual resources abundant and all of us — from fine art painters to filmmakers, musicians to moms, designers to teenagers — use this imagery to make art, populate Pinterest boards, and organize memories. This century will be described as a remix culture — we sample and borrow, remix and reuse, appropriate and, yes, collage.</p>
 
-### Cook the berries
-Combine the berries with the 2-1/2 Tbs. sugar and 2 tsp. vinegar in a large nonreactive skillet. Put the skillet over medium heat and cook, stirring frequently, until the strawberries are soft and the liquid they release has reduced somewhat, 6 to 8 minutes.
+<p>Collage techniques have been employed since the invention of paper in China around 200BC. But the modern use of collage — the way we think about it as cutting things apart and putting them together in new ways — emerged in the early 1900s out of the Cubist movement when Picasso and Braque began pasting ephemera into their paintings. Braque cut up pieces of wallpaper to add to his charcoal drawings and Picasso soon followed, adding bits of cloth into his own paintings. Collage — and its many subgenres including photomontage, decoupage, and mosaic — has found its way into every movement, with every medium, in contemporary art: the Surrealists used collage extensively, pop artists like Lichtenstein and Warhol worked in collage, <a href="http://www.hockneypictures.com/works_photos.php">David Hockney used his own photography</a> as a base for collages, and Matisse, late in his career as he began losing mobility, famously turned to cutting up pieces of paper to create colorful murals.</p>
 
-Let cool slightly, then transfer the berries and their juice to a blender or food processor. Purée until smooth and refrigerate until ready to use.
+<figure><img src="https://66.media.tumblr.com/f8fe4b473e6b12e0dd309f50d9eed151/tumblr_inline_oe63p5CGVH1qzwy5u_1280.jpg">
+<figcaption>Left: 2x4's Prada Wallpaper. Right: Raf Simons' 2015 Spring collection.</figcaption>
+</figure>
 
-### Make the base
-In a medium heatproof bowl, whisk the yolks just to break them up, then whisk in half of sugar (1/4 cup). Set aside.
+<p>Collage has become the defacto metaphor for post-modernism and it isn’t limited to the fine arts. The montage became a popular film trope. Sound collage, or sampling, has increasingly become popular in music composition. In the 1960s, architects like <a href="http://jarrettfuller.tumblr.com/tagged/superstudio">SuperStudio</a> and Rem Koolhaas used collage to imagine alternate futures and impossible architectures. In design, 2x4 frequently employs collage in their <a href="http://2x4.org/work/9/prada-wallpapers/">epic wallpapers for Prada’s flagship store in SoHo</a>, Raf Simons’ 2015 Spring collection subverted the moodboard form by <a href="http://www.thefashionlaw.com/home/a-closer-look-at-raf-simons-springsummer-2015-collection">printing his influences directly on the garments</a>, and Ed Fella has been <a href="http://www.edfella.com/collage.html">producing paper collages</a> for over a quarter-century. Walter Benjamin described his epic <a href="https://www.amazon.com/Arcades-Project-Walter-Benjamin/dp/0674008022/ref=sr_1_1?ie=UTF8&amp;qid=1474987021&amp;sr=8-1&amp;keywords=the+arcades+project"><i>Arcades Project</i></a> to a friend as his attempt to use collage in literature. The journalist Janet Malcolm — who also works as a collagist — found inspiration in her visual work when writing <a href="http://www.newyorker.com/magazine/1994/07/11/forty-one-false-starts"><i>Forty-One False Starts</i></a>, the <i>New Yorker</i> profile of the artist David Salle, when she assembled the profile as a series of forty-one possible first-paragraphs, reminding me of Woody Allen’s voiceover at the beginning of Manhattan. And a few years ago, Jonathan Letham wrote an essay on plagiarism and influence, <a href="http://harpers.org/archive/2007/02/the-ecstasy-of-influence/"><i>The Ecstasy of Influence</i></a>, which he assembled by borrowing — collaging — every paragraph from preexisting texts into something wholly new.</p>
 
-In a heavy nonreactive saucepan, stir together the cream, milk, salt, and the remaining sugar (1/4 cup) and put the pan over medium-high heat. When the mixture approaches a bare simmer, reduce the heat to medium.
+<img src="https://67.media.tumblr.com/dd13f367400e7aec9c2993cab33c3feb/tumblr_inline_oe63gbOnag1qzwy5u_1280.jpg">
 
-Carefully scoop out about 1/2 cup of the hot cream mixture and, whisking the eggs constantly, add the cream to the bowl with the egg yolks. Repeat, adding another 1/2 cup of the hot cream to the bowl with the yolks. Using a heatproof rubber spatula, stir the cream in the saucepan as you slowly pour the egg-and-cream mixture from the bowl into the pan.
+<p>I have a vivid memory of visiting the Philadelphia Art Museum as a high student and seeing <a href="https://www.artsy.net/artwork/robert-rauschenberg-estate">Robert Rauchsenberg’s 1963 piece, <i>Estate</i></a>, and being immediately struck by its vibrant collage-like aesthetic. Rauschenberg was beginning to move off the flat canvas, fixing objects on to his canvases to break the two dimensional plane for new pieces he was calling “combines” — a sort of elaborated collage. You could trace much of my early work back to that single artwork. I was drawn to Rauschenberg’s use of layering, of mixing imagery, and combining photos, drawings, and objects. Years later, collage has remained a seminal touchstone to which I habitually return. I’ve been wondering why this medium has held my interest for so long. Why do I find myself continually drawn to artists working in collage? And why does so much of my own work employ collage methods and aesthetics?</p>
 
-Cook the mixture carefully over medium heat, stirring constantly, until it is thickened, coats the back of a spatula, and holds a clear path when you run your finger across the spatula, 1 to 2 minutes longer.
+<p>When I started looking, I quickly realized that everyone I was interested in and inspired by were working the same way. Collage is synecdochic of the creative process. It’s our process made visual. The design process always begins with collage. We may have moved from the traditional cut-out and pinned-up moodboards to digital Pinterest boards — but the action is the same: we pull from our influences and inspirations, using the fragments of what came before in search of something new. Design is both a noun and a verb, the action and the artifact and so is collage. It is a noun — a complete object — but also a verb — the action of <i>collaging</i>, of connecting disparate parts into a coherent whole. In my first design classes we learned about <i>gestalt</i>, that “the whole is greater than the sum of its parts”. Collage reflexively teaches gestalt — a single work that also reveals the individual elements. All design is, in essence, collaged. It’s is taking preexisting forms — shapes, typography, images — and <i>collaging</i> them into a coherent whole. And the same is true for the writer — where the designer pieces together shapes and imagery, the writer pieces together words. A sentence a collage of words; a paragraph a collage of sentences.</p>
 
-Strain the base through a fine-mesh strainer into a clean container. Set the container into an ice-water bath, wash your spatula, and use it to stir the base occasionally until it is cool. Remove from the ice-water bath, cover with plastic wrap, and refrigerate the base for at least 2 hours or overnight.
-
-### Freeze the ice cream
-Whisk the strawberry purée and the remaining 2 tsp. vinegar into the chilled base.
-
-Freeze in your ice cream machine according to the manufacturer’s instructions. While the ice cream is churning, put the container you’ll use to store the ice cream into the freezer. Enjoy right away or, for a firmer ice cream, transfer to the chilled container and freeze for at least 4 hours.
-
-Recipe via [The New York Times](http://cooking.nytimes.com/recipes/1017729-sausage-ragu)
-
-Photo by [Jarrett Fuller]()
+<p>Collage is the perfect metaphor for the creative practice, the visual manifestation of the design process. It is both the artifact and the research. You can look at archives, indexes, and collections as a form of collage. I think about Gehard Ricter’s <a href="https://www.amazon.com/Gerhard-Richter-Atlas-Helmut-Friedel/dp/1933045477/ref=sr_1_1?ie=UTF8&amp;qid=1474986955&amp;sr=8-1&amp;keywords=gerhard+richter+atlas"><i>Atlas</i></a> — a collection of his inspirations, research, and preoccupations. “In the online world the only thing you’re the master of is your collection, your archive, and how you use it, how you remix it.” writes the poet Kenneth Goldsmith in his new book, <a href="https://www.amazon.com/Wasting-Time-Internet-Kenneth-Goldsmith/dp/0062416472/ref=sr_1_1?ie=UTF8&amp;qid=1474986937&amp;sr=8-1&amp;keywords=wasting+time+on+the+internet+by+kenneth+goldsmith"><i>Wasting Time on the Internet</i></a>, “We become digital archivists, collecting and cataloging things.” My Evernote account is my own ever-expanding <i>Atlas</i>. The internet is producing a vibrant community of samplers, remixers, and collectors. Our collections have become public, open to new interpretations, new collages. This is how all art is made: we take what’s come before us and make something new out of it. It’s reflexive in revealing its process and showing its influences and elements and authentic in representing its process and how we see the world. Collage, like design and writing, is a framing device that helps us seek gestalt and make sense of the world around us. As the architect Juhani Pallasmaa writes: “Our very consciousness is an ever-changing collage of mental fragments held together by one’s sense of self.” Our art always mimics life — a collage of memories and experiences. &#10006;</p>

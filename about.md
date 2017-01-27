@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="img-hero" src="images/portrait.jpg"/>
+<img class="img-hero" src="jarrettfuller.github.io/images/portrait.jpg"/>
 
 <div class="profile">
         <div class="text">
