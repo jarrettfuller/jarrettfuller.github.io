@@ -76,7 +76,9 @@ exclude:
     - CNAME
 
 collections:
-- design
+- design:
     output: true
     permalink: /design/:path/:title.:output
 - writing
+    output: true
+    permalink: /essay/:path/:title.:output
