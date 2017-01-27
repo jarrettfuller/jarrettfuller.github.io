@@ -5,5 +5,6 @@ discription: Published in 2016, <i>I Don't Know What Graphic Design Is</i>, is a
 type: Design
 year: 2016
 image: http://www.jarrettfuller.com/portfolio/images/essay-book_03.jpg
+permalink: design/essays
 
 ---
