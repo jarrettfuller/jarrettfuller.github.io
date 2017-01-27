@@ -10,12 +10,12 @@ permalink: writing/collage
 ---
 
 
-<img src="https://65.media.tumblr.com/b5962753318282f860a7b65dd5936fff/tumblr_inline_oe63jiSGad1qzwy5u_1280.jpg">
+<img src="http://68.media.tumblr.com/b5962753318282f860a7b65dd5936fff/tumblr_inline_oe63jiSGad1qzwy5u_1280.jpg">
 <p>If there is one art form that will come to define the 21st century, it will be collage. The internet has made visual resources abundant and all of us — from fine art painters to filmmakers, musicians to moms, designers to teenagers — use this imagery to make art, populate Pinterest boards, and organize memories. This century will be described as a remix culture — we sample and borrow, remix and reuse, appropriate and, yes, collage.</p>
 
 <p>Collage techniques have been employed since the invention of paper in China around 200BC. But the modern use of collage — the way we think about it as cutting things apart and putting them together in new ways — emerged in the early 1900s out of the Cubist movement when Picasso and Braque began pasting ephemera into their paintings. Braque cut up pieces of wallpaper to add to his charcoal drawings and Picasso soon followed, adding bits of cloth into his own paintings. Collage — and its many subgenres including photomontage, decoupage, and mosaic — has found its way into every movement, with every medium, in contemporary art: the Surrealists used collage extensively, pop artists like Lichtenstein and Warhol worked in collage, <a href="http://www.hockneypictures.com/works_photos.php">David Hockney used his own photography</a> as a base for collages, and Matisse, late in his career as he began losing mobility, famously turned to cutting up pieces of paper to create colorful murals.</p>
 
-<figure><img src="http://68.media.tumblr.com/b5962753318282f860a7b65dd5936fff/tumblr_inline_oe63jiSGad1qzwy5u_1280.jpg">
+<figure><img src="https://66.media.tumblr.com/f8fe4b473e6b12e0dd309f50d9eed151/tumblr_inline_oe63p5CGVH1qzwy5u_1280.jpg">
 <figcaption>Left: 2x4's Prada Wallpaper. Right: Raf Simons' 2015 Spring collection.</figcaption>
 </figure>
 
