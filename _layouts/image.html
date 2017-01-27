@@ -8,8 +8,8 @@ layout: default
         </div>
             <div class="type">
                 <ul>
-                {% for tag in post.tags %}
-                <li class="inline archive_list">{{ tag }}</li>
+                {% for tag in page.tags %}
+                <li class="inline archive_list">{{ page tag }}</li>
                 {% endfor %}
     </ul></div>
             <div class="year">{{ page.year }}</div>
