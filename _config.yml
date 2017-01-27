@@ -78,7 +78,7 @@ exclude:
 collections:
 - design:
     output: true
-    permalink: /design/:path/:title.:output
+    permalink: /design/:path/:title:output
 - writing:
     output: true
-    permalink: /essay/:path/:title.:output
+    permalink: /essay/:path/:title:output
