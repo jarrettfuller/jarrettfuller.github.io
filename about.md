@@ -66,7 +66,7 @@ permalink: /about/
                     <li><a href="https://dl.dropboxusercontent.com/u/2003133/site/jarrettfuller-resume.pdf">Resume</a></li>
                 </p>
         </sidebar>
-
+</div>
 
 <!--
 ### More Information
