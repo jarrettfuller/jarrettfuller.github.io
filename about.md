@@ -57,7 +57,7 @@ permalink: /about/
                     <li><a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a></li>
                     <li><a href="https://open.spotify.com/user/jarrettfuller">Spotify</a></li>
                     <li><a href="https://github.com/jarrettfuller">Github</a></li><li><a href="http://hellomannequin.tumblr.com">Tumblr</a></li></ul>
-                </p>
+                    </p>
 
                 <h4>PDF Downloads</h4>
                 <p><ul>
@@ -66,7 +66,7 @@ permalink: /about/
                     <li><a href="https://dl.dropboxusercontent.com/u/2003133/site/jarrettfuller-resume.pdf">Resume</a></li>
                 </p>
         </sidebar>
-        </div>
+
 
 <!--
 ### More Information
