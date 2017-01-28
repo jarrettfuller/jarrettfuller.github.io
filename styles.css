@@ -247,16 +247,17 @@ nav li:first-child {
   list-style: none inside;
       font-family: 'Karla', Helvetica, Arial, sans-serif;
   font-size: 16px;
+    line-height: 18px;
 }
 .profile sidebar a {
     font-family: 'Karla', Helvetica, Arial, sans-serif;
   font-size: 16px;
   color: #000000;
-  border-bottom: 1px black solid;
+  border-bottom: 0px black solid;
 }
 .profile sidebar a:hover {
-  border-bottom: 1px #ff0000 solid;
-  color: red;
+  border-bottom: 1px #000000 solid;
+  color: black;
 }
 .img-hero {
   border-top: 1px #ff0000 solid;
