@@ -64,10 +64,9 @@ permalink: /about/
                     <li><a href="https://dl.dropboxusercontent.com/u/2003133/site/jarrettfuller_commercial-portfolio.pdf">Commercial Portfolio</a></li>
                     <li><a href="https://dl.dropboxusercontent.com/u/2003133/site/jarrettfuller_personal-portfolio.pdf">Personal Portfolio</a></li>
                     <li><a href="https://dl.dropboxusercontent.com/u/2003133/site/jarrettfuller-resume.pdf">Resume</a></li>
-                    </p>
+                </p>
+        </sidebar>
 
-                </sidebar>
-                </div>
 
 <!--
 ### More Information
