@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="img-hero" src="jarrettfuller.github.io/images/portrait.jpg"/>
+<img class="img-hero" src="/images/portrait.jpg"/>
 
 <div class="profile">
         <div class="text">
@@ -57,7 +57,7 @@ permalink: /about/
                     <li><a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a></li>
                     <li><a href="https://open.spotify.com/user/jarrettfuller">Spotify</a></li>
                     <li><a href="https://github.com/jarrettfuller">Github</a></li><li><a href="http://hellomannequin.tumblr.com">Tumblr</a></li></ul>
-                    </p>
+                </p>
 
                 <h4>PDF Downloads</h4>
                 <p><ul>

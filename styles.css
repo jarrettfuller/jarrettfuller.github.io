@@ -292,6 +292,7 @@ nav li:first-child {
   -ms-flex: 1;
   flex: 1;
   width: 25%;
+    font-size: 16px;
 }
 .text article {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
@@ -322,13 +323,8 @@ nav li:first-child {
 }
 .profile li {
   list-style: none inside;
-}
-.img-circle {
-  border-radius: 50%;
-  width: 80%;
-  margin: auto;
-  margin-bottom: 30px;
-  float: inherit;
+  font-family: 'Karla', Helvetica, Arial, sans-serif;
+  font-size: 16px;
 }
 .img-hero {
   border-top: 1px #ff0000 solid;
@@ -357,6 +353,7 @@ article h4 {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
   font-size: 16px;
   color: #000000;
+  font-size: 20px;
 }
 article a {
   font-family: 'Tinos', Georgia, Times, serif;
