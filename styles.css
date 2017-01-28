@@ -257,7 +257,7 @@ nav li:first-child {
 }
 .profile sidebar a:hover {
   border-bottom: 1px #000000 solid;
-  color: red;
+  color: black;
 }
 .img-hero {
   border-top: 1px #ff0000 solid;
