@@ -323,8 +323,13 @@ nav li:first-child {
 }
 .profile li {
   list-style: none inside;
-  font-family: 'Karla', Helvetica, Arial, sans-serif;
-  font-size: 16px;
+}
+.img-circle {
+  border-radius: 50%;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 30px;
+  float: inherit;
 }
 .img-hero {
   border-top: 1px #ff0000 solid;
