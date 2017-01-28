@@ -216,6 +216,7 @@ nav li:first-child {
 .text article {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
   font-size: 16px;
+      line-height: 1.6em;
   color: #000000;
   padding-bottom: 0px;
   margin-right: 50px;
@@ -247,7 +248,6 @@ nav li:first-child {
   list-style: none inside;
       font-family: 'Karla', Helvetica, Arial, sans-serif;
   font-size: 16px;
-    line-height: 1.2em;
 }
 .profile sidebar a {
     font-family: 'Karla', Helvetica, Arial, sans-serif;
@@ -290,7 +290,6 @@ article h4 {
 article a {
   font-family: 'Tinos', Georgia, Times, serif;
   font-size: 20px;
-  line-height: 1.6em;
   border-bottom: 1px #ff0000 solid;
 }
 article a:hover {
