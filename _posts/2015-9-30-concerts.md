@@ -6,7 +6,7 @@ discription:
 tags:
 - Photography
 year: 2013-2015
-image: http://www.jarrettfuller.com/portfolio/images/essay-book_03.jpg
+image: https://c1.staticflickr.com/1/684/21839307342_753946d9ef_h.jpg
 permalink: photography/concerts
 
 ---
