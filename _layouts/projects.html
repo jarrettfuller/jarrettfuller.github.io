@@ -40,25 +40,9 @@ layout: default
 </head>
 <body>
 
-        <div class="project"><h4>{{ page.title }}</h4>
-            <p>{{ page.discription }}</p>
-        </div>
-            <div class="type">
-                <ul>
-                {% for tag in page.tags %}
-                <li>{{ tag }}</li>
-                {% endfor %}
-    </ul></div>
-            <div class="year">{{ page.year }}</div>
+<div id="container">
+      {{ content }}
     </div>
-
-<div class="images clearfix">
-    {{ content }}
-
-    <section class="clear"></section>
-
-<p class="to-top"><a href="#top">&uarr;</a></p>
-        </div>
 
 </body>
 
