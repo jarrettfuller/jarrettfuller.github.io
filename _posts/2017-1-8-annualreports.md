@@ -28,23 +28,23 @@ permalink: design/annualreports
 <P>&rarr;  <a href="http://www.jarrettfuller.com/extras/annualreport14.htm">View Design Detail</A></P>
             </div>
 
-            <div class="images-right"><img src="http://www.jarrettfuller.com/extras/13annualreport_web.jpg">
+<div class="images-right"><img src="http://www.jarrettfuller.com/extras/13annualreport_web.jpg">
 <P> &rarr; <a href="http://www.jarrettfuller.com/extras/annualreport13.htm">View Design Detail</A></P></div>
 <section class="clear"></section>
 
-            <div class="images-left">
-            <img src="http://www.jarrettfuller.com/extras/12annualreport.jpg">
+<div class="images-left">
+<img src="http://www.jarrettfuller.com/extras/12annualreport.jpg">
 <P>&rarr; <a href="http://www.jarrettfuller.com/extras/annualreport12.htm" class="visit">View Design Detail</A></P>
             </div>
 
-            <div class="images-right"><img src="http://www.jarrettfuller.com/extras/11annualreport.jpg">
+<div class="images-right"><img src="http://www.jarrettfuller.com/extras/11annualreport.jpg">
 <P>&rarr; <a href="http://www.jarrettfuller.com/extras/annualreport11.htm" class="visit">View Design Detail</A></P></div>
 <section class="clear"></section>
 
-                        <div class="images-left">
+<div class="images-left">
 <img src="http://www.jarrettfuller.com/extras/annualreport2010.jpg">
 <P>&rarr; <a href="http://www.jarrettfuller.com/extras/annualreport10.htm" class="visit">View Design Detail</A></P>
             </div>
 
-            <div class="images-right"><img src="http://www.jarrettfuller.com/extras/annualreport.jpg">
+<div class="images-right"><img src="http://www.jarrettfuller.com/extras/annualreport.jpg">
 <P>&rarr; <a href="http://www.jarrettfuller.com/extras/annualreport.htm" class="visit">View Design Detail</A></P></div>
