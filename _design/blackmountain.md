@@ -2,10 +2,10 @@
 layout: image
 title: Black Mountain College — A Survey
 category: Design
-discription: At the beginning of 2009, inspired by designer <a href="http://www.feltron.com">Nicholas Felton's Annual Reports</A>, I started recording various details in an attempt to create my own infographic poster documenting the various minutia of the year. In the following years, it was become a yearly tradition and way for me to look back over the past year. Each year takes the format of an 11x17 two-color poster set in two typefaces. The 2009 poster was featured in a lecture Mr. Felton gave at the <a href="http://vimeo.com/11132827">2010 see Conference</A>.
+discription: <i>Black Mountain College: A Survey</i> is a book I edited and designed on the experimental art college in North Carolina in the 1930s-50s. I selected various essays and each one focuses on a particular medium, teacher, or student, each building upon the one that came before. In between each essay are image galleries with images I've curated from the different artists from the college including Josef Albers, Rose Asawa, and John Cage. The design of the book follows a strict grid system that allows for various layouts across each spread while retaining a structure that is followed as the book progresses.
 tags:
 - Design
-- Print
+- Art Direction
 - Editing
 year: 2015
 image: http://www.jarrettfuller.com/portfolio/images/black-mountain_05.jpg
