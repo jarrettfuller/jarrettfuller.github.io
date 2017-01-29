@@ -9,6 +9,7 @@ tags:
 - Editing
 year: 2015
 image: http://www.jarrettfuller.com/portfolio/images/black-mountain_05.jpg
+permalink: /design/blackmountain
 
 ---
 
