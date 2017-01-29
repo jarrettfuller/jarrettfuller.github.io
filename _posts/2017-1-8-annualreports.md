@@ -2,9 +2,7 @@
 layout: text
 title: Annual Report Posters
 category: Essay
-discription: At the beginning of 2009, inspired by designer <a href="http://www.feltron.com">Nicholas Felton's Annual Reports</A>, I started recording various details in an attempt to create my own infographic poster documenting the various minutia of the year. In the following years, it was become a yearly tradition and way for me to look back over the past year. Each year takes the format of an 11x17 two-color poster set in two typefaces.
-
-The 2009 poster was featured in a lecture Mr. Felton gave at the <a href="http://vimeo.com/11132827">2010 see Conference</A>.
+discription: At the beginning of 2009, inspired by designer <a href="http://www.feltron.com">Nicholas Felton's Annual Reports</A>, I started recording various details in an attempt to create my own infographic poster documenting the various minutia of the year. In the following years, it was become a yearly tradition and way for me to look back over the past year. Each year takes the format of an 11x17 two-color poster set in two typefaces. The 2009 poster was featured in a lecture Mr. Felton gave at the <a href="http://vimeo.com/11132827">2010 see Conference</A>.
 tags:
 - Infographics
 - Data Visualization
