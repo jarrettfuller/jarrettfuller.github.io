@@ -47,7 +47,13 @@ baseurl: ""
 collections:
     design:
         output: true
-        permalink: /awesome/:title
+        permalink: /design/:title
+    photography:
+        output: true
+        permalink: /photography/:title
+    writing:
+        output: true
+        permalinke: /writing/:title
 
 #
 # !! You don't need to change any of the configuration flags below !!
