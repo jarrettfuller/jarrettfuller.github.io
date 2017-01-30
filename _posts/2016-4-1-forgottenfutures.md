@@ -10,12 +10,12 @@ tags:
 - Motion
 - Interactive
 year: 2016
-image: 
-permalink: /design/forgottenfutures 
+image: http://www.jarrettfuller.com/portfolio/images/forgotten-futures_01.jpg
+permalink: /design/forgottenfutures
 ---
 
 <div class="responsive-container"><p>
-<iframe src="https://player.vimeo.com/video/158380110?title=0&byline=0&portrait=0"" frameborder="0" allowfullscreen>
+<iframe src="https://player.vimeo.com/video/158380110?title=0&byline=0&portrait=0" frameborder="0" allowfullscreen>
 </iframe></p>
 </div>
 
