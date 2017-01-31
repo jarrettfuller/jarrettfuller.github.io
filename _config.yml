@@ -45,16 +45,9 @@ url:
 baseurl: ""
 
 collections:
-    design:
+    archive:
         output: true
-        permalink: /design/:title
-    photography:
-        output: true
-        permalink: /photography/:title
-    writing:
-        output: true
-        permalinke: /writing/:title
-
+        permalink: /archive/:title
 #
 # !! You don't need to change any of the configuration flags below !!
 #
