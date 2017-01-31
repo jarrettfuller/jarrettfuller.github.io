@@ -29,4 +29,4 @@ permalink: /design/warbyparker
 <img src="http://www.jarrettfuller.com/portfolio/images/wp_4.jpg">
 <img src="http://www.jarrettfuller.com/portfolio/images/wp_5.jpg">
 <div class="images-right">
-<p>&uarr; To promote a collaboration frame with non-profit Invisible Children, I designed this billboard that was projected on to screens in Times Square.</p></p></div>
+<p>&uarr; To promote a collaboration frame with non-profit Invisible Children, I designed this billboard that was projected on to screens in Times Square.</p></div>
