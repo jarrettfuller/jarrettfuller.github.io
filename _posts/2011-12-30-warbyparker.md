@@ -10,7 +10,7 @@ tags:
 - Branding
 year: 2011
 image: http://www.jarrettfuller.com/portfolio/images/wp_2011_2.jpg
-permalink: /design/warbyparker11
+permalink: /projects/warbyparker11
 ---
 
 <img src="http://www.jarrettfuller.com/portfolio/images/wp_2011_1.jpg">

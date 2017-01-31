@@ -7,7 +7,7 @@ tags:
 - Photography
 year: 2013-2015
 image: https://c1.staticflickr.com/1/755/21640239200_3edae6ac0b_h.jpg
-permalink: photography/portraits
+permalink: /projects/portraits
 
 ---
 

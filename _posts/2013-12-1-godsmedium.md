@@ -10,7 +10,7 @@ tags:
 - Research
 year: 2014
 image: http://www.jarrettfuller.com/portfolio/images/godsmedium_1.jpg
-permalink: /design/godsmedium
+permalink: /projects/godsmedium
 ---
 
 <img src="http://www.jarrettfuller.com/portfolio/images/godsmedium_1.jpg">

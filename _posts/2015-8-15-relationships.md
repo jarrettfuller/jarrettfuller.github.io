@@ -7,7 +7,7 @@ tags:
 - Photography
 year: 2015
 image: https://dl.dropboxusercontent.com/u/2003133/site/relationships_05.jpg
-permalink: photography/relationships
+permalink: /projects/relationships
 
 ---
 

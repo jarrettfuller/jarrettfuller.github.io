@@ -9,7 +9,7 @@ tags:
 - Interface Design
 year: 2012
 image: http://www.jarrettfuller.com/portfolio/images/wondermade_2.jpg
-permalink: /design/wondermade
+permalink: /projects/wondermade
 ---
 
 <img src="http://www.jarrettfuller.com/portfolio/images/wondermade_1.jpg">

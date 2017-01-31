@@ -10,7 +10,7 @@ tags:
 - Print
 year: 2016
 image: http://www.jarrettfuller.com/portfolio/images/photo-book_04.jpg
-permalink: /photography/newyork
+permalink: /projects/newyork
 ---
 
 <img src="http://www.jarrettfuller.com/portfolio/images/photo-book_01.jpg">

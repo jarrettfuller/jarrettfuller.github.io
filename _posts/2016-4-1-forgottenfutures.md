@@ -11,7 +11,7 @@ tags:
 - Interactive
 year: 2016
 image: http://www.jarrettfuller.com/portfolio/images/forgotten-futures_01.jpg
-permalink: /design/forgottenfutures
+permalink: /projects/forgottenfutures
 ---
 
 <div class="responsive-container"><p>

@@ -9,7 +9,7 @@ tags:
 - Posters
 year: 2009–2017
 image: http://www.jarrettfuller.com/portfolio/images/annualreport_16.jpg
-permalink: design/annualreports
+permalink: /projects/annualreports
 ---
 
 <div class="images-left">

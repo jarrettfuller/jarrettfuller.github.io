@@ -7,7 +7,7 @@ tags:
 - Photography
 year: 2013-2015
 image: https://c1.staticflickr.com/1/684/21839307342_753946d9ef_h.jpg
-permalink: photography/concerts
+permalink: /projects/concerts
 
 ---
 

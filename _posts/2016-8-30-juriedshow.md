@@ -10,7 +10,7 @@ tags:
 - Print
 year: 2016
 image: http://www.jarrettfuller.com/portfolio/images/juried-show-book_03.jpg
-permalink: /design/juriedshow
+permalink: /projects/juriedshow
 ---
 
 <div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/juriedshow_01.jpg"></div>

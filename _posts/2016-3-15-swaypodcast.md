@@ -9,7 +9,7 @@ tags:
 - Dialogue
 year: 2014-2016
 image: http://www.jarrettfuller.com/portfolio/images/sway-podcast-01.png
-permalink: /design/swaypodcast
+permalink: /projects/swaypodcast
 ---
 
 <img src="http://www.jarrettfuller.com/portfolio/images/sway-podcast-01.png">

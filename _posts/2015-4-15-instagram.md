@@ -10,7 +10,7 @@ tags:
 - Print
 year: 2015
 image: http://www.jarrettfuller.com/portfolio/images/ig_05.jpg
-permalink: /design/instagram
+permalink: /projects/instagram
 ---
 
 <img src="http://www.jarrettfuller.com/portfolio/images/ig_01.jpg">

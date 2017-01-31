@@ -7,7 +7,7 @@ tags:
 - Typography
 year: 2011
 image: http://www.jarrettfuller.com/portfolio/images/fuller_2.jpg
-permalink: design/fullerdisplay
+permalink: /projects/fullerdisplay
 ---
 
 <img src="http://www.jarrettfuller.com/portfolio/images/fuller_1.jpg">
