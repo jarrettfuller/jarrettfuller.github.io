@@ -1,9 +1,9 @@
 ---
 layout: image
 title: Sway Podcast
-category: Podcast
+tags: Podcast
 discription: From 2014 – 2016, Rory King and I co-hosted the Sway Podcast. In each episode, we discussed current issues in graphic design as well as larger themes around design criticism, education, and working as a young designer. We recorded 21 episodes, all of which are still available on the Sway site as well as iTunes.
-tags:
+categories:
 - Podcast
 - Criticism
 - Dialogue

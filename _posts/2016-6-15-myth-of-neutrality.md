@@ -1,8 +1,8 @@
 ---
 layout: text
 title: The Myth of Neutrality
-category: Essay
-discription: 
+tags: Essay
+discription:
 publish: July 2016
 year: 2016
 image: http://www.jarrettfuller.com/portfolio/writing/images/neutrality_crystalgoblet.jpg

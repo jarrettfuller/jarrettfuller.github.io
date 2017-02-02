@@ -35,14 +35,119 @@ layout: default
 .preview a:hover img, .preview a:focus img {
     margin-left: 25%; /*set the image where you want it on hover/focus of anchor*/
 }
-
+.hidden {
+  display: none!important;
+  visibility: hidden!important;
+}
+.blog-tags-list {
+        padding-bottom: 10px;
+        margin: auto;
+        border-top: 1px #ff0000 solid;
+        padding: 15px 50px 15px 50px;
+        width: 100%;
+        width: auto;
+        text-align: center;
+        }
+.blog-tag-item {
+        float: left;
+    padding: 6px;
+    border: 1px black solid;
+    margin-left: 5px;
+    margin-right: 5px;
+        }
         </style>
 </head>
 <body>
 
 <div id="container">
-      {{ content }}
+
+      <ul class="blog-tags-list clearfix">
+          <li class="blog-tag-item"><a href onclick="filter('all'); return false;">All</a></li>
+        {% assign sorted_tags = site.tags | sort %}
+        {% for tag in sorted_tags %}
+          {% assign t = tag | first %}
+          {% assign posts = tag | last %}
+          <li class="blog-tag-item" id="{{ t }}-item">
+            <a href onclick="filter('{{ t }}'); return false;">{{ t }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+
+    <main class="preview">
+
+      <div class="blog-list-container" id="all-container">
+
+          {% for post in site.posts %}
+                           <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="object">
+            <div class="project">{{ post.title }}</div>
+            <div class="type">{{ post.tags }}</div>
+            <div class="year">{{ post.year }}</div>
+        </div>
+            <img src="{{ post.image }}"></a>
+          {% endfor %}
+      </div>
+
+      {% for tag in site.tags %}
+        {% assign t = tag | first %}
+        {% assign posts = tag | last %}
+        <div class="blog-list-container hidden" id="{{ t }}-container">
+
+            {% for post in posts %}
+              {% if post.tags contains t %}
+        <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="object">
+            <div class="project">{{ post.title }}</div>
+            <div class="type">{{ post.tags }}</div>
+            <div class="year">{{ post.year }}</div>
+        </div>
+            <img src="{{ post.image }}"></a>
+              {% endif %}
+            {% endfor %}
+
+        </div>
+      {% endfor %}
+
+        </main>
     </div>
+
+<script>
+
+    function filter(tag) {
+  setActiveTag(tag);
+  showContainer(tag);
+}
+
+function setActiveTag(tag) {
+  // loop through all items and remove active class
+  var items = document.getElementsByClassName('blog-tag-item');
+  for(var i=0; i < items.length; i++) {
+    items[i].setAttribute('class', 'blog-tag-item');
+  }
+
+  // set the selected tag's item to active
+  var item = document.getElementById(tag + '-item');
+  if(item) {
+    item.setAttribute('class', 'blog-tag-item active');
+  }
+}
+
+function showContainer(tag) {
+  // loop through all lists and hide them
+  var lists = document.getElementsByClassName('blog-list-container');
+  for(var i=0; i < lists.length; i++) {
+    lists[i].setAttribute('class', 'blog-list-container hidden');
+  }
+
+  // remove the hidden class from the list corresponding to the selected tag
+  var list = document.getElementById(tag + '-container');
+  if(list) {
+    list.setAttribute('class', 'blog-list-container');
+  }
+}
+
+
+    </script>
 
 </body>
 

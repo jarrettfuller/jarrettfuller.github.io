@@ -1,9 +1,9 @@
 ---
 layout: image
 title: Warby Parker
-category: Design
+tags: Design
 discription: For two years between 2011-2013, I was a designer at Warby Parker, an online eyewear startup in New York City. As a part of the small team, I helped work on all aspects of the company's design, focusing primarily on the e-commerce site, but also special marketing pages, print collateral, and select brand pieces.
-tags:
+categories:
 - Design
 - Interactive
 - Print

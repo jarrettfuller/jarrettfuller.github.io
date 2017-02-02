@@ -1,9 +1,9 @@
 ---
 layout: image
 title: Being God's Medium
-category: Design
+tags: Design
 discription: <I>Being God's Medium</I> is a series of four books that explore Marshall McLuhan's theory that "the medium is the message" and applies that to churches, religious organizations, and faith-based groups. The books feature a mix of design, photography, imagery, words and original content that raise attempt to raise questions about how the modern church is communicating. The entire series served as an experiment in the interplay between original content and imagery in an overall attempt to tell a different type of story.
-tags:
+categories:
 - Book Design
 - Art Direction
 - Writing

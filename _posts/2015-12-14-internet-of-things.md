@@ -1,9 +1,8 @@
 ---
 layout: text
 title: Cars, Fireplaces, Kitches, Computers — Designers and the Internet of Things
-category: Essay
+tags: Essay
 publish: November 2015
-tags:
 year: 2015
 image: http://www.jarrettfuller.com/portfolio/writing/images/iot-playtime.jpg
 permalink: /projects/internet-of-things

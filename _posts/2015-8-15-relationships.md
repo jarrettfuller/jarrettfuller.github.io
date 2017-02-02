@@ -1,9 +1,9 @@
 ---
 layout: image
 title: Relationships
-category: Photography
+tags: Photography
 discription: A series of photos I posted to Instagram during August 2015 to exploring diptychs and relationships between images. I became fascinated with the way two photos, placed side by side, changed how you saw each individually.
-tags:
+categories:
 - Photography
 year: 2015
 image: https://dl.dropboxusercontent.com/u/2003133/site/relationships_05.jpg

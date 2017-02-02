@@ -1,9 +1,9 @@
 ---
 layout: image
 title: Forgotten Futures Museum
-category: Design
+tags: Design
 discription: The Forgotten Futures Museum is a fictional museum I created while a student in MICA’s MFA program. The Forgotten Futures Museum exists to document and archive history’s visions for the future. From flying cars to controlled environments, science fiction films to geodesic domes, the museum remembers the images of the futures that have been forgotten. For the project, I designed the branding and collateral, developed copy, and produced a short trailer to announce the museum’s opening.
-tags:
+categories:
 - Design
 - Branding
 - Content

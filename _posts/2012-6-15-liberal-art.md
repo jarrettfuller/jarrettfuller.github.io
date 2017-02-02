@@ -1,11 +1,10 @@
 ---
 layout: text
 title: Graphic Design as a Liberal Art
-category: Essay
+tags: Essay
 publish: June 2012
-tags:
 year: 2012
-image: 
+image:
 permalink: /projects/liberalart
 ---
 
@@ -57,8 +56,8 @@ permalink: /projects/liberalart
 
 
 <UL><P>
-<LI>Six iPhones.</LI> 
-<LI>Three iPads</LI> 
+<LI>Six iPhones.</LI>
+<LI>Three iPads</LI>
 <LI>Four Kindles</LI>
 <LI>Two Android Phones</LI></P>
 </ul>

@@ -1,9 +1,9 @@
 ---
 layout: image
 title: A Rough Sketch for a Video Essay as Design Criticism
-category: Video Essay
+tags: "Video Essay"
 discription: The video, or film, essay gained popularity in the 1950s and 60s that trades typical narrative plots for themes and investigations. Drawing inspiration from Orson Welles, Charles and Ray Eames, and film critics working today, I explore how the video essay can be used to further design criticism online and bring critical writing about design to different audiences.
-tags:
+categories:
 - Writing
 - Editing
 - Criticism

@@ -1,11 +1,11 @@
 ---
 layout: text
 title: Leaky Containers and Blurry Edges
-category: Essay
-discription: 
+tags: Essay
+discription:
 publish: November 2012
 year: 2012
-image: 
+image:
 permalink: projects/containers
 ---
 
@@ -60,7 +60,7 @@ permalink: projects/containers
 <P>Eventually, all of our reading will be online. For some people, that moment has already arrived. Magazines are slowly moving to exclusively digital content<a id="footnote-4-ref" class="footnote" href="#footnote-4">4</a>. As designers, the greatest task that lies before us is not to try to replicate print, it's not bringing art direction online, it's not to make the reading experience feel like paper&mdash;no matter how hard we try, I'll never smudge the ink with my fingers when reading on my iPad the way I do when reading The New Yorker&mdash;and no, it's not to bring high quality typography to the web.</P>
 
 <P>The greatest challenge for digital content is to give it edges and build containers that we can sift through and finish. <i>Infinite Jest</i> is a lot of text&mdash;a lot of content&mdash;but it isn't unfinishable. I know how deep into it I am and I know how much I have left to go. The narrative structure of Wallace's novel&mdash;as twisting and lengthy as it&mdash;is helped shaped by the edges he has given it. Content needs those edges to shape the narrative, to provide organization and&mdash;gulp&mdash;<i>curation</i>. It can help the content feel consumable and make us feel&mdash;even if just for a moment&mdash;that this stream of information isn't endless. &#10006;</P>
-        
+
 <!--Footnotes -->
 <div class="notes">
 <h4>Notes</h4>
@@ -69,9 +69,9 @@ permalink: projects/containers
 <li><p id="footnote-1">One of my all-time favorite DFW essays, and one I'd recommend if you haven't read much of his work, is <a href="http://www.gourmet.com/magazine/2000s/2004/08/consider_the_lobster"><I>Consider the Lobster</I></A>.  <a href="#footnote-1-ref">&#8617</a></p></li>
 
 <li><p id="footnote-2">We can argue all we want about whether "curating" online, at least in the sense it seems to be thrown around today, is the same as traditional curation but the larger point here is that we are longing for order online and one way we do that is by filling our own containers&mdash;blogs, Tumblrs, Pinterests&mdash;with what we feel is important. We are, in a sense, giving edges to our digital lives. <a href="#footnote-2-ref">&#8617</a></p></li>
-    
+
 <li><p id="footnote-3">If you don't use Flipboard (for both iPad and iPhone) you are missing out. It's my favorite iPad app. Not to mention it employs an interesting job implying edges. <a href="#footnote-3-ref">&#8617</a></p></li>
-    
+
 <li><p id="footnote-4">On January 1, 2013, Newsweek will be a digital only publication. They are not the first magazine to go this way, but they are highest profile publication to abandon print. I imagine a flood to other publications to follow this lead in the next twelve months. <a href="#footnote-4-ref">&#8617</a></p></li>
 </ol>
 <p>Thanks to this <a href="http://www.cnn.com/2012/10/21/opinion/mod-digital-magazines/index.html">CNN.com opinion piece from Craig Mod</A> for helping me crystalize what I'd been thinking about for two months and for <I>many</I> IM conversations with my friend <a href="http://jondicus.com">Jon Dicus</a> about the idea of the container.</p>

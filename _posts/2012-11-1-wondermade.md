@@ -1,9 +1,9 @@
 ---
 layout: image
 title: Wondermade Website
-category: Design
+tags: Design
 discription: Wondermade is a new confectionary in Orlando, FL focused on superior marshmallows in a variety of flavors including blueberry, pumpkin, and Guinness. The company approached me to design an e-commerce site to sell their marshmallows. Working off the existing branding (from <a href="http://theheadsofstate.com/">The Heads of State</A>), we created a fun, textured site that reflects the packaging and echoes the unboxing experiences.
-tags:
+categories:
 - Design
 - Interactive
 - Interface Design

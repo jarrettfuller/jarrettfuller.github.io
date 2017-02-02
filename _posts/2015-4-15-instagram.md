@@ -1,9 +1,9 @@
 ---
 layout: image
 title: Instagram Ads Product Guide
-category: Design
+tags: Design
 discription: To help showcase Instagram's advertising products, I was asked to design a printed product guide that would be delivered to top agencies and clients to highlight video, photo, and carousel ads. The final piece aligns with Instagram's premium branding efforts with heavy paper and special die cuts and foldouts.
-tags:
+categories:
 - Design
 - Art Direction
 - Editorial

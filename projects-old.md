@@ -3,7 +3,7 @@ layout: projects
 title: Projects
 ---
 
-<main class="preview" id="all-container">
+<main class="preview">
   {% for post in site.posts %}
 
         <a href="{{ site.baseurl }}{{ post.url }}">
@@ -15,7 +15,5 @@ title: Projects
             <img src="{{ post.image }}"></a>
 
     {% endfor %}
-
-    </main>
 
 <section class="clear"></section>

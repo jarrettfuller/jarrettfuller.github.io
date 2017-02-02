@@ -1,9 +1,9 @@
 ---
 layout: image
 title: MICA First Year Juried Show
-category: Design
+tags: Design
 discription: Every August, the Maryland Institute College of Art hosts an exhibition showcasing the best work from the graduate program's first year students. In 2016, the exhibition was curated by New York curator Lumi Tan, who I worked with closely to develop a branding and design system for the show that stretched from exhibition design to posters and programs. Because the show was centered around first-year students, we focused on ensuring the design of the show didn't overpower the work, while also acting as a coherent element to tie together an otherwise unrelated group of artists.
-tags:
+categories:
 - Design
 - Art Direction
 - Branding

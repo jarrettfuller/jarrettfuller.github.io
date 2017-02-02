@@ -1,10 +1,10 @@
 ---
 layout: text
 title: What Do We Want from Design Criticism?
-category: Essay
+tags: Essay
 publish: February 2014
 year: 2014
-image: 
+image:
 permalink: /projects/designcrit
 ---
 
