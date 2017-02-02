@@ -1,9 +1,9 @@
 ---
 layout: image
 title: Dharma Initiative Annual Report
-category: Design
+tags: Design
 discription: I had always wanted to do a something to honor ABC hit television show LOST. One part of the show that always fascinated me was the DHARMA Initiative, a fictitious organization steeped in mystery. I thought it'd be interesting to take the mystery surrounding DHARMA and create an annual report for the company.
-tags:
+categories:
 - Design
 - Infographics
 - Print

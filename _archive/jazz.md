@@ -1,9 +1,9 @@
 ---
 layout: image
 title: Don't Get Comfortable Lecture Series
-category: Design
+tags: Design
 discription: Don't Get Comfortable is a hypothetical jazz lecture series I created for my corporate publications course during my senior year of college. For the lectures, a created a series of postcards advertising the five lectures, each honoring a different musician.
-tags:
+categories:
 - Art Direction
 - Branding
 - Book Design

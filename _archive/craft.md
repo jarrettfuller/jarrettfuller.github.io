@@ -1,10 +1,10 @@
 ---
 layout: text
 title: Design and Craft
-category: Essay
+tags: Essay
 publish: August 2016
 year: 2016
-image: 
+image:
 ---
 
 <p><em>“The questions are what motivate the action. The questions, ultimately, are more necessary than the answers.”</em> —<a href="http://www.theatlantic.com/magazine/archive/2016/04/the-return-of-the-black-panther/471516/">Ta-Nehisi Coates</a></p>
