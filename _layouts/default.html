@@ -56,15 +56,20 @@
       {{ content }}
     </div>
 
-        <footer><div class="left"<P>&copy <script language="javascript" type="text/javascript">
+        <footer><div class="left"><p>&copy <script language="javascript" type="text/javascript">
 var today = new Date()
 var year = today.getFullYear()
 document.write(year)
-            </script> Jarrett Fuller.</P></div>
+            </script> Jarrett Fuller.</p></div>
 
     <div class="right"><p><a href="mailto:jarrettfuller@gmail.com">Email</a> | <a href="http://www.twitter.com/jarrettfuller">Twitter</a> | <a href="http://www.instagram.com/jarrettfuller">Instagram</a> | <a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a> | <a href="https://open.spotify.com/user/jarrettfuller/">Spotify</a></p></div>
-
-        <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script></footer>
-
+    </footer>
+        <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+            <script>
+            $(".images .to-top a").click(function(event) {
+                event.preventDefault();
+                $("body,body").animate({scrollTop:$(this.hash).offset().top}, 400);
+            });
+        </script>
     </body>
 </html>
