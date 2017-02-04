@@ -1,5 +1,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-*.psd
-*.ai
+
+# Exclude any PSD/AI source
+#*.psd
+#*.ai
