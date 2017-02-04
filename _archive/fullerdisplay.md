@@ -6,9 +6,9 @@ discription: Fuller Display Light is a decorative typeface based on a few of my 
 categories:
 - Typography
 year: 2011
-image: http://www.jarrettfuller.com/portfolio/images/fuller_2.jpg
+image: /images/projects/fuller_2.jpg
 ---
 
-<img src="http://www.jarrettfuller.com/portfolio/images/fuller_1.jpg">
-<img src="http://www.jarrettfuller.com/portfolio/images/fuller_2.jpg">
-<img src="http://www.jarrettfuller.com/portfolio/images/fuller_3.jpg">
+<img src="/images/projects/fuller_1.jpg">
+<img src="/images/projects/fuller_2.jpg">
+<img src="/images/projects/fuller_3.jpg">

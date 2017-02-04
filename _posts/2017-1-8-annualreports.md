@@ -8,12 +8,12 @@ categories:
 - Data Visualization
 - Posters
 year: 2009–2017
-image: http://www.jarrettfuller.com/portfolio/images/annualreport_16.jpg
+image: /images/projects/annualreport_16.jpg
 permalink: /projects/annualreports
 ---
 
 <div class="images-left">
-             <img src="http://www.jarrettfuller.com/portfolio/images/annualreport_16.jpg">
+             <img src="/images/projects/annualreport_16.jpg">
 <P>&rarr;  <a href="http://www.jarrettfuller.com/extras/annualreport16.htm">View Design Detail</A></P>
             </div>
 

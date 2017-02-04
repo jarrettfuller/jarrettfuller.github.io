@@ -9,18 +9,18 @@ categories:
 - Print
 - Art Direction
 year: 2011
-image: http://www.jarrettfuller.com/portfolio/images/dharma_4.jpg
+image: /images/projects/dharma_4.jpg
 ---
 
-<img src="http://www.jarrettfuller.com/portfolio/images/dharma_1.jpg">
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_2.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_3.jpg"></div>
-<img src="http://www.jarrettfuller.com/portfolio/images/dharma_4.jpg">
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_5.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_6.jpg"></div>
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_7.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_8.jpg"></div>
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_9.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_10.jpg"></div>
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_11.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/dharma_12.jpg"></div>
+<img src="/images/projects/dharma_1.jpg">
+<div class="images-left"><img src="/images/projects/dharma_2.jpg"></div>
+<div class="images-right"><img src="/images/projects/dharma_3.jpg"></div>
+<img src="/images/projects/dharma_4.jpg">
+<div class="images-left"><img src="/images/projects/dharma_5.jpg"></div>
+<div class="images-right"><img src="/images/projects/dharma_6.jpg"></div>
+<div class="images-left"><img src="/images/projects/dharma_7.jpg"></div>
+<div class="images-right"><img src="/images/projects/dharma_8.jpg"></div>
+<div class="images-left"><img src="/images/projects/dharma_9.jpg"></div>
+<div class="images-right"><img src="/images/projects/dharma_10.jpg"></div>
+<div class="images-left"><img src="/images/projects/dharma_11.jpg"></div>
+<div class="images-right"><img src="/images/projects/dharma_12.jpg"></div>

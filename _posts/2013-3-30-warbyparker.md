@@ -9,24 +9,24 @@ categories:
 - Print
 - Branding
 year: 2011-2013
-image: http://www.jarrettfuller.com/portfolio/images/wp_1.jpg
+image: /images/projects/wp_1.jpg
 permalink: /projects/warbyparker
 ---
 
-<img src="http://www.jarrettfuller.com/portfolio/images/wp_1.jpg">
+<img src="/images/projects/wp_1.jpg">
 
 <div class="images-right">
 <p>&uarr; &uarr; Warby Parker's mission is to provide high quality, designer eyewear for under $100. For every pair of glasses purchased, they distribute a pair to someone in need. The company is a pioneer in selling glasses online, primarily through their website.</p></div>
 <section class="clear"></section>
 
-<img src="http://www.jarrettfuller.com/portfolio/images/wp_2.jpg">
-<img src="http://www.jarrettfuller.com/portfolio/images/wp_3.jpg">
+<img src="/images/projects/wp_2.jpg">
+<img src="/images/projects/wp_3.jpg">
 
 <div class="images-right">
 <p>&uarr; In addition to work on the website, I also worked on packaging and print collateral.</p></div>
 <section class="clear"></section>
 
-<img src="http://www.jarrettfuller.com/portfolio/images/wp_4.jpg">
-<img src="http://www.jarrettfuller.com/portfolio/images/wp_5.jpg">
+<img src="/images/projects/wp_4.jpg">
+<img src="/images/projects/wp_5.jpg">
 <div class="images-right">
 <p>&uarr; To promote a collaboration frame with non-profit Invisible Children, I designed this billboard that was projected on to screens in Times Square.</p></div>

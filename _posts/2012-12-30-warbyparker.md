@@ -9,16 +9,16 @@ categories:
 - Interactive
 - Branding
 year: 2012
-image: http://www.jarrettfuller.com/portfolio/images/wp_2012_4.jpg
+image: /images/projects/wp_2012_4.jpg
 permalink: /projects/warbyparker12
 ---
 
-<img src="http://www.jarrettfuller.com/portfolio/images/wp_2012_1.jpg">
+<img src="/images/projects/wp_2012_1.jpg">
 
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/wp_2012_2.jpg"></div>
+<div class="images-left"><img src="/images/projects/wp_2012_2.jpg"></div>
 
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/wp_2012_3.jpg">
+<div class="images-right"><img src="/images/projects/wp_2012_3.jpg">
 <p>&uarr; "If Warby Parker's delightfully twee annual report was a person, it'd be Zooey Deschanel." —<a href="">TIME</A></p></div>
 <section class="clear"></section>
 
-<img src="http://www.jarrettfuller.com/portfolio/images/wp_2012_4.jpg">
+<img src="/images/projects/wp_2012_4.jpg">

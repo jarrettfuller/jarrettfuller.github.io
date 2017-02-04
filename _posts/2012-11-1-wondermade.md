@@ -8,9 +8,9 @@ categories:
 - Interactive
 - Interface Design
 year: 2012
-image: http://www.jarrettfuller.com/portfolio/images/wondermade_2.jpg
+image: /images/projects/wondermade_2.jpg
 permalink: /projects/wondermade
 ---
 
-<img src="http://www.jarrettfuller.com/portfolio/images/wondermade_1.jpg">
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/wondermade_2.jpg"></div><div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/wondermade_3.jpg"></div>
+<img src="/images/projects/wondermade_1.jpg">
+<div class="images-left"><img src="/images/projects/wondermade_2.jpg"></div><div class="images-right"><img src="/images/projects/wondermade_3.jpg"></div>

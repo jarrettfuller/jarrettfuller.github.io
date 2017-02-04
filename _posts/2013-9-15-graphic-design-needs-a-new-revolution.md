@@ -2,15 +2,15 @@
 layout: text
 title: Graphic Design Needs a New Revolution
 tags: Essay
-discription: 
+discription:
 publish: September 2013
 year: 2013
-image: http://www.jarrettfuller.com/portfolio/writing/images/revolution_cover.jpg
+image: /images/projects/revolution_cover.jpg
 permalink: projects/revolution
 ---
 
-<figure><img src="http://www.jarrettfuller.com/portfolio/writing/images/revolution_cover.jpg"></figure>
-                
+<figure><img src="/images/projects/revolution_cover.jpg"></figure>
+
 <blockquote><p>"Every generation needs a new revolution." &mdash;Thomas Jefferson</p></blockquote>
 
 
@@ -18,7 +18,7 @@ permalink: projects/revolution
 
 <p>Around the same time, a surfer-turned-designer in southern California named David Carson started designing the alternative arts and music magazine <em>Ray Gun</em>. Never formally trained in design, Carson used desktop publishing programs to experiment with typography and layouts that matched the irreverance of the magazine's content, including the now-famous article he set entirely in Dingbat. Looking at Carson and others' emerging style built around this freedom the computer provided, Steven Heller wrote a scathing piece for Eye Magazine titled <a href="http://www.eyemagazine.com/feature/article/cult-of-the-ugly"><em>The Cult of Ugly</em></a> where he wrote this new work had a "self-indulgence that informs some of the worst experimental fine art." </p>
 
-<p><img src="http://www.jarrettfuller.com/portfolio/writing/images/revolution_dingbat.jpg"></p>
+<p><img src="/images/projects/revolution_dingbat.jpg"></p>
 
 <p>However, within that "experimentatal fine art", new styles and aesthetics emerged and changed the way designers thought about their work. Along with Rick Valicenti, Rudy Vanderlans and Emigre, Carson helped introduce a generation to a new kind of expressive typography, building upon the New Wave designers that came before them. They used technology and pushed the medium forward. In a <a href="http://www.thedailybeast.com/newsweek/1996/02/25/the-font-of-youth.html">feature profile</a>, Newsweek said Carson "changed the public face of design."</p>
 
@@ -30,7 +30,7 @@ permalink: projects/revolution
 
 <p>In December 2012, The New York Times published an epic, multimedia feature story called <a href="http://www.nytimes.com/projects/2012/snow-fall/?_r=0#/?part=tunnel-creek"><em>Snow Fall</em></a>. Mixing text, video, photography, and sound, the piece broke from the Times&#39; standard template to provide, as the Time&#39;s executive editor Jill Abramson called it, &quot;a wildly new reading experience.&quot; In <a href="http://jimromenesko.com/2012/12/27/more-than-3-5-million-page-views-for-nyts-snow-fall/">a letter to the newsroom</a>, Abramson wrote, "Rarely have we been able to create a compelling destination outside the home page that was so engaging in such a short period of time on the Web." </p>
 
-<p><img src="http://www.jarrettfuller.com/portfolio/writing/images/revolution_snowfall.jpg"></p>
+<p><img src="/images/projects/revolution_snowfall.jpg"></p>
 
 <p>In a digital culture where the innovative can lose its significance and popularity in a matter of days, six months later designers were still talking about <em>Snow Fall</em>. This, designers declared boldly, was the future of digital storytelling. To some, <a href="http://www.capitalnewyork.com/article/media/2013/05/8529791/times-editor-jill-abramson-likes-snowfalling-lot-better-native-adverti">it had even become a verb</a>:</p>
 
