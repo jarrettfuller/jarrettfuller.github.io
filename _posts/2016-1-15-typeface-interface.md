@@ -5,11 +5,11 @@ tags: Essay
 discription:
 publish: January 2016
 year: 2016
-image: http://www.jarrettfuller.com/portfolio/writing/images/type_metafont.JPG
+image: /images/projects/type_metafont.jpg
 permalink: /projects/typeface
 ---
 
-<img src="http://www.jarrettfuller.com/portfolio/writing/images/type_metafont.JPG">
+<img src="/images/projects/type_metafont.JPG">
 
 <p><em>“Fonts need to be edited just as carefully as texts do—and may need to be reedited, like texts, when their circumstances change. The editing of fonts, like the editing of texts, begin before their birth and never ends.”</em> —Robert Bringhurst</p>
 

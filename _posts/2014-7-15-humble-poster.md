@@ -2,10 +2,10 @@
 layout: text
 title: The Humble Poster
 tags: Essay
-discription: 
+discription:
 publish: July 2014
 year: 2014
-image: 
+image: /images/projects/posters.png
 permalink: /projects/poster
 ---
 
@@ -49,7 +49,7 @@ permalink: /projects/poster
 <p>In his essay, <i><a href="http://www.walkerart.org/magazine/2011/the-persistence-of-posters">The Persistence of Posters</A></i>, Andrew Blauvelt writes, “The poster persists not on the basis of its useful value as a device to reach the masses but on its aesthetic and symbolic value.” We use it to teach and to learn, to communicate to commemorate. It’s both content and form. It’s art and design, for the public and for the gallery. It’s one of the first things we learn how to design. It is so simple. It is everything.</p>
 
 <p>Sometimes when I’m asked what I design, I find myself unable to articulate everything I do. And then I think back to my younger self, just starting to design, and I can’t help but answer with the humble, enduring poster. &#10006;</p>
-    
+
 <!--Footnotes -->
 <div class="notes">
 <h4>Notes</h4>
@@ -58,7 +58,7 @@ permalink: /projects/poster
 <li><p id="footnote-1">The obvious exception were my four web design courses. <a href="#footnote-1-ref">&#8617</a></p></li>
 
 <li><p id="footnote-2">I find it fascinating that we’ve adopted the word “post” for the way we share information online—blog posts, post to Twitter or Facebook, Craigslist post. Despite the new medium, the purpose hasn’t changed: we still post public notices to reach a larger population of people we’d ordinarily be unable to communicate with. <a href="#footnote-2-ref">&#8617</a></p></li>
-    
+
 <li><p id="footnote-3">In a talk on posters at RISD, Andrew Blauvelt was asked what the poster is online and he responded “the gif.”. <a href="#footnote-3-ref">&#8617</a></p></li>
 </ol>
 </div>

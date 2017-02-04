@@ -10,7 +10,7 @@ categories:
 - Video
 - Motion
 year: 2016
-image:
+image: /images/projects/rough-sketch.jpg
 permalink: /projects/roughsketch
 ---
 

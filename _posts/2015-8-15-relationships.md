@@ -6,17 +6,17 @@ discription: A series of photos I posted to Instagram during August 2015 to expl
 categories:
 - Photography
 year: 2015
-image: https://dl.dropboxusercontent.com/u/2003133/site/relationships_05.jpg
+image: /images/projects/relationships_05.jpg
 permalink: /projects/relationships
 
 ---
 
 
-<img src="https://dl.dropboxusercontent.com/u/2003133/site/relationships_01.jpg">
-<img src="https://dl.dropboxusercontent.com/u/2003133/site/relationships_02.jpg">
-<img src="https://dl.dropboxusercontent.com/u/2003133/site/relationships_03.jpg">
-<img src="https://dl.dropboxusercontent.com/u/2003133/site/relationships_04.jpg">
-<img src="https://dl.dropboxusercontent.com/u/2003133/site/relationships_05.jpg">
-<img src="https://dl.dropboxusercontent.com/u/2003133/site/relationships_06.jpg">
-<img src="https://dl.dropboxusercontent.com/u/2003133/site/relationships_07.jpg">
-<img src="https://dl.dropboxusercontent.com/u/2003133/site/relationships_08.jpg">
+<img src="/images/projects/relationships_01.jpg">
+<img src="/images/projects/relationships_02.jpg">
+<img src="/images/projects/relationships_03.jpg">
+<img src="/images/projects/relationships_04.jpg">
+<img src="/images/projects/relationships_05.jpg">
+<img src="/images/projects/relationships_06.jpg">
+<img src="/images/projects/relationships_07.jpg">
+<img src="/images/projects/relationships_08.jpg">

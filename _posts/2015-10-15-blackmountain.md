@@ -8,26 +8,26 @@ categories:
 - Art Direction
 - Editing
 year: 2015
-image: http://www.jarrettfuller.com/portfolio/images/black-mountain_05.jpg
+image: /images/projects/black-mountain_05.jpg
 permalink: /projects/blackmountain
 
 ---
 
-<img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_01.jpg">
+<img src="/images/projects/black-mountain_01.jpg">
 
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_02.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_03.jpg"></div>
+<div class="images-left"><img src="/images/projects/black-mountain_02.jpg"></div>
+<div class="images-right"><img src="/images/projects/black-mountain_03.jpg"></div>
 
-<img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_04.jpg">
-<img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_05.jpg">
+<img src="/images/projects/black-mountain_04.jpg">
+<img src="/images/projects/black-mountain_05.jpg">
 
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_06.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_07.jpg"></div>
+<div class="images-left"><img src="/images/projects/black-mountain_06.jpg"></div>
+<div class="images-right"><img src="/images/projects/black-mountain_07.jpg"></div>
 
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_09.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_08.jpg"></div>
+<div class="images-left"><img src="/images/projects/black-mountain_09.jpg"></div>
+<div class="images-right"><img src="/images/projects/black-mountain_08.jpg"></div>
 
-<img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_10.jpg">
+<img src="/images/projects/black-mountain_10.jpg">
 
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_11.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/black-mountain_12.jpg"></div>
+<div class="images-left"><img src="/images/projects/black-mountain_11.jpg"></div>
+<div class="images-right"><img src="/images/projects/black-mountain_12.jpg"></div>

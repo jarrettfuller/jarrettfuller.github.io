@@ -4,7 +4,7 @@ title: Branding as Nationalism
 tags: Research
 publish: October 2015
 year: 2015
-image:
+image: /images/projects/monoco_06.jpg
 ---
 
 <p>Branding has reached the far edges of culture. No longer a field  just for the designer, everyone wants in on branding. It’s taught in <a href="http://www8.gsb.columbia.edu/courses/mba/2015/spring/b8660-001">business schools</a>, there are <a href="http://www.fastcompany.com/1768997/personal-branding-why-you-need-coach">personal brand coaches</a> and <a href="https://www.youtube.com/watch?v=MYJz4okRpUk">celebrities now want to be brands</a>. When Bill Clinton was asked why Donald Trump was doing so well in the polls, he responded: “he’s a master brander.” Branding has become the way we rate and rank what we consume and how we interact but it’s also started to blur the lines between company, person, nation. Everything, and everyone, is a brand—further separation isn’t necessary.</p>
@@ -50,29 +50,29 @@ image:
 </div>
 
 <div class="images clearfix">
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/monaco_01.jpg/"></div>
-<div class="images-right"><img src="../images/monaco_02.jpg"></div>
+<div class="images-left"><img src="/images/projects/monaco_01.jpg"></div>
+<div class="images-right"><img src="/images/projects/monaco_02.jpg"></div>
 <section class="clear"></section>
 
-<img src="http://www.jarrettfuller.com/portfolio/images/monaco_03.jpg">
+<img src="/images/projects/monaco_03.jpg">
 <div class="images-right"><p>&uarr; Inspired by the pattern in the country seal, we’ve repeated the diamond pattern to create an elegant monogram that connotes luxury, elegance, and refinement.</p></div>
 <section class="clear"></section>
 
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/monaco_04.jpg"><p>&uarr; The four diamonds represent Monaco’s four states. The monogram changes
+<div class="images-left"><img src="/images/projects/monaco_04.jpg"><p>&uarr; The four diamonds represent Monaco’s four states. The monogram changes
 locations depending on which state is being represented, moving West to East.</p></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/monaco_05.jpg"><p>&uarr; From government branches to cultural institutions, each department
+<div class="images-right"><img src="/images/projects/monaco_05.jpg"><p>&uarr; From government branches to cultural institutions, each department
 gets named below the monogram.</p></div>
 <section class="clear"></section>
 
-<img src="http://www.jarrettfuller.com/portfolio/images/monaco_06.jpg">
+<img src="/images/projects/monaco_06.jpg">
 <div class="images-right"><p>&uarr; Monaco’s flag is the oldest design in the world. The updated design keeps
 the original proportions and colors but simplifies and modernizes it for a
 new generation.</p></div>
 <section class="clear"></section>
 
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/monaco_07.jpg"><p>&uarr; <b>Monaco – Monte Carlo Station Exterior Signage</b>: The large windows feature interchangeable graphics that can include general
+<div class="images-left"><img src="/images/projects/monaco_07.jpg"><p>&uarr; <b>Monaco – Monte Carlo Station Exterior Signage</b>: The large windows feature interchangeable graphics that can include general
 environmental branding, promote seasonal events, and public art projects.</p></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/monaco_08.jpg"></div>
+<div class="images-right"><img src="/images/projects/monaco_08.jpg"></div>
 <section class="clear"></section>
-<img src="http://www.jarrettfuller.com/portfolio/images/monaco_09.jpg">
+<img src="/images/projects/monaco_09.jpg">
 <div class="images-right"><p>&uarr; <b>Monaco – Monte Carlo Station Interior Signage</b>: Interior and evironmental signage promotes the country as well as upcoming events like ballets, plays, and concerts.</p></div>

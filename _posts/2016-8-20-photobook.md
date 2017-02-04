@@ -9,14 +9,14 @@ categories:
 - Publishing
 - Print
 year: 2016
-image: http://www.jarrettfuller.com/portfolio/images/photo-book_04.jpg
+image: /images/projects/photo-book_04.jpg
 permalink: /projects/newyork
 ---
 
-<img src="http://www.jarrettfuller.com/portfolio/images/photo-book_01.jpg">
-<img src="http://www.jarrettfuller.com/portfolio/images/photo-book_02.jpg">
-<img src="http://www.jarrettfuller.com/portfolio/images/photo-book_03.jpg">
-<div class="images-left"><img src="http://www.jarrettfuller.com/portfolio/images/photo-book_06.jpg"></div>
-<div class="images-right"><img src="http://www.jarrettfuller.com/portfolio/images/photo-book_07.jpg"></div>
-<img src="http://www.jarrettfuller.com/portfolio/images/photo-book_04.jpg">
-<img src="http://www.jarrettfuller.com/portfolio/images/photo-book_05.jpg">
+<img src="/images/projects/photo-book_01.jpg">
+<img src="/images/projects/photo-book_02.jpg">
+<img src="/images/projects/photo-book_03.jpg">
+<div class="images-left"><img src="/images/projects/photo-book_06.jpg"></div>
+<div class="images-right"><img src="/images/projects/photo-book_07.jpg"></div>
+<img src="/images/projects/photo-book_04.jpg">
+<img src="/images/projects/photo-book_05.jpg">
