@@ -5,7 +5,7 @@ tags: Essay
 discription:
 publish: November 2012
 year: 2012
-image:
+image: /images/projects/edges.jpg
 permalink: projects/containers
 ---
 
