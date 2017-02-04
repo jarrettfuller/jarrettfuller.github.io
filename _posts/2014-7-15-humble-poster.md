@@ -55,10 +55,10 @@ permalink: /projects/poster
 <h4>Notes</h4>
 
 <ol>
-<li><p id="footnote-1">The obvious exception were my four web design courses. <a href="#footnote-1-ref">&#8617</a></p></li>
+<li><p id="footnote-1">The obvious exception were my four web design courses. <a href="#footnote-1-ref">↩</a></p></li>
 
-<li><p id="footnote-2">I find it fascinating that we’ve adopted the word “post” for the way we share information online—blog posts, post to Twitter or Facebook, Craigslist post. Despite the new medium, the purpose hasn’t changed: we still post public notices to reach a larger population of people we’d ordinarily be unable to communicate with. <a href="#footnote-2-ref">&#8617</a></p></li>
+<li><p id="footnote-2">I find it fascinating that we’ve adopted the word “post” for the way we share information online—blog posts, post to Twitter or Facebook, Craigslist post. Despite the new medium, the purpose hasn’t changed: we still post public notices to reach a larger population of people we’d ordinarily be unable to communicate with. <a href="#footnote-2-ref">↩</a></p></li>
 
-<li><p id="footnote-3">In a talk on posters at RISD, Andrew Blauvelt was asked what the poster is online and he responded “the gif.”. <a href="#footnote-3-ref">&#8617</a></p></li>
+<li><p id="footnote-3">In a talk on posters at RISD, Andrew Blauvelt was asked what the poster is online and he responded “the gif.”. <a href="#footnote-3-ref">↩</a></p></li>
 </ol>
 </div>

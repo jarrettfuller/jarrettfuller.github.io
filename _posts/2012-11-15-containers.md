@@ -66,13 +66,13 @@ permalink: projects/containers
 <h4>Notes</h4>
 
 <ol>
-<li><p id="footnote-1">One of my all-time favorite DFW essays, and one I'd recommend if you haven't read much of his work, is <a href="http://www.gourmet.com/magazine/2000s/2004/08/consider_the_lobster"><I>Consider the Lobster</I></A>.  <a href="#footnote-1-ref">&#8617</a></p></li>
+<li><p id="footnote-1">One of my all-time favorite DFW essays, and one I'd recommend if you haven't read much of his work, is <a href="http://www.gourmet.com/magazine/2000s/2004/08/consider_the_lobster"><I>Consider the Lobster</I></A>.  <a href="#footnote-1-ref">↩</a></p></li>
 
-<li><p id="footnote-2">We can argue all we want about whether "curating" online, at least in the sense it seems to be thrown around today, is the same as traditional curation but the larger point here is that we are longing for order online and one way we do that is by filling our own containers&mdash;blogs, Tumblrs, Pinterests&mdash;with what we feel is important. We are, in a sense, giving edges to our digital lives. <a href="#footnote-2-ref">&#8617</a></p></li>
+<li><p id="footnote-2">We can argue all we want about whether "curating" online, at least in the sense it seems to be thrown around today, is the same as traditional curation but the larger point here is that we are longing for order online and one way we do that is by filling our own containers&mdash;blogs, Tumblrs, Pinterests&mdash;with what we feel is important. We are, in a sense, giving edges to our digital lives. <a href="#footnote-2-ref">↩</a></p></li>
 
-<li><p id="footnote-3">If you don't use Flipboard (for both iPad and iPhone) you are missing out. It's my favorite iPad app. Not to mention it employs an interesting job implying edges. <a href="#footnote-3-ref">&#8617</a></p></li>
+<li><p id="footnote-3">If you don't use Flipboard (for both iPad and iPhone) you are missing out. It's my favorite iPad app. Not to mention it employs an interesting job implying edges. <a href="#footnote-3-ref">↩</a></p></li>
 
-<li><p id="footnote-4">On January 1, 2013, Newsweek will be a digital only publication. They are not the first magazine to go this way, but they are highest profile publication to abandon print. I imagine a flood to other publications to follow this lead in the next twelve months. <a href="#footnote-4-ref">&#8617</a></p></li>
+<li><p id="footnote-4">On January 1, 2013, Newsweek will be a digital only publication. They are not the first magazine to go this way, but they are highest profile publication to abandon print. I imagine a flood to other publications to follow this lead in the next twelve months. <a href="#footnote-4-ref">↩</a></p></li>
 </ol>
 <p>Thanks to this <a href="http://www.cnn.com/2012/10/21/opinion/mod-digital-magazines/index.html">CNN.com opinion piece from Craig Mod</A> for helping me crystalize what I'd been thinking about for two months and for <I>many</I> IM conversations with my friend <a href="http://jondicus.com">Jon Dicus</a> about the idea of the container.</p>
 </div>

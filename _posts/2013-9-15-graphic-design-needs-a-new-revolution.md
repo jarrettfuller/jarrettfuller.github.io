@@ -68,9 +68,9 @@ permalink: projects/revolution
 <h4>Notes</h4>
 
 <ol>
-<li><p id="footnote-1">Republished in <a href="http://www.amazon.com/Tibor-Kalman-Perverse-Michael-Bierut/dp/1568981503/ref=sr_sp-atf_title_1_2?ie=UTF8&amp;qid=1378671823&amp;sr=8-2&amp;keywords=tibor+kalman"><em>Tibor</em></a>, a wonderful monograph of Tibor's work. <a href="#footnote-1-ref">&#8617</a></p></li>
+<li><p id="footnote-1">Republished in <a href="http://www.amazon.com/Tibor-Kalman-Perverse-Michael-Bierut/dp/1568981503/ref=sr_sp-atf_title_1_2?ie=UTF8&amp;qid=1378671823&amp;sr=8-2&amp;keywords=tibor+kalman"><em>Tibor</em></a>, a wonderful monograph of Tibor's work. <a href="#footnote-1-ref">↩</a></p></li>
 
-<li><p id="footnote-2">Republished in <a href="http://www.amazon.com/Looking-Closer-Critical-Writings-Graphic/dp/1880559153/ref=sr_sp-atf_title_1_1?ie=UTF8&amp;qid=1378671846&amp;sr=8-1&amp;keywords=looking+closer+critical+writings+on+graphic+design"><em>Looking Closer: Critical Writings on Graphic Design</em></a>. <a href="#footnote-2-ref">&#8617</a></p></li>
+<li><p id="footnote-2">Republished in <a href="http://www.amazon.com/Looking-Closer-Critical-Writings-Graphic/dp/1880559153/ref=sr_sp-atf_title_1_1?ie=UTF8&amp;qid=1378671846&amp;sr=8-1&amp;keywords=looking+closer+critical+writings+on+graphic+design"><em>Looking Closer: Critical Writings on Graphic Design</em></a>. <a href="#footnote-2-ref">↩</a></p></li>
 </ol>
 <p><i>Special thanks to Nicole Fenton, Rory King, Kareem Shaya, and Jon Dicus for reading early versions of this essay in Editorially. It is a better piece because their invaluable feedback.</i></p>
 </div>

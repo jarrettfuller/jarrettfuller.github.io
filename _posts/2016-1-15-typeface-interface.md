@@ -72,8 +72,8 @@ permalink: /projects/typeface
 <div class="notes">
 <h4>Notes</h4>
 <ol>
-<li><p id="footnote-1">I learned about Bonsiepe’s work in the exhibition catalog for the 2013 show <em>All Possible Futures</em>, organized by Jon Sueda in San Francisco. <a href="#footnote-1-ref">&#8617</a></p></li>
+<li><p id="footnote-1">I learned about Bonsiepe’s work in the exhibition catalog for the 2013 show <em>All Possible Futures</em>, organized by Jon Sueda in San Francisco. <a href="#footnote-1-ref">↩</a></p></li>
 
-<li><p id="footnote-2">Although I wouldn’t be surprised if they start using it in marketing material as well. They are using San Francisco in the word marks for the Apple Watch and Apple Music but the rest of their new marketing, website, and advertising still use Myriad. <a href="#footnote-2-ref">&#8617</a></p></li>
+<li><p id="footnote-2">Although I wouldn’t be surprised if they start using it in marketing material as well. They are using San Francisco in the word marks for the Apple Watch and Apple Music but the rest of their new marketing, website, and advertising still use Myriad. <a href="#footnote-2-ref">↩</a></p></li>
 </ol>
 </div>

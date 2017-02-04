@@ -37,8 +37,8 @@ permalink: /projects/internet-of-things
 <h4>Notes</h4>
 
 <ol>
-<li><p id="footnote-1">The architecture critic Paul Goldberger actually <a href="https://www.youtube.com/watch?v=YiSl0gVfLrw">interviewed Koolhaas and Fadel</a> together on stage about the exhibition at Vanity Fair's New Establishment Summit. <a href="#footnote-1-ref">&#8617</a></p></li>
+<li><p id="footnote-1">The architecture critic Paul Goldberger actually <a href="https://www.youtube.com/watch?v=YiSl0gVfLrw">interviewed Koolhaas and Fadel</a> together on stage about the exhibition at Vanity Fair's New Establishment Summit. <a href="#footnote-1-ref">↩</a></p></li>
 
-<li><p id="footnote-2"><a href="http://www.amazon.com/Epic-Struggle-Internet-Things-ebook/dp/B00N7EKIJ4/ref=sr_1_1?ie=UTF8&qid=1449021607&sr=8-1&keywords=the+epic+struggle+of+the+internet+of+things"><i>The Epic Struggle of the Internet of Things</i></a> is a Kindle Single Sterling wrote for Strelka Press last year. <a href="#footnote-2-ref">&#8617</a></p></li>
+<li><p id="footnote-2"><a href="http://www.amazon.com/Epic-Struggle-Internet-Things-ebook/dp/B00N7EKIJ4/ref=sr_1_1?ie=UTF8&qid=1449021607&sr=8-1&keywords=the+epic+struggle+of+the+internet+of+things"><i>The Epic Struggle of the Internet of Things</i></a> is a Kindle Single Sterling wrote for Strelka Press last year. <a href="#footnote-2-ref">↩</a></p></li>
 </ol>
 </div>
