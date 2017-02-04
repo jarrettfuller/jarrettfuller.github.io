@@ -12,4 +12,5 @@ image: /images/projects/sts-2.png
 permalink: /projects/podcast
 ---
 
+<img src="/images/projects/sts-1.png">
 <img src="/images/projects/sts-2.png">
