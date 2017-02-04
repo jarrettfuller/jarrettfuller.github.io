@@ -5,11 +5,11 @@ tags: Essay
 discription:
 publish: July 2016
 year: 2016
-image: http://www.jarrettfuller.com/portfolio/writing/images/neutrality_crystalgoblet.jpg
+image: /images/projects/neutrality_crystalgoblet.jpg
 permalink: /projects/neutrality
 ---
 
-<img src="http://www.jarrettfuller.com/portfolio/writing/images/neutrality_crystalgoblet.jpg">
+<img src="/images/projects/neutrality_crystalgoblet.jpg">
 
 <p>“You have two goblets before you.”</p>
 

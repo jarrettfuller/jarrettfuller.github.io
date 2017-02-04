@@ -42,9 +42,9 @@ permalink: projects/containers
 <P>In May, Readiblity launched <a href="http://readlists.com">Readlists</A>, a simple tool that allows users to group sets of online essays into bundled ebooks that they can send to their Kindle or iPad – packaging collected essays into an easily digestible container. And then in July, <a href="http://weblog.muledesign.com/2012/07/evening_edition.php">Mule Design</A> released <a href="http://evening-edition.com">Evening Edition</A>&mdash;"the perfect commute-sized way to catch up on the day's news"&mdash;a simple site that collects the top stories of the day and updates every evening at 5pm with summaries of the top events. It's a digital publication that operates like a print publication: scheduled releases, a packaged container, defined edges: <i>Here's what's worth reading today.</i></P>
 
 <p>
-<img src="http://www.jarrettfuller.com/portfolio/writing/images/containers_iphone_readlists.jpg" width="30%">
-<img src="http://www.jarrettfuller.com/portfolio/writing/images/containers_iphone_ee.jpg" width="30%">
-<img src="http://www.jarrettfuller.com/portfolio/writing/images/containers_iphone_magazine.jpg" width="30%">
+<img src="/images/projects/containers_iphone_readlists.jpg" width="30%">
+<img src="/images/projects/containers_iphone_ee.jpg" width="30%">
+<img src="/images/projects/containers_iphone_magazine.jpg" width="30%">
 </p>
 
 <P>Marco Arment of Instapaper recently launched <a href="http://www.marco.org/2012/10/11/the-magazine">The Magazine</A>, an iOS app in the form of a weekly technology publication. There is no art direction or theme, just text. The Magazine is interesting because it feels like reading a blog post in Instapaper, except the articles you're reading are preselected. And once you're done, you have to wait until the next issue. It's a digital publication&mdash;and has everything we expect from today's digital publications&mdash;but it's packaged into a container, delivered to me each week like print publication.</P>
