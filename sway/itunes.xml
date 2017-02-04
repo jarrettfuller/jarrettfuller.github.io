@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+          <!-- unless stated all information for your site need to go between <> and </> -->
+
+         <!-- PUT THE NAME OF YOUR PODCAST SITE HERE -->
+         <title>Sway Podcast</title>
+
+        <!-- PLACE A BRIEF DESCRIPTION OF YOUR SITE HERE -->
+        <description>With weekly themes as its foundation, Sway researches, curates, discourses, envisions, and art directs the upcoming and current trends of visual communication. Its editors are based in the Lehigh Valley and San Francisco.</description>
+
+        <!-- PLACE THE URL LINK TO YOUR SITE WITH HTTP:// -->
+        <link>http://this-is-sway.tumblr.com</link>
+
+        <!-- NAME OF COPYRIGHT HOLDER -->
+        <copyright>Jarrett Fuller and Rory King</copyright>
+
+        <!-- USEFUL HELP SITE WHEN YOU FORGET CODE -->
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+       <!-- WHAT LANGUAGE (this is englsh) -->
+       <language>en-gb</language>
+
+        <!-- DATE YOU BUILT THIS PODCAST -->
+        <lastBuildDate>Thu, 27 Feb 2014 08:00:00 EST</lastBuildDate>
+
+        <!-- date you published the site -->
+        <pubDate>Thu, 27 Feb 2014 08:00:00 EST</pubDate>
+
+        <!-- bespoke i tunes code -->
+
+         <!-- put in a subtitle for your site -->
+        <itunes:subtitle>A podcast about design.</itunes:subtitle>
+
+         <!-- main text that will describe your site in your podcast -->
+         <itunes:summary>With weekly themes as its foundation, Sway researches, curates, discourses, envisions, and art directs the upcoming and current trends of visual communication. Its editors are based in the Lehigh Valley and San Francisco.</itunes:summary>
+
+         <!-- what catagory decribes you, choose a few -->
+         <itunes:category text="Design"/>
+        <itunes:category text="Art"/>
+
+         <!-- key word to help search, comma between each word -->
+         <itunes:keywords>graphic design, design, art, criticism, design criticism</itunes:keywords>
+
+         <!-- author name -->
+         <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+         <!-- details of who runs this site -->
+         <itunes:owner>
+
+            <!--  your main email account so they can contact you if there is a problem -->
+             <itunes:email>sway.talk@gmail.com</itunes:email>
+
+            <!--  contact name -->
+             <itunes:name>Jarrett and Rory</itunes:name>
+
+        <!--  close owner section -->
+            </itunes:owner>
+
+       <!--  location of image to be used on your site, href="http://..........." location on your web server -->
+       <itunes:image  />
+
+        <!--  explicit - yes/no -->
+        <itunes:explicit>no</itunes:explicit>
+
+
+        <!--  episode content, new item for each eposode to be loaded -->
+        <item>
+
+            <!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+
+            <!--  tilte of your episode -->
+            <title>Episode 1: Processing the Process</title>
+
+            <!--  description of the episode -->
+            <description>In the first episode of the Sway Podcast, a discussion about design philosophies leads into how to think critically about your design process and then making your process a part of the design. By looking at design as a vessel that needs to be filled with content, we discuss the idea of design being a tool and a lens through which to explore the world and develop a point of view. This is all wrapped in some thoughts on design education and we talk about ideas of how to teach students to think about their work as more than strictly visual.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_1.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_1.mp3" length="43:51" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_1.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Thu, 27 Feb 2014  08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>In the first episode of the Sway Podcast, a discussion about design philosophies leads into how to think critically about your design process and then making your process a part of the design. By looking at design as a vessel that needs to be filled with content, we discuss the idea of design being a tool and a lens through which to explore the world and develop a point of view. This is all wrapped in some thoughts on design education and we talk about ideas of how to teach students to think about their work as more than strictly visual.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>43:51</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+
+
+         <item>
+
+            <!-- 2 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 2: Barbara Walters in Photoshop interviewing Saddam Huissein</title>
+
+            <!--  description of the episode -->
+            <description>In the second episode of the Sway Podcast, we talk about Squarespace and the rise of DIY design tools and what the democratization of design means for designers and the profession at large. A discussion on the redesign of Newsweek’s website leads to some thoughts on the idea of "designer as journalist" and what we can learn from journalism to make ourselves better designers. Once again, we close the episode with some more ideas for design education and using Lars von Trier and Jørgen Leth’s film The Five Obstructions as a framework for a new type of assignment.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_2.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_2.mp3" length="1:11:06" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_2.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Wed, 05 Mar 2014  08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>In the second episode of the Sway Podcast, we talk about Squarespace and the rise of DIY design tools and what the democratization of design means for designers and the profession at large. A discussion on the redesign of Newsweek’s website leads to some thoughts on the idea of "designer as journalist" and what we can learn from journalism to make ourselves better designers. Once again, we close the episode with some more ideas for design education and using Lars von Trier and Jørgen Leth’s film The Five Obstructions as a framework for a new type of assignment.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:11:06</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, DIY, education, web design</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+
+
+         <item>
+
+            <!-- 3 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 3: I’m sorry, this is about to get very meta</title>
+
+            <!--  description of the episode -->
+            <description>After a quick follow up on The Five Obstructions, we jump into a conversation about how to insert ourselves into the design discussion and whether or not we have anything valuable to add and if we are even worth being heard. This leads to a conversation about diversifying the content we consume and how the internet has turned publishing into a level playing field. The second half of the episode revolves around the separation between professional and personal work and the false divisions we put up around our work.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_3.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_3.mp3" length="55:27" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_3.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Sun, 30 Mar 2014  08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>After a quick follow up on The Five Obstructions, we jump into a conversation about how to insert ourselves into the design discussion and whether or not we have anything valuable to add and if we are even worth being heard. This leads to a conversation about diversifying the content we consume and how the internet has turned publishing into a level playing field. The second half of the episode revolves around the separation between professional and personal work and the false divisions we put up around our work.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>55:27</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+
+
+         <item>
+
+            <!-- 4 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 4: Whatever the hell his name is</title>
+
+            <!--  description of the episode -->
+            <description>In this episode, we spend a lot of time talking about the new 2014 edition of the First Things First manifesto. We compare it to the 1964 and 2000 versions and how we approach it different now that we are working designers. This leads to a discussion on our personal manifestos and the things we value in our own practices. We wrap up this episode comparing the design and science disciplines, using Anthony Bourdain and Neil deGrasse Tyson as examples for a hypothetical television show that can teach the public about visual culture.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_4.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_4.mp3" length="1:03:41" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_4.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Tue, 01 Apr 2014  08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>In this episode, we spend a lot of time talking about the new 2014 edition of the First Things First manifesto. We compare it to the 1964 and 2000 versions and how we approach it different now that we are working designers. This leads to a discussion on our personal manifestos and the things we value in our own practices. We wrap up this episode comparing the design and science disciplines, using Anthony Bourdain and Neil deGrasse Tyson as examples for a hypothetical television show that can teach the public about visual culture.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:03:41</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+
+
+
+         <item>
+
+            <!-- 5 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 5: I feel like a creep</title>
+
+            <!--  description of the episode -->
+            <description>Inspired by the last episode’s discussion on manifestos and our guiding design principles, we use this episode to talk about the one piece of design that has had the most influence on our own practices and was fundamental in shaping our view of design. Rory talks about Tibor Kalman’s lecture Good History/Bad History and how that has guided his thinking on process, aesthetics, and design history. Then Jarrett talks about how Project Projects’s identity for SALT showed him that design was much bigger than he originally thought and how one can use design to foster your own interests.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_5.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_5.mp3" length="1:04:26" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_5.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Tue, 22 Apr 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>Inspired by the last episode’s discussion on manifestos and our guiding design principles, we use this episode to talk about the one piece of design that has had the most influence on our own practices and was fundamental in shaping our view of design. Rory talks about Tibor Kalman’s lecture Good History/Bad History and how that has guided his thinking on process, aesthetics, and design history. Then Jarrett talks about how Project Projects’s identity for SALT showed him that design was much bigger than he originally thought and how one can use design to foster your own interests.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:04:26</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+
+
+
+         <item>
+
+            <!-- 6 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 6: The Five Obstructions</title>
+
+            <!--  description of the episode -->
+            <description>We spend this episode reflecting on our recently completed Five Obstructions project. We talk about our favorite weeks, the hardest part of the project, and how we approached each week’s obstructions. In addition to talking about what we learned and the challenges we faced throughout the project, we look at how this would translate to a class assignment and the value of working within constraints for design students.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_6.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_6.mp3" length="1:17:32" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_6.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Sat, 10 May 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>We spend this episode reflecting on our recently completed Five Obstructions project. We talk about our favorite weeks, the hardest part of the project, and how we approached each week’s obstructions. In addition to talking about what we learned and the challenges we faced throughout the project, we look at how this would translate to a class assignment and the value of working within constraints for design students.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:17:32</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, design fiction, the five obstructions, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+       <item>
+
+            <!-- 7 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 7: Design looks like a joke</title>
+
+            <!--  description of the episode -->
+            <description>We open this episode reflecting on Massimo Vignelli's death and the influence he had on our work through the years. This leads to a discussion on how the internet has changed our approach to design and how we view a design's longevity. We spend the second half of the episode discussing the public face of graphic design and the how we communicate the value of our profession to those who no nothing about design.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_7.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_7.mp3" length="1:02:13" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_7.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Tue, 3 Jun 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>We open this episode reflecting on Massimo Vignelli's death and the influence he had on our work through the years. This leads to a discussion on how the internet has changed our approach to design and how we view a design's longevity. We spend the second half of the episode discussing the public face of graphic design and the how we communicate the value of our profession to those who no nothing about design.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:02:13</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, design fiction, the five obstructions, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+               <item>
+
+            <!-- 8 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 8: I have those emotional breakdowns, too</title>
+
+            <!--  description of the episode -->
+            <description>In an emotionally charged episode, Rory kicks it off talking about the Group Material monograph, Show and Tell, that leads to a discussion on art and design and how to define them. The conversation meanders through a variety of topics including the public’s perception of graphic design, the idea of multiple publics, who design is for, and what is the goal of our work. The episode wraps up with both of us reflecting on why we find design so interesting in the first place and some thoughts on why we started Sway a year ago. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_8.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_8.mp3" length="1:15:19" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_8.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Mon, 23 Jun 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>In an emotionally charged episode, Rory kicks it off talking about the Group Material monograph, Show and Tell, that leads to a discussion on art and design and how to define them. The conversation meanders through a variety of topics including the public’s perception of graphic design, the idea of multiple publics, who design is for, and what is the goal of our work. The episode wraps up with both of us reflecting on why we find design so interesting in the first place and some thoughts on why we started Sway a year ago. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:15:19</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, design fiction, the five obstructions, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+        <item>
+
+            <!-- 9 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 9: It doesn't have a penguin; it doesn't have randomness; and it doesn't have a house</title>
+
+            <!--  description of the episode -->
+            <description>In this episode, we critique the new identities for Cooper Hewitt and the Philadelphia Museum of Art, both designed by Pentagram, and the growing trend of designing evolving logo systems. Looking back and looking ahead, we speculate about the future of the identity design and remember some of our favorite logos of recent years.  This all wraps up with a debate on clever versus smart work and what type of work we want to do. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_09.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_09.mp3" length="1:03:56" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_09.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Wed, 23 Jul 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>In this episode, we critique the new identities for Cooper Hewitt and the Philadelphia Museum of Art, both designed by Pentagram, and the growing trend of designing evolving logo systems. Looking back and looking ahead, we speculate about the future of the identity design and remember some of our favorite logos of recent years.  This all wraps up with a debate on clever versus smart work and what type of work we want to do. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:03:56</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, design fiction, the five obstructions, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+                <item>
+
+            <!-- 10 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 10: Thoughts or Comments?</title>
+
+            <!--  description of the episode -->
+            <description>Just back from Typography Summer School in New York City, Rory rants about graphic design culture which leads to the idea of amateurism within the profession and how an outsider perspective can lead to open experimentation and unusual results. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_10.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_10.mp3" length="1:01:08" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_10.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Mon, 11 Aug 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>Just back from Typography Summer School in New York City, Rory rants about graphic design culture which leads to the idea of amateurism within the profession and how an outsider perspective can lead to open experimentation and unusual results. [Editor’s Note: this podcast was an outlet to help me build a framework for an essay I am writing about design culture and amateurism. Some comments in this episode should be taken with a grain of salt. —Rory] Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:01:08</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+                        <item>
+
+            <!-- 11 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 11: I'm just trying to sound philosophical now</title>
+
+            <!--  description of the episode -->
+            <description>Rory has a flash of inspiration while drinking lemonade at dinner so we jump on a call to talk about design education and the advantages of teaching design in a broad sense—ignoring typography and layout and color and focusing on thinking, ideas, and process while looking outside the field. We then question if a course like this could benefit more than just designers and whether graphic design could be seen as a liberal art. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_11.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_11.mp3" length="44:43" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_11.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Tue, 19 Aug 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>Rory has a flash of inspiration while drinking lemonade at dinner so we jump on a call to talk about design education and the advantages of teaching design in a broad sense—ignoring typography and layout and color and focusing on thinking, ideas, and process while looking outside the field. We then question if a course like this could benefit more than just designers and whether graphic design could be seen as a liberal art. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>44:43</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+                        <item>
+
+        <!-- 12 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 12: I'd rather go to McDonald's and have it my way than go to the Rubin and sit in the corner</title>
+
+            <!--  description of the episode -->
+            <description>After a summer hiatus, we're back with a new episode on video and how motion fits into graphic design. Looking at the short teaser 2x4 created for the new identity they created for the Rubin Museum, we look at the idea of teaser videos for logos, video as a medium, and how bad content will never lead towards good design. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_12.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_12.mp3" length="40:52" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_12.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Sun, 02 Nov 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>After a summer hiatus, we're back with a new episode on video and how motion fits into graphic design. Looking at the short teaser 2x4 created for the new identity they created for the Rubin Museum, we look at the idea of teaser videos for logos, video as a medium, and how bad content will never lead towards good design. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>40:52</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+                        <item>
+
+        <!-- 13 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 13: There are lots of amazing giant peirogies now</title>
+
+            <!--  description of the episode -->
+            <description>We’re joined by our former professor Josh Miller for a great conversation on design education, how web design fits into modern curriculums, what students should learn while in school, trends, and what we hope to see within design education in the future. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_13.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_13.mp3" length="1:06:07" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_13.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Mon, 10 Nov 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>We’re joined by our former professor Josh Miller for a great conversation on design education, how web design fits into modern curriculums, what students should learn while in school, trends, and what we hope to see within design education in the future. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:06:07</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+                                <item>
+
+        <!-- 14 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 14: I just hit keys until things sound good.</title>
+
+            <!--  description of the episode -->
+            <description>For the final episode of the year, we want to take time to talk about the things that aren't design that inspire us and influence our work. We discuss the work of Hans Ulrich Obrist, Brian Eno, Wes Anderson, and more. This leads to a discussion on journalism and the importance of designers being good citizens. We end the episode talking about our frustrations with design conferences and discussions and why we don't care what font you typeset your t-shirt graphics in. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_14.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_14.mp3" length="56:20" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_14.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Sun, 14 Dec 2014 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>For the final episode of the year, we want to take time to talk about the things that aren't design that inspire us and influence our work. We discuss the work of Hans Ulrich Obrist, Brian Eno, Wes Anderson, and more. This leads to a discussion on journalism and the importance of designers being informed citizens. We end the episode talking about our frustrations with design conferences and discussions and why we don't care what font you typeset your t-shirt graphics in. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>56:20</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+                                        <item>
+
+        <!-- 15 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 15: Uncataloged</title>
+
+            <!--  description of the episode -->
+            <description>Recorded in January 2015, this is a short conversation we had about archiving. We discuss a New Yorker article on the Internet Archive, how we save digital work for future generations, and who gets to decide what is worth saving. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway-Zinecast-01.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway-Zinecast-01.mp3" length="34:52" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway-Zinecast-01.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Wed, 15 Apr 2015 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>Recorded in January 2015, this is a short conversation we had about archiving. We discuss a New Yorker article on the Internet Archive, how we save digital work for future generations, and who gets to decide what is worth saving. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>34:52</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+                                                <item>
+
+        <!-- 16 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 16: The Term is Dead, Part 1</title>
+
+            <!--  description of the episode -->
+            <description>In this episode, we look at the current state of graphic design: what is it and what is it for? Using a recent Rem Koolhaas exhibition as our guide, we wonder what the future of graphic design looks like and what we can learn from it’s history. Jarrett questions whether graphic design as we knew it is actually dying while Rory sees a new type of design emerging. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_16.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_16.mp3" length="58:10" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_16.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Tue, 28 Apr 2015 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>In this episode, we look at the current state of graphic design: what is it and what is it for? Using a recent Rem Koolhaas exhibition as our guide, we wonder what the future of graphic design looks like and what we can learn from it’s history. Jarrett questions whether graphic design as we knew it is actually dying while Rory sees a new type of design emerging. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>58:10</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+        <item>
+
+        <!-- 17 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 17: The Term is Dead, Part 2</title>
+
+            <!--  description of the episode -->
+            <description>After a few weeks of reflecting and writing, we return with some answers to the question of if graphic design is still a good term for everything we do. We look at each of our essays and offer some examples of how the field as a whole can be open and ready for the changes in the field and the world. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_17.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_17.mp3" length="1:06:13" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_17.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Mon, 18 May 2015 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>After a few weeks of reflecting and writing, we return with some answers to the question of if graphic design is still a good term for everything we do. We look at each of our essays and offer some examples of how the field as a whole can be open and ready for the changes in the field and the world. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:06:13</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+                <item>
+
+        <!-- 18 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 18: We were touched by Paul Rand's ghost</title>
+
+            <!--  description of the episode -->
+            <description>In this episode, we are joined by designer and educator Mitch Goldstein to talk about thinking versus making, theorist versus practitioner, and critic versus designer. Mitch shares his origin story, how he started teaching, and what he hopes to impart on his students that lead into a discussion on how labels and words sometimes get in the way of the work we’re supposed to be doing. We wrap up with some thoughts on design education and the value moving beyond Comic Sans jokes. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_18.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_18.mp3" length="1:45:26" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_18.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Sat, 13 Jun 2015 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>In this episode, we are joined by designer and educator Mitch Goldstein to talk about thinking versus making, theorist versus practitioner, and critic versus designer. Mitch shares his origin story, how he started teaching, and what he hopes to impart on his students that lead into a discussion on how labels and words sometimes get in the way of the work we’re supposed to be doing. We wrap up with some thoughts on design education and the value moving beyond Comic Sans jokes. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>1:45:26</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+   <item>
+
+        <!-- 19 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 19: Nothing but naked women</title>
+
+            <!--  description of the episode -->
+            <description>This episode starts with two questions: what happened to all the good design blogs and how has social media changed graphic design culture? This leads to a discussion about how to find inspiration, stay current on design trends, and be inspired by things you don’t like. We wrap everything up by sharing some of our favorite blogs to follow on Tumblr. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_19.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_19.mp3" length="48:17" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_19.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Sat, 08 Aug 2015 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>This episode starts with two questions: what happened to all the good design blogs and how has social media changed graphic design culture? This leads to a discussion about how to find inspiration, stay current on design trends, and be inspired by things you don’t like. We wrap everything up by sharing some of our favorite blogs to follow on Tumblr. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>48:17</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+           <item>
+
+        <!-- 20 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 20: I want to see designers fighting!</title>
+
+            <!--  description of the episode -->
+            <description>In this episode we critique the critics. We look at the articles about Google's new logo and try to figure out what's missing in current design criticism. By looking at history and imagining the future, we debate the role of the critic and what types of criticism we'd love to see and make. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_20.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_20.mp3" length="49:24" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_20.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Mon, 08 Sep 2015 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>In this episode we critique the critics. We look at the articles about Google's new logo and try to figure out what's missing in current design criticism. By looking at history and imagining the future, we debate the role of the critic and what types of criticism we'd love to see and make. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>49:24</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+                   <item>
+
+        <!-- 21 -->
+
+            <!--  tilte of your episode -->
+            <title>Episode 21: Quite frankly, I don't know what they're expecting</title>
+
+            <!--  description of the episode -->
+            <description>After a long haitus, we are back with a new episode about the pros and cons of working in-house. We look at our own careers and the work we’ve done and how our opinions of in-house design jobs have changed since graduating. Links from this episode are available at this-is-sway.tumblr.com.</description>
+
+            <!--  Link to the file on your web server http://.......... -->
+            <link>http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_21.mp3</link>
+
+            <!--  location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+            <enclosure url="http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_21.mp3" length="50:05" type="audio/mp3"  ></enclosure>
+
+            <!--  location of your file on the web server -->
+            <guid isPermaLink="true">http://rorykingetc.com/SWAY_PODCAST/Sway_Episode_21.mp3</guid>
+
+            <!--  published date and time -->
+            <pubDate>Sun, 10 Apr 2016 08:00:00 EST</pubDate>
+
+            <!--  Subtitle of your episode -->
+            <itunes:subtitle></itunes:subtitle>
+
+            <!--  summary of your episode -->
+            <itunes:summary>After a long haitus, we are back with a new episode about the pros and cons of working in-house. We look at our own careers and the work we’ve done and how our opinions of in-house design jobs have changed since graduating. Links from this episode are available at this-is-sway.tumblr.com.</itunes:summary>
+
+            <!--  length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+            <itunes:duration>50:05</itunes:duration>
+
+            <!--  keyword for this episode, to help searching -->
+            <itunes:keywords>graphic design, design, art, criticism, design criticism, education</itunes:keywords>
+
+            <!--  author of the episode -->
+            <itunes:author>Jarrett Fuller and Rory King</itunes:author>
+
+            <!--  is this episode explicit or not, yes/no -->
+            <itunes:explicit>no</itunes:explicit>
+
+        <!--  close this episode, copy <item> for new episode -->
+        </item>
+
+
+
+<!--  close whole channel information, end of podcast -->
+    </channel>
+
+<!--  close rss feed -->
+</rss>
+
+<!--  save the file as .xml -->
+<!--  FTP this to your server, tell itunes where the file is located and your podcast will be live in a day or two once Apple have given it a quick check -->
+ <!-- enjoy, Chris Linford, www.chrislinford.co.uk -->

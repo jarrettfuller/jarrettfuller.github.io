@@ -14,37 +14,37 @@ permalink: /projects/annualreports
 
 <div class="images-left">
              <img src="/images/projects/annualreport_16.jpg">
-<P>&rarr;  <a href="http://www.jarrettfuller.com/extras/annualreport16.htm">View Design Detail</A></P>
+<P>&rarr;  <a href="/extras/annualreport_16.html">View Design Detail</A></P>
             </div>
 
 <div class="images-right">
-             <img src="http://www.jarrettfuller.com/extras/15annualreport.jpg">
-<P>&rarr;  <a href="http://www.jarrettfuller.com/extras/annualreport15.htm">View Design Detail</A></P>
+             <img src="/images/projects/annualreport_15.jpg">
+<P>&rarr;  <a href="/extras/annualreport_15.html">View Design Detail</A></P>
             </div>
 <section class="clear"></section>
 
 <div class="images-left">
-             <img src="http://www.jarrettfuller.com/extras/14annualreport_web.jpg">
-<P>&rarr;  <a href="http://www.jarrettfuller.com/extras/annualreport14.htm">View Design Detail</A></P>
+             <img src="/images/projects/annualreport_14.jpg">
+<P>&rarr;  <a href="/extras/annualreport_14.html">View Design Detail</A></P>
             </div>
 
-<div class="images-right"><img src="http://www.jarrettfuller.com/extras/13annualreport_web.jpg">
-<P> &rarr; <a href="http://www.jarrettfuller.com/extras/annualreport13.htm">View Design Detail</A></P></div>
+<div class="images-right"><img src="/images/projects/annualreport_13.jpg">
+<P> &rarr; <a href="/extras/annualreport_13.html">View Design Detail</A></P></div>
 <section class="clear"></section>
 
 <div class="images-left">
-<img src="http://www.jarrettfuller.com/extras/12annualreport.jpg">
-<P>&rarr; <a href="http://www.jarrettfuller.com/extras/annualreport12.htm" class="visit">View Design Detail</A></P>
+<img src="/images/projects/annualreport_12.jpg">
+<P>&rarr; <a href="/extras/annualreport_12.html" class="visit">View Design Detail</A></P>
             </div>
 
-<div class="images-right"><img src="http://www.jarrettfuller.com/extras/11annualreport.jpg">
-<P>&rarr; <a href="http://www.jarrettfuller.com/extras/annualreport11.htm" class="visit">View Design Detail</A></P></div>
+<div class="images-right"><img src="/images/projects/annualreport_11.jpg">
+<P>&rarr; <a href="/extras/annualreport_11.html" class="visit">View Design Detail</A></P></div>
 <section class="clear"></section>
 
 <div class="images-left">
-<img src="http://www.jarrettfuller.com/extras/annualreport2010.jpg">
-<P>&rarr; <a href="http://www.jarrettfuller.com/extras/annualreport10.htm" class="visit">View Design Detail</A></P>
+<img src="/images/projects/annualreport_10.jpg">
+<P>&rarr; <a href="/extras/annualreport_10.html" class="visit">View Design Detail</A></P>
             </div>
 
-<div class="images-right"><img src="http://www.jarrettfuller.com/extras/annualreport.jpg">
-<P>&rarr; <a href="http://www.jarrettfuller.com/extras/annualreport.htm" class="visit">View Design Detail</A></P></div>
+<div class="images-right"><img src="/images/projects/annualreport_09.jpg">
+<P>&rarr; <a href="/extras/annualreport_09.html" class="visit">View Design Detail</A></P></div>

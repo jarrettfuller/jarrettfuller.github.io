@@ -2,7 +2,7 @@
 layout: text
 title: A Workshop with Soso Limited
 tags: Workshop
-discription: 
+discription:
 categories:
 year: 2016
 image: https://40.media.tumblr.com/c6cc1925340955c15f9ee62c6cfc41e6/tumblr_inline_o3410aRMV51qzwy5u_1280.jpg
@@ -32,7 +32,7 @@ permalink: /projects/soso
 <p>Once settling on that topic, I used Soso’s tool to pull the data of every state. I had fifty CSV files for how often each state was mentioned in each year’s report which I used to plot on separate graphs. With my interest piqued, I then dropped this data into another file to extrapolate more information such what year  mentioned the most states, what president talked about individual states the most (or which one the least) what was the first state ever mentioned in a State of the Union. I also did some extra research to find correlations between events at the time that may have led to spikes in mentions or frequent references in individual speeches. With all this data, it was time to organize it all into a poster.</p>
 
 <figure><img src="https://40.media.tumblr.com/c6cc1925340955c15f9ee62c6cfc41e6/tumblr_inline_o3410aRMV51qzwy5u_1280.jpg">
-<figcaption><a href="http://www.jarrettfuller.com/extras/sotu.html">You can see a high res version of my visualization here.</a></figcaption>
+<figcaption><a href="/extras/soso.html">You can see a high res version of my visualization here.</a></figcaption>
 </figure>
 
 <p>The design critic Mr. <a href="http://perpetualbeta.vcfa.edu/2016/02/17/huh-28-an-interview-with-mr-keedy/">Keedy coined the term <i>infauxmation graphics</i></a>, which are graphics that appear to show data through visualizations or use the traditional tools of an information designer (charts, numbers, tables) but in reality obstruct the story and are purely visual. I didn’t want my poster to fall in this category. I wanted it to be accurate, clear, and quickly convey the story I was telling. Time moves horizontally across the poster with each state moving down the vertical axis. Zoom in and you can see individual states with annotations for peaks, valleys, and tertiary information such as when states joined the union or last mention. Zoom out and you can see trends in the data: presidents don’t mentions states as often, some states are mentioned in more addresses, etc. Across the bottom of the poster, I pulled out some relevant statistics I found fascinating: James Polk mentioned individual states the most, 1848 was the year the most states were mentioned, George Washington mentioned North Carolina in the second sentence of his first State of the Union.</p>
