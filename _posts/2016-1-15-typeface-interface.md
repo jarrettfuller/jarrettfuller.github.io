@@ -5,7 +5,7 @@ tags: Essay
 discription:
 publish: January 2016
 year: 2016
-image: /images/projects/type_metafont.jpg
+image: /images/projects/type_metafont.JPG
 permalink: /projects/typeface
 ---
 

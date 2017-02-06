@@ -48,13 +48,33 @@ layout: default
         width: auto;
         text-align: center;
         }
+.blog-tags-list a:hover {
+            color: #ff0000;
+        }
 .blog-tag-item {
         float: left;
     padding: 10px;
     border: 1px black solid;
-        border-radius: 5px;
     margin-left: 5px;
     margin-right: 5px;
+        }
+        .blog-tag-item:first-child {
+            margin-left: 0px;
+        }
+.blog-tag-item:hover {
+    border-color: #ff0000;
+        }
+.blog-tag-item a:hover {
+    text-decoration: none;
+      border-bottom: 0px solid red;
+    color: #ff0000;
+        }
+@media only screen and (max-width: 1024px) {
+    .blog-tag-item {
+        padding: 7px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
         }
         </style>
 </head>
@@ -63,14 +83,14 @@ layout: default
 <div id="container">
 
       <ul class="blog-tags-list clearfix">
-          <li class="blog-tag-item"><a href onclick="filter('all'); return false;">All</a></li>
+          <a href onclick="filter('all'); return false;"><li class="blog-tag-item">All</li></a>
         {% assign sorted_tags = site.tags | sort %}
         {% for tag in sorted_tags %}
           {% assign t = tag | first %}
           {% assign posts = tag | last %}
-          <li class="blog-tag-item" id="{{ t }}-item">
-            <a href onclick="filter('{{ t }}'); return false;">{{ t }}</a>
-          </li>
+          <a href onclick="filter('{{ t }}'); return false;"><li class="blog-tag-item" id="{{ t }}-item">
+            {{ t }}
+          </li></a>
         {% endfor %}
       </ul>
 
