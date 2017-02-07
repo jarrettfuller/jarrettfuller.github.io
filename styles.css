@@ -493,23 +493,35 @@ TABLET
     padding-right: 0px;
       width: 100%;
   }
+ .images p {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
   .images img {
     padding-top: 0px;
     padding-bottom: 0px;
   }
   .images-left {
     width: 100%;
-    padding: 0px;
+    padding-left: 25px;
+      padding-right: 25px;
   }
   .images-right {
     width: 100%;
-    padding: 0px;
+    padding-left: 25px;
+      padding-right: 25px;
   }
   .images p {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
     padding-top: 5px;
+    margin-bottom: 5px;
   }
+.images-left p,
+    .images-right p {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
   /* PROFILE */
   .profile {
     display: -webkit-flex;
@@ -553,6 +565,9 @@ TABLET
   article {
     font-size: 18px;
   }
+    article a {
+        font-size: 18px;
+    }
   article blockquote {
     border-left: none;
     padding-left: 1em;
