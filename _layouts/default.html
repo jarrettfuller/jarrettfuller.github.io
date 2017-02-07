@@ -41,7 +41,7 @@
         </style>
 
     </head>
-    <body>
+    <body id="top">
         <header><h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <nav><ul>
                 <li><a href="{{ site.baseurl }}/about">About</a></li>
@@ -65,7 +65,7 @@ document.write(year)
     <div class="right"><p><a href="mailto:jarrettfuller@gmail.com">Email</a> | <a href="http://www.twitter.com/jarrettfuller">Twitter</a> | <a href="http://www.instagram.com/jarrettfuller">Instagram</a> | <a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a> | <a href="https://open.spotify.com/user/jarrettfuller/">Spotify</a></p></div>
     </footer>
         <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-            <script>
+                <script>
             $(".images .to-top a").click(function(event) {
                 event.preventDefault();
                 $("body,body").animate({scrollTop:$(this.hash).offset().top}, 400);

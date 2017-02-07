@@ -11,6 +11,14 @@ year: 2009–2017
 image: /images/projects/annualreport_16.jpg
 permalink: /projects/annualreports
 ---
+<head>
+<style type="text/css">
+img {
+border: 1px solid grey;
+}
+</style>
+
+</head>
 
 <div class="images-left">
              <img src="/images/projects/annualreport_16.jpg">
