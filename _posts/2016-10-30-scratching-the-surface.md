@@ -13,4 +13,6 @@ permalink: /projects/podcast
 ---
 
 <img src="/images/projects/sts-1.png">
+<div class="images-right"><p>&uarr; All episodes are archives on the site, <a href="http://www.scratchingthesurface.fm">scratchingthesurface.fm</a></p></div>
+<section class="clear"></section>
 <img src="/images/projects/sts-2.png">

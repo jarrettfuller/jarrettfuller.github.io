@@ -13,6 +13,8 @@ permalink: /projects/swaypodcast
 ---
 
 <img src="/images/projects/sway-podcast-01.png">
+<div class="images-right"><p>&uarr; The Sway archives are all available on <a href="http://this-is-sway.tumblr.com">Tumblr</a>.</p></div>
+<section class="clear"></section>
 <img src="/images/projects/sway-podcast-02.png">
 <div class="images-right"><p>&uarr; All the episodes are still available to download in <a href="https://itunes.apple.com/us/podcast/sway-podcast/id884376713?mt=2">iTunes</A>.</p>
 </div>
