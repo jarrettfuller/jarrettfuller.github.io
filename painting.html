@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Jarrett Fuller Painting</title>
+        <meta name="viewport" content="width=device-width">
+        <meta charset="UTF-8">
+<style type="text/css">
+    * {
+        padding: 0px;
+        margin: 0px;
+        font-family: Helvetica, Arial, sans-serif;
+        box-sizing: border-box;
+    }
+    .cover {
+        width: 100%;
+        min-height: vh100;
+        background-image: url(images/extras/painting/cover.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 95vh
+    }
+    .top-nav {
+        width: 100%;
+        padding: 10px;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 24px;
+    }
+    .top-nav a {
+        color: white;
+        text-decoration: none;
+    }
+    .top-nav a:hover {
+        border-bottom: 5px red solid
+    }
+    h1 {
+        color: #ffffff;
+        font-size: 100px;
+        text-align: center;
+        padding-top: 35vh;
+        letter-spacing: -2px;
+        text-transform: uppercase;
+    }
+    h2 {
+        padding-top: 20px;
+        text-transform: uppercase;
+        font-size: 20px;
+        text-align: center;
+    }
+    .painting {
+        width: 100%;
+        height: 100vh;
+        padding: 50px;
+    }
+    .image {
+        width: 80%;
+        height: 80vh;
+        margin: auto;
+    }
+    .image img {
+        max-width: 100%;
+        max-height: 100%;
+        text-align: center;
+    }
+    .about {
+        background-color: black;
+        height: 100vh;
+    }
+
+        </style>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="jquery/jquery.fullPage.js"></script>
+    <script type="text/javascript" src="jquery/examples.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#fullpage').fullpage({
+
+
+            });
+        });
+    </script>
+
+    </head>
+    <body>
+
+<div id="fullpage">
+    <div class="section" id="section1">
+        <div class="cover">
+            <div class="top-nav">
+                <a href="index.html">⌂</a>
+                <a href="index.html">✉</a>
+            </div>
+                <h1>Jarrett Fuller</h1>
+            <div class="arrow"></div>
+        </div>
+    </div>
+
+    <div class="section" id="section2">
+<div class="painting">
+        <div class="image"><img src="images/extras/painting/01.jpg"></div>
+        <h2>Painting 1</h2>
+        </div>
+    </div>
+
+        <div class="section" id="section3">
+<div class="painting">
+        <div class="image"><img src="images/extras/painting/02.jpg"></div>
+        <h2>Painting 2</h2>
+        </div>
+    </div>
+
+            <div class="section" id="section4">
+<div class="painting">
+        <div class="image"><img src="images/extras/painting/03.jpg"></div>
+        <h2>Painting 3</h2>
+        </div>
+    </div>
+
+            <div class="section" id="section5">
+<div class="painting">
+        <div class="image"><img src="images/extras/painting/04.jpg"></div>
+        <h2>Painting 4</h2>
+        </div>
+    </div>
+
+            <div class="section" id="section6">
+<div class="painting">
+        <div class="image"><img src="images/extras/painting/05.jpg"></div>
+        <h2>Painting 5</h2>
+        </div>
+    </div>
+
+                <div class="section" id="section7">
+<div class="about">
+        <h2>Jarrett Fuller</h2>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>
