@@ -17,21 +17,26 @@
         background-image: url(images/extras/painting/cover.jpg);
         background-size: cover;
         background-position: center;
-        height: 95vh
+        height: 98vh
     }
     .top-nav {
         width: 100%;
         padding: 10px;
         font-weight: bold;
         text-transform: uppercase;
-        font-size: 24px;
+        font-size: 20px;
+        display: flex;
     }
     .top-nav a {
         color: white;
         text-decoration: none;
+        flex-grow: 1;
     }
     .top-nav a:hover {
-        border-bottom: 5px red solid
+        color: black;
+    }
+    .right {
+        text-align: right;
     }
     h1 {
         color: #ffffff;
@@ -52,6 +57,12 @@
         height: 100vh;
         padding: 50px;
     }
+    .painting p {
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        color: rgba(0,0,0,.5);
+    }
     .image {
         height: 80vh;
         margin: auto;
@@ -68,10 +79,22 @@
         font-weight: bold;
         font-size: 36px;
     }
+    .about a {
+        color: white;
+        background-image:linear-gradient(to bottom,transparent 70%,#666666 30%);
+        text-decoration: none;
+    }
+    .about a:hover{
+        background-color: #666666;
+    }
     .bio {
         width: 75%;
         float: right;
         padding-left: 50px;
+    }
+    .bio p {
+        padding-top: 12px;
+        padding-bottom: 12px;
     }
     .front-matter {
         width: 25%;
@@ -80,6 +103,9 @@
     }
     .front-matter img {
         width: 100%;
+    }
+    .front-matter li {
+        list-style-type: none;
     }
 
         </style>
@@ -104,8 +130,8 @@
     <div class="section" id="section1">
         <div class="cover">
             <div class="top-nav">
-                <a href="index.html">⌂</a>
-                <a href="index.html">✉</a>
+                <a href="index.html">Home</a>
+                <a href="index.html" class="right">Email</a>
             </div>
                 <h1>Jarrett Fuller</h1>
             <div class="arrow"></div>
@@ -115,50 +141,69 @@
     <div class="section" id="section2">
 <div class="painting">
         <div class="image"><img src="images/extras/painting/01.jpg"></div>
-        <h2>Painting 1</h2>
+        <h2>Agriculture (2013)</h2>
+    <p>24"x36"; oil on canvas</p>
         </div>
     </div>
 
         <div class="section" id="section3">
 <div class="painting">
         <div class="image"><img src="images/extras/painting/02.jpg"></div>
-        <h2>Painting 2</h2>
+        <h2>Painting 2 (2016)</h2>
+        <p>24"x48"; oil/acrylic on canvas</p>
         </div>
     </div>
 
             <div class="section" id="section4">
 <div class="painting">
         <div class="image"><img src="images/extras/painting/03.jpg"></div>
-        <h2>Painting 3</h2>
+        <h2>Midwestern Summer (2013)</h2>
+        <p>24"x36", oil on canvas</p>
         </div>
     </div>
 
             <div class="section" id="section5">
 <div class="painting">
         <div class="image"><img src="images/extras/painting/04.jpg"></div>
-        <h2>Painting 4</h2>
+        <h2>Painting 4 (2017)</h2>
+        <p>12"x9", acrylic on 2 canvases</p>
         </div>
     </div>
 
             <div class="section" id="section6">
 <div class="painting">
         <div class="image"><img src="images/extras/painting/05.jpg"></div>
-        <h2>Painting 5</h2>
+        <h2>Painting 5 (2016)</h2>
+        <p>24"x23", oil on canvas</p>
         </div>
     </div>
 
                 <div class="section" id="section7">
 <div class="painting">
         <div class="image"><img src="images/extras/painting/06.jpg"></div>
-        <h2>Painting 6</h2>
+        <h2>Untitled (2015)</h2>
+        <p>24"x36", oil on canvas</p>
         </div>
     </div>
 
                 <div class="section" id="section7">
 <div class="about">
-    <div class="front-matter"><img src="images/extras/painting/portrait.jpg"></div>
+    <div class="front-matter"><img src="images/extras/painting/portrait.jpg">
+    <ul>
+        <li><a href="/index.html">.design</a></li>
+        <li><a href="http://jarrettfuller.tumblr.com">Blog</a></li>
+        <li><a href="http://jarrettfullerphotography.tumblr.com">Photography</a></li>
+        <li><a href="http://www.twitter.com/jarrettfuller">Twitter</a></li>
+    </ul>
 
-    <div class="bio"><p>Jarrett Fuller is a designer, critic, and podcaster currently based in Baltimore, MD.</p></div>
+    </div>
+
+    <div class="bio"><p>Jarrett Fuller is a designer, critic, and podcaster based in Baltimore, MD.</p>
+
+        <p>He’s currently finishing his MFA in graphic design with a concentration in critical studies from <a href="http://micadesign.org/2015/05/jarrett-fuller/">Maryland Institute College Art</a>, where he also <a href="http://jarrettfuller.com/teaching">teaches</a> in the undergraduate design department; hosts the weekly podcast <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>; and maintains a freelance design practice.</p>
+
+        <p>As a painter, he’s influenced by Gehard Richter, Michael Cina, and Mark Rothko and is interested in texture, color, pattern, and layers.</p>
+    </div>
     </div>
         </div>
     </div>
