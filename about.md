@@ -61,9 +61,9 @@ permalink: /about/
 
                 <h4>PDF Downloads</h4>
                 <p><ul>
-                    <li><a href="https://dl.dropboxusercontent.com/u/2003133/site/jarrettfuller_commercial-portfolio.pdf">Commercial Portfolio</a></li>
-                    <li><a href="https://dl.dropboxusercontent.com/u/2003133/site/jarrettfuller_personal-portfolio.pdf">Personal Portfolio</a></li>
-                    <li><a href="https://dl.dropboxusercontent.com/u/2003133/site/jarrettfuller-resume.pdf">Resume</a></li>
+                    <li><a href="/extras/jarrettfuller_commercial-portfolio.pdf">Commercial Portfolio</a></li>
+                    <li><a href="/extras/jarrettfuller_personal-portfolio.pdf">Personal Portfolio</a></li>
+                    <li><a href="/extras/jarrettfuller-resume.pdf">Resume</a></li>
                     </ul>
                 </p>
         </sidebar>
