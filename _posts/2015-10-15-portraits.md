@@ -26,3 +26,6 @@ permalink: /projects/portraits
 <div class="images-right"><img src="https://c2.staticflickr.com/6/5798/21679381400_ca07b8bd53_b.jpg"> </div>
 
 <img src="https://c1.staticflickr.com/5/4051/4263778946_0abd621dfd_b.jpg">
+
+<div class="images-left"><img src="https://c1.staticflickr.com/1/629/31016325314_beb444aa36_k.jpg"></div>
+<div class="images-right"><img src="https://c1.staticflickr.com/1/333/31047180723_f506aec769_k.jpg"> </div>
