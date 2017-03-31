@@ -61,8 +61,7 @@ permalink: /about/
 
                 <h4>PDF Downloads</h4>
                 <p><ul>
-                    <li><a href="/extras/jarrettfuller_commercial-portfolio.pdf">Commercial Portfolio</a></li>
-                    <li><a href="/extras/jarrettfuller_personal-portfolio.pdf">Personal Portfolio</a></li>
+                    <li><a href="/extras/jarrettfuller-portfolio.pdf">Portfolio</a></li>
                     <li><a href="/extras/jarrettfuller-resume.pdf">Resume</a></li>
                     </ul>
                 </p>
