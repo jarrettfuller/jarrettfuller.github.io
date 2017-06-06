@@ -11,11 +11,9 @@ permalink: /about/
 
 <div class="profile_section">
 <h4>Profile</h4>
-<article><p>Jarrett Fuller is an independent designer, writer, podcaster, and educator. He’s worked with clients large and small, including Instagram, Johns Hopkins University, Maryland Institute College of Art, and Wondermade Confectioners.</p>
+<article><p>Jarrett Fuller is an independent designer, writer, podcaster, and educator based in Brooklyn, NY. He’s worked with clients large and small, including Instagram, Johns Hopkins University, Maryland Institute College of Art, and Wondermade Confectioners.</p>
 
 <p>He hosts the weekly podcast, <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>, where he interviews designers, writers, critics, and researchers about the intersection of design criticism and practice. Previous guests have included Michael Bierut, Alexandra Lange, Steven Heller, Experimental Jetset, Jessica Helfand, and Michael Rock.</p>
-
-<p>As a designer, his work centers around the intersection of design, media, and technology and often focuses on editorial design, branding, and interactive projects. As a writer, his work has focused on a range of topics from design history, criticism, and cultural commentary. Recent research has focused on how emerging technologies effect the graphic design process, authorship in graphic design, neutrality, and postmodernity.</p>
 
 <p>He was on the adjunct faculty in the undergraduate graphic design department
 at Maryland Institute College of between 2016 – 2017 where he taught <a href="http://jarrettfuller.com/projects/dux">User Experience/User Interface</a> courses and was a teacher’s assistant for design history and theory courses for two semesters.</p>
@@ -25,6 +23,12 @@ at Maryland Institute College of between 2016 – 2017 where he taught <a href="
 <p>With Rory King, he co-hosted the <a href="http://this-is-sway.tumblr.com">Sway podcast</a> where he discussed issues in design, education, and criticism. The podcast is part of a multi-disciplinary project that explored what design can be in an expanded sense through criticism, dialogue, and various experimental projects.</p>
 
 <p>Jarrett received his MFA in graphic design, with a critical studies concentration, in 2017 from the Maryland Institute College of Art and his BFA in graphic design in 2011 from Kutztown University.</p>
+</article>
+</div>
+
+<div class="profile_section">
+<h4>Process</h4>
+<article><p>As a designer, his work centers around the intersection of design, media, and technology and often focuses on editorial design, branding, and interactive projects. As a writer, his work has focused on a range of topics from design history, criticism, and cultural commentary. Recent research has focused on how emerging technologies effect the graphic design process, authorship in graphic design, neutrality, and postmodernity.</p>
 </article>
 </div>
 
