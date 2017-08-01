@@ -4,7 +4,7 @@ title: On the graphic design of the 2016 Presidential Campaign
 tags: Essay
 publish: July 2016
 year: 2017
-image: /images/projects/ux_rosetta.jpg
+image: /images/projects/campaign_trump.png
 permalink: /projects/campaign
 ---
 
