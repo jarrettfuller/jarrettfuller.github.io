@@ -108,6 +108,12 @@ permalink: /recommends/
 
 <h2>Books</h2>
 
+<div class="cover">
+    <img src="https://images-na.ssl-images-amazon.com/images/I/81Q%2B1HpVgzL.jpg">
+    <h5>Graphic Design: Now In Production</h5>
+    <h6>Andrew Blauvelt & Ellen Lupton</h6>
+    </div>
+
 <div class="covers">
     <div class="cover">
     <img src="http://images.penguinrandomhouse.com/cover/9780679741800">
@@ -115,7 +121,7 @@ permalink: /recommends/
     <h6>Daniel Boorstin</h6>
     </div>
 
-        <div class="cover">
+    <div class="cover">
     <img src="http://images.penguinrandomhouse.com/cover/9780140139969?alt=cover_coming_soon.jpg">
     <h5>How Buildings Learn</h5>
     <h6>Stewart Brand</h6>
@@ -152,15 +158,39 @@ permalink: /recommends/
     </div>
 
     <div class="cover">
+    <img src="https://images-na.ssl-images-amazon.com/images/I/41SEwn3iH4L._SX317_BO1,204,203,200_.jpg">
+    <h5>The Gift</h5>
+    <h6>Lewis Hyde</h6>
+    </div>
+
+    <div class="cover">
     <img src="https://images-na.ssl-images-amazon.com/images/I/51cqsYvjYEL.jpg">
     <h5>Writing About Architecture</h5>
     <h6>Alexandra Lange</h6>
     </div>
 
-        <div class="cover">
+    <div class="cover">
+    <img src="https://images-na.ssl-images-amazon.com/images/I/51GpTt7r76L._SX306_BO1,204,203,200_.jpg">
+    <h5>The Medium is the Massage</h5>
+    <h6>Marshall McLuhan</h6>
+    </div>
+
+    <div class="cover">
+    <img src="https://publishingperspectives.com/wp-content/uploads/2015/07/The-Power-Broker.jpg">
+    <h5>The Power Broker</h5>
+    <h6>Robert Moses</h6>
+    </div>
+
+    <div class="cover">
     <img src="https://sep.yimg.com/ay/artbook/multiple-signatures-on-designers-authors-readers-and-users-21.jpg">
     <h5>Multiple Signatures</h5>
     <h6>Michael Rock</h6>
+    </div>
+
+    <div class="cover">
+    <img src="https://images.gr-assets.com/books/1345089845l/13538873.jpg">
+    <h5>Mr. Penumbra's 24-Hour Bookstore</h5>
+    <h6>Robin Sloan</h6>
     </div>
 
     <div class="cover">
@@ -187,8 +217,31 @@ permalink: /recommends/
 
     <a href="#">
         <div class="cover">
+        <img src="http://www.gstatic.com/tv/thumb/tvbanners/13060984/p13060984_b_v8_aa.jpg">
+        <h5>Atlanta (TV)</h5>
+        </div>
+    </a>
+
+    <a href="#">
+        <div class="cover">
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Liberal_Arts_FilmPoster.jpeg">
+        <h5>Liberal Arts</h5>
+        <h6></h6>
+        </div>
+    </a>
+
+    <a href="#">
+        <div class="cover">
         <img src="http://www.gstatic.com/tv/thumb/tvbanners/9462886/p9462886_b_v8_ad.jpg">
-        <h5>The Mind of a Chef</h5>
+        <h5>The Mind of a Chef (TV)</h5>
+        <h6></h6>
+        </div>
+    </a>
+
+    <a href="#">
+        <div class="cover">
+        <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0OTMzNDUyNV5BMl5BanBnXkFtZTgwMDYxNjkyMjE@._V1_UY268_CR4,0,182,268_AL_.jpg">
+        <h5>My Girlfriend's Boyfriend</h5>
         <h6></h6>
         </div>
     </a>
@@ -211,6 +264,14 @@ permalink: /recommends/
 
     <a href="#">
         <div class="cover">
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/d4/Helvetica-film.JPG">
+        <h5>Helvetica</h5>
+        <h6></h6>
+        </div>
+    </a>
+
+    <a href="#">
+        <div class="cover">
         <img src="http://t2.gstatic.com/images?q=tbn:ANd9GcToMMy32KUywGxomYxpHwNl5H9-RaYwe4J9KkuM8Vlblfy_AYeG">
         <h5>Paterson</h5>
         <h6></h6>
@@ -221,6 +282,14 @@ permalink: /recommends/
         <div class="cover">
         <img src="https://assets.mubi.com/images/notebook/post_images/17311/images-w1400.jpg?1414250131">
         <h5>Playtime</h5>
+        <h6></h6>
+        </div>
+    </a>
+
+    <a href="#">
+        <div class="cover">
+        <img src="http://img.moviepostershop.com/stop-making-sense-movie-poster-1984-1010208557.jpg">
+        <h5>Stop Making Sense</h5>
         <h6></h6>
         </div>
     </a>
@@ -259,6 +328,34 @@ permalink: /recommends/
 
 
 <sidebar>
+    <h2>Essays</h2>
+
+    <ul>
+    <li><a href="https://harpers.org/archive/1953/10/stranger-in-the-village/"><i>Stranger in the Village</i> - James Baldwin</a>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
+
+    <li><a href="https://longform.org/podcast"><i>Far Away From Here</i> - Teju Cole</a>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p>
+        </li>
+
+        <li><a href="http://reprints.longform.org/the-incredible-buddha-boy"><i>Goodbye to All That</i> - Joan Didion</a>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
+
+        <li><a href="https://www.nytimes.com/podcasts/still-processing"><i>What is Code</i> - Paul Ford</a>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
+
+        <li><a href="http://2x4.org/ideas/22/designer-as-author/"><i>Designer As Author</i> - Michael Rock</a>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
+
+        <li><a href="http://reprints.longform.org/the-incredible-buddha-boy"><i>The Incredible Buddha Boy</i> - George Saunders</a>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
+
+        <li><a href="http://reprints.longform.org/the-incredible-buddha-boy"><i>Castles Made of Sand</i> - Lorainne Wild</a>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
+
+    </ul>
+
+
     <h2>Podcasts</h2>
 
     <ul>
@@ -266,29 +363,20 @@ permalink: /recommends/
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p>
         </li>
 
+        <li><a href="https://www.pri.org/programs/studio-360">On Being</a>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
+
         <li><a href="https://www.nytimes.com/podcasts/still-processing">Still Processing</a>
          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
 
         <li><a href="https://www.pri.org/programs/studio-360">Studio 360</a>
          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
 
+        <li><a href="https://www.pri.org/programs/studio-360">The Turnaround</a>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
+
         <li><a href="http://www.wtfpod.com">WTF with Marc Maron</a>
          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
-    </ul>
-
-    <h2>Essays</h2>
-
-    <ul>
-    <li><a href="https://longform.org/podcast"><i>Far Away From Here</i> - Teju Cole</a>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p>
-        </li>
-
-        <li><a href="https://www.nytimes.com/podcasts/still-processing"><i>What is Code</i>- Paul Ford</a>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
-
-        <li><a href="http://reprints.longform.org/the-incredible-buddha-boy"><i>The Incredible Buddha Boy</i>- George Saunders</a>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum.</p></li>
-
     </ul>
 
 
@@ -306,6 +394,7 @@ permalink: /recommends/
         <li><a href="#">Ta-Nahisi Coates</a></li>
         <li><a href="#">Robert Rauschenberg</a></li>
         <li><a href="#">Robert Irwin</a></li>
+        <li><a href="#">Metahaven</a></li>
     </ul>
 
         </sidebar>
