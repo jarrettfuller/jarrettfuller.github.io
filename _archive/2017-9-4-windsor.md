@@ -2,9 +2,9 @@
 layout: text
 title: Windsor—An Ode to a Forgotten Typeface
 tags: Essay
-publish: July 2016
+publish: September 2017
 year: 2017
-image: /images/projects/campaign_trump.png
+image: /images/projects/windsor_specimen.jpg
 permalink: /projects/windsor
 ---
 
