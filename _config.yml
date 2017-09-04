@@ -44,7 +44,7 @@ url: jarrettfuller.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-repository: jarrettfuller.github.io
+repository: jarrettfuller/jarrettfuller.github.io
 
 collections:
     archive:
