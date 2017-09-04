@@ -1,10 +1,10 @@
 ---
 layout: text
-title: Windsor—An Ode to a Forgotten Typeface
+title: Windsor—An Ode to a Forgotten Typeface 1
 tags: Essay
-publish: September 2017
+publish: July 2016
 year: 2017
-image: /images/projects/windsor_specimen.jpg
+image: /images/projects/campaign_trump.png
 permalink: /projects/windsor
 ---
 
@@ -29,10 +29,6 @@ permalink: /projects/windsor
 <p>Windsor was designed by Eleisha Pechey released in 1905. Pechey, after completing an apprenticeship in printing and bookbinding, began working for Stephenson, Blake &amp; Company in 1863, the London type foundry that until the 1990s was the last active type foundry in England. Pechey died in 1903, a few years before Windsor would be released, making it one of his two typeface releases. Windsor is probably best described as a sophisticated cousin to the more well-known Cooper Black, designed in 1921 by Oswald Bruce Cooper. Where Windsor often evokes a distinct literary quality, Cooper Black goes for something softer. (Incidentally, Woody Allen used Cooper Black in two of his first films: <em>What's Up Tiger Lily?</em> and <em>Bananas</em>, and is frequently used by Louis C.K, a comedian known to take inspiration from Allen.)</p>
 
 <p>Despite its distinct visual characteristics — the extra-wide M's and N's, the curious curve of the lowercase 'f' — Windsor is surprisingly versatile and can be found in a curiously diverse range of applications, reaching peak popularity in the late sixties and early 70s. Stewart Brand used it for the masthead of his <em>Whole Earth Catalog</em>, television shows like <em>The Price is Right</em>, <em>The Goldbergs</em>, <em>227</em>, and <em>All in the Family</em> have used it in their opening credits. Sesame Street's used it on the cover of the 1979 Oscar the Grouch musical album, <em>Let a Frown Be Your Umbrella</em>. Nightclubs like New York's Max's Kansas City and Minneapolis's First Avenue and 7th St. Entry have used it in their logos. It's a popular book cover typeface where it's employed on a range of covers from John Conrad's 1950 edition of <em>Heart of Darkness</em> to the 1971 edition Jack Kerouac's <em>Scattered Poems</em> to the 1983 edition of Edgar Allen Poe's <em>Tales of Mystery and Imagination</em>. Less popular than it was a half-century ago, Windsor still finds it way into contemporary graphic design: The comedian W. Kamau Bell is using it for the cover of his 2017 book; Stumptown Coffee's new brand-zine, &quot;Bloom&quot;, uses Windsor in its masthead; Arkansas musician Isaac Alexander's 2017 album <em>Like a Sinking Stone</em> uses it on the cover; and the 2016 exhibition at The Jewish Museum, Take Me (I'm Yours), uses it for the titles, book, and promotional material.</p>
-
-<figure>
-<img src="/images/projects/windsor_media.jpg">
-</figure>
 
 <p>As a teenager, watching <em>Annie Hall</em> and quickly following with the rest of Allen's filmography, a specific picture of New York was painting for me. When I moved to the city years later, I was surprised to see the New York I resided in was not the one in Allen's movies. But as I walk around the city, sometimes still reconciling this split, Windsor shows up in unexpected places: I've seen it on laundromat signage and food packaging, on the front of menus and building address markers. As <em>The Guardian</em> wrote of the director's typographic sensibilities, &quot;Allen clearly adores Windsor as much as he does New York.&quot; Perhaps because of this, in my mind, Windsor represents New York. And in a strange way, when I see Windsor — a typeface designed a century ago in London — I see Allen's New York.</p>
 
