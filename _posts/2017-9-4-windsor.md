@@ -48,5 +48,5 @@ permalink: /projects/windsor
 <img src="/images/projects/windsor_gic.jpg">
 </p>
 
-<p>When I was asked my favorite typeface by professors and classmates in school, I'd give the default, &quot;good designer' answers — Helvetica, Akizdenz, Plantin — and years later when I'm asked the same question by my own students, I still find myself giving these stock — these <i>safe</i> — answers, but the answer I really want to give is the typeface on the cover of my first favorite books and in the opening credits of my favorite movie, that curious and often-overlooked typeface on food packaging and album covers and  the buildings I pass in New York. The real answer is Windsor. ✖</p>
+<p>When I was asked my favorite typeface by professors and classmates in school, I'd give the default, the 'good designer' answers: Helvetica, Akizdenz, Plantin. And now years later, when I'm asked the same question by my own students, I still find myself giving these stock — these <i>safe</i> — answers. But the answer I really want to give is the typeface on the cover of my first favorite books and in the opening credits of my favorite movie, that curious and often-overlooked typeface on food packaging and album covers and the buildings I pass in New York. The real answer is Windsor. ✖</p>
 
