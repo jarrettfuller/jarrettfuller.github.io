@@ -121,7 +121,7 @@ sidebar p {
     <sidebar>
     <div class="avail">
     <h4>Availability</h4>
-    <p>I'm currently accepting new projects beginning February 2018 through the end of the year!</p>
+    <p>I'm currently accepting new projects beginning February 2018!</p>
     </div>
 
         <h4>Services</h4>
