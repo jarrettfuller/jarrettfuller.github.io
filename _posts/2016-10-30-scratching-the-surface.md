@@ -7,7 +7,7 @@ categories:
 - Podcast
 - Criticism
 - Interviews
-year: 2016
+year: 2016–Present
 image: /images/projects/sts-2.png
 permalink: /projects/podcast
 ---

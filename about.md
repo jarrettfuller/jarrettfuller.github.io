@@ -23,9 +23,10 @@ permalink: /about/
 </article>
 </div>
 
-    <div class="profile_section">
+<div class="profile_section">
             <h4>Interviews/Features</h4>
             <article><ul>
+                <li><a href="http://amt.parsons.edu/blog/bfacd-faculty-highlight-jarrett-fuller/">Parsons BFACD Faculty Highlight</a></li>
             <li><a href="https://soundcloud.com/user-54181376/jarrettfuller">Exchanged: A podcast about design podcasts</a>, interview</li>
             <li><a href="https://www.dallasnews.com/arts/architecture/2017/08/26/podcast-takes-nitty-gritty-design-practice-criticism">Podcast takes on nitty gritty of design practice and criticism, Dallas Morning News</a>, feature</li>
             <li><a href="http://designfeaster.blogspot.com/2017/03/jarrett-fuller-side-projects.html">Design Feaster,</a> interview</li>
@@ -54,8 +55,7 @@ permalink: /about/
 
                 <h4>PDF Downloads</h4>
                 <p><ul>
-                    <li><a href="/extras/jarrettfuller-portfolio.pdf">Portfolio</a></li>
-                    <li><a href="/extras/jarrettfuller-resume.pdf">Resume</a></li>
+                    <li><a href="/extras/jarrettfuller-work.pdf">Portfolio and Resume</a></li>
                     </ul>
                 </p>
         </sidebar>

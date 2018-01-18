@@ -1,0 +1,92 @@
+---
+layout: default
+---
+<head>
+<style type="text/css">
+    * {
+        padding: 0px;
+        margin: 0px;
+        box-sizing: border-box;
+                    color: white;
+    }
+    body {
+        background-color: rgba(0,0,0,.8);
+    }
+    a {
+        color: white;
+    }
+    header {
+        padding-bottom: 25px;
+    }
+    .container {
+        padding-top: 100px;
+        border-top: 1px solid red;
+        padding: 25px;
+        display: flex;
+        width: 100%;
+    }
+    .galleries {
+        width: 20%;
+        float: left;
+    }
+    .galleries ul {
+        padding-bottom: 15px;
+    }
+    .galleries li {
+        padding-bottom: 3px;
+    }
+    .travel {
+        padding-left: 10px;
+    }
+    .gallery {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+        width: 80%;
+    }
+    .gallery img {
+        padding-right: 25px;
+display: inline-block;
+        max-height: 600px;
+        min-width: 70vw;
+    }
+    footer {
+        padding-bottom: 15px;
+    }
+    </style>
+
+</head>
+<body>
+<div class="container">
+
+    <div class="galleries">
+        <h4>Travel</h4>
+    <ul><li class="travel">New York, NY</li>
+        <li class="travel"><a href="/photo/sf/">San Francisco, CA</a></li>
+        <li class="travel"><a href="/photo/baltimore">Baltimore, MD</a></li>
+        <li class="travel"><a href="/photo/portland">Portland, OR</a></li>
+        <li class="travel"><a href="/photo/la">Los Angeles, CA</a></li>
+        <li class="travel"><a href="/photo/fingerlakes">Finger Lakes, NY</a></li>
+        <li class="travel"><a href="/photo/philadelphia">Philadelphia, PA</a></li>
+        <li class="travel">Other</li></ul>
+
+        <ul>
+        <li><a href="/photo/portraits">Portraits</a></li>
+        <li><a href="/photo/music">Live Music</a></li>
+        <li><a href="/photo/food">Food</a></li>
+        <li><a href="/photo/covered">Covered</a></li>
+        <li><a href="/photo/church">Church Signs</a></li>
+        </ul>
+
+    </div>
+<div class="gallery">
+
+    {{ content }}
+
+</div>
+
+</div>
+
+    <section class="clear"></section>
+
+</body>

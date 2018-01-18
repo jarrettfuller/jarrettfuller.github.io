@@ -56,7 +56,7 @@ sidebar p {
 <h4>Welcome!</h4>
 <article><p>Hi! I'm <a href="about">Jarrett Fuller</a>, a designer, writer, educator, and podcaster. I run my own design practice in Brooklyn, NY; teach at Parsons, Pratt, and University of the Arts; and host a weekly podcast about design criticism. My practice is a combination of client and self-initiated projects and ranges from editorial design to websites, publishing to branding.</p>
 
-<p>You can see previous work <a href="/projects">here ↗</a> or download my resume and portfolio <a href="/extras/jarrettfuller-work.pdf">here ↓</a></p>
+<p>You can see previous work <a href="/projects">here</a> or download my resume and portfolio <a href="/extras/jarrettfuller-work.pdf">here</a>.</p>
 
 </article>
 </div>
@@ -66,12 +66,11 @@ sidebar p {
             <article>
             <p>→ Designed and developed a personal site/online archive for a freelance writer</p>
             <p>→ A large, online database housing canonical and recommended texts on graphic design for students</p>
-            <p>→ Consulting, content development, information architecture for a <a href="http://www.micadesign.org">graduate design program website ↗</a></p>
+            <p>→ Consulting, content development, information architecture for a <a href="http://www.micadesign.org">graduate design program website</a></p>
             <p>→ Branding, art direction, and design for a forthcoming quarterly publication</p>
             <p>→ Visual design for an artist, writer, and educator's personal site.</p>
-            <p>→ A book of original photography taken in Baltimore, MD</p>
-            <p>→ An <a href="http://jarrettfuller.com/projects/talk">exhibition ↗</a> exploring the relationship between design practice and criticism.</p>
-            <p>→ More recent projects can be seen on my <a href="/projects">Projects page ↗</a> or in this <a href="/extras/jarrettfuller-work.pdf">downloadable PDF ↓</a>.</p>
+            <p>→ An <a href="http://jarrettfuller.com/projects/talk">exhibition </a> exploring the relationship between design practice and criticism.</p>
+            <p>→ More recent projects can be seen on my <a href="/projects">Projects page</a> or in this <a href="/extras/jarrettfuller-work.pdf">downloadable PDF</a>.</p>
 
 </article>
 </div>
@@ -121,7 +120,7 @@ sidebar p {
     <sidebar>
     <div class="avail">
     <h4>Availability</h4>
-    <p>I'm currently accepting new projects beginning October 2017 through the end of the year!</p>
+    <p>I'm currently accepting new projects beginning February 2018 through the end of the year!</p>
     </div>
 
         <h4>Services</h4>
