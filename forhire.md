@@ -64,6 +64,7 @@ sidebar p {
 <div class="profile_section">
         <h4>Recent projects</h4>
             <article>
+                <p> → Designed a pair of sites for an online community of freelancers and editorial branding studio.</p>
             <p>→ Designed and developed a personal site/online archive for a freelance writer</p>
             <p>→ A large, online database housing canonical and recommended texts on graphic design for students</p>
             <p>→ Consulting, content development, information architecture for a <a href="http://www.micadesign.org">graduate design program website</a></p>
