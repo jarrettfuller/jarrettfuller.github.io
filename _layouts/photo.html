@@ -7,23 +7,12 @@ layout: default
         padding: 0px;
         margin: 0px;
         box-sizing: border-box;
-                    color: white;
-    }
-    body {
-        background-color: rgba(0,0,0,.8);
-    }
-    a {
-        color: white;
-    }
-    header {
-        padding-bottom: 25px;
     }
     .container {
-        padding-top: 100px;
-        border-top: 1px solid red;
-        padding: 25px;
-        display: flex;
+  padding: 50px 50px 50px 50px;
+border-top: 1px solid #ff0000;
         width: 100%;
+        display: flex;
     }
     .galleries {
         width: 20%;
@@ -39,19 +28,10 @@ layout: default
         padding-left: 10px;
     }
     .gallery {
-  display: flex;
-  flex-wrap: nowrap;
-  overflow-x: auto;
         width: 80%;
     }
     .gallery img {
-        padding-right: 25px;
-display: inline-block;
-        max-height: 600px;
-        min-width: 70vw;
-    }
-    footer {
-        padding-bottom: 15px;
+        width: 100%;
     }
     </style>
 
@@ -79,11 +59,13 @@ display: inline-block;
         </ul>
 
     </div>
-<div class="gallery">
-
+<div class="gallery clearfix">
     {{ content }}
 
-</div>
+    <section class="clear"></section>
+
+<p class="to-top"><a href="#top">&uarr;</a></p>
+        </div>
 
 </div>
 

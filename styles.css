@@ -187,9 +187,10 @@ nav li:first-child {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  align-items: baseline;
+/*  align-items: baseline;*/
   width: auto;
-  padding: 15px 50px 50px 50px;
+  padding: 50px 50px 50px 50px;
+border-top: 1px solid #ff0000;
 }
 .text {
   width: 75%;
