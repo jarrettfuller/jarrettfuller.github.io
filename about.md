@@ -11,7 +11,7 @@ permalink: /about/
 
 <div class="profile_section">
 <h4>Profile</h4>
-<article><p>Jarrett Fuller is a designer, writer, podcaster, and educator based in Brooklyn, NY. He's the principal of <a href="http://www.twenty-six.design">twenty-six design</a>, a full-service branding and editorial studio, where he’s worked with clients large and small, including Instagram, Johns Hopkins University, Maryland Institute College of Art, Design Observer, and Wondermade Confectioners.</p>
+<article><p>Jarrett Fuller is a designer, writer, podcaster, and educator based in Brooklyn, NY. He's the principal of <a href="http://www.twenty-six.design">twenty-six design</a>, a multidisciplinary branding and editorial studio, where he’s worked with clients large and small, including Instagram, Johns Hopkins University, Maryland Institute College of Art, Design Observer, and Wondermade Confectioners.</p>
 
 <p>He currently teaches in the graduate Communication Design program at Pratt Institute, in the undergraduate graphic design program at The New School Parsons School of Design, and is a Senior Lecturer at The University of the Arts. He previously was on the adjunct faculty in the undergraduate graphic design department at Maryland Institute College of Art.</p>
 
