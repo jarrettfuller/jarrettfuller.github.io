@@ -13,7 +13,7 @@ permalink: /about/
 <h4>Profile</h4>
 <article><p>Jarrett Fuller is a designer, writer, podcaster, and educator based in Brooklyn, NY. He's the principal of <a href="http://www.twenty-six.design">twenty-six design</a>, a multidisciplinary branding and editorial studio, where he’s worked with clients large and small, including Instagram, Johns Hopkins University, Maryland Institute College of Art, Design Observer, and Wondermade Confectioners.</p>
 
-<p>He currently teaches in the graduate Communication Design program at Pratt Institute, in the undergraduate graphic design program at The New School Parsons School of Design, and is a Senior Lecturer at The University of the Arts. He previously was on the adjunct faculty in the undergraduate graphic design department at Maryland Institute College of Art.</p>
+<p>He currently teaches in the graduate Communications Design program at Pratt Institute, in the undergraduate graphic design program at The New School Parsons School of Design, and is a Senior Lecturer at The University of the Arts. He previously was on the adjunct faculty in the undergraduate graphic design department at Maryland Institute College of Art.</p>
 
 <p>He hosts the weekly podcast, <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>, where he interviews designers, writers, critics, and researchers about the intersection of design criticism and practice. Previous guests have included Michael Bierut, Alexandra Lange, Steven Heller, Experimental Jetset, Jessica Helfand, and Michael Rock.</p>
 
@@ -55,9 +55,9 @@ permalink: /about/
                     <li><a href="https://open.spotify.com/user/jarrettfuller">Spotify</a></li>
                     </p>
 
-                <h4>PDF Downloads</h4>
+                <h4>PDFs</h4>
                 <p><ul>
-                    <li><a href="/extras/jarrettfuller-work.pdf">Portfolio and Resume</a></li>
+                    <li><a href="/extras/jarrettfuller-cv.pdf">Download CV</a></li>
                     </ul>
                 </p>
         </sidebar>
