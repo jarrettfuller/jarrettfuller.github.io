@@ -10,16 +10,24 @@ permalink: /about/
 <div class="text">
 
 <div class="profile_section">
-<h4>Profile</h4>
-<article><p>Jarrett Fuller is a designer, writer, podcaster, and educator based in Brooklyn, NY. He's the principal of <a href="http://www.twenty-six.design">twenty-six design</a>, a multidisciplinary branding and editorial studio, where he’s worked with clients large and small, including Instagram, Johns Hopkins University, Maryland Institute College of Art, Design Observer, and Wondermade Confectioners.</p>
+<h4>Official Biography (100 words)</h4>
+<article><p>Jarrett Fuller is a designer, writer, educator, and podcaster. He runs twenty-six, a multidisciplinary design and editorial studio; hosts Scratching the Surface, a weekly podcast about design criticism; and teaches in both undergraduate and graduate programs at Pratt Institute, The New School Parsons School of Design, and the University of the Arts. He previously worked as a designer at Facebook, Warby Parker, and The Whitney Museum of American Art. He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art. He lives with his wife in Brooklyn.</p>
+</article>
+</div>
 
-<p>He currently teaches in the graduate Communications Design program at Pratt Institute, in the undergraduate graphic design program at The New School Parsons School of Design, and is a Senior Lecturer at The University of the Arts. He previously was on the adjunct faculty in the undergraduate graphic design department at Maryland Institute College of Art.</p>
+<div class="profile_section">
+<h4>Statement</h4>
+<article><p>I'm interested in design as both a noun and a verb. My work focuses on design as a process; the act of forming ideas and giving ideas form. I attempt to use design as a form of inquiry to redefine what graphic design can be. I believe that design is ideology made artifact and must respond to the world around it. Recently, I've been interested in reflexivity in design, identity systems, media theory, strategic design, and design fictions. Recent work can be seen on <a href="http://www.twenty-six.design">my studio's website</a>.</p>
 
-<p>He hosts the weekly podcast, <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>, where he interviews designers, writers, critics, and researchers about the intersection of design criticism and practice. Previous guests have included Michael Bierut, Alexandra Lange, Steven Heller, Experimental Jetset, Jessica Helfand, and Michael Rock.</p>
+<p>In the last few years, teaching has become a central part of my practice. I've taught in both graduate and undergraduate design program at a variety of schools including The New School, Pratt Institute, University of the Arts, and Maryland Institute College of Art. For me, the classroom is where all my interests really come together: design, writing, criticism, discussion, thinking, making, performing, etc. As a teacher, I'm interested in fostering in my students a love of process and experimentation, cultivating authorship and voice, and thinking critically about their work and the profession at large. You can see a list of courses I've taught and sample syllabi <a href="http://www.jarrettfuller.com/teaching">here</a>.</p>
 
-<p>From 2013 to 2015, he was a designer at <a href="http://www.facebook.com">Facebook</a> on their Business Marketing team where he worked on a range of interactive, branding, and environmental projects. Previously he was a designer at <a href="http://www.warbyparker.com">Warby Parker</a> and helped develop the brand through a range of web, print, and retail projects. In 2016, he was an intern at <a href="http://www.whitney.org">The Whitney Museum of American Art</a>. He was a 2016 participant in <a href="https://www.canopycanopycanopy.com/education#intensive">Triple Canopy’s Publication Intensive</a>, a two-week workshop that explores the history and future of publishing.</p>
+<p>I also host and produced Scratching the Surface, a weekly podcast which is ostensibly about the 'intersection of design criticism and practice' but has evolved to cover all sorts of things I'm interested in including expanded practices, teaching, and design theory. It's basically an excuse for me to talk to people I find interesting and has been featured on <i>Architectural Digest</i>, <i>Design Observer</i>, <i>Lecture in Progress</i>, and was included in <a href="https://www.curbed.com/2017/12/18/16778058/architecture-awards-2017">Curbed's Best Of 2017 list</a>.</p>
 
-<p>Jarrett received his MFA in graphic design, with a critical studies concentration, in 2017 from the Maryland Institute College of Art and his BFA in graphic design in 2011 from Kutztown University.</p>
+<p>As a writer, my work focuses on a range of topics including design criticism, history, and cultural commentary. Recent writing and research have dealt with ideas around design education, technology, smart cities, the internet-of-things, and the intersection of philosophy and design.</p>
+
+<p>I'm drawn to the idea of the 'art monster' from Jenny Offill's book <i>Dept. of Speculation</i> (<a href="http://scratchingthesurface.fm/post/173503530035/74-peter-mendelsund">Peter Mendelsund introduced me to this concept in my interview with him</a>.) where one's interest is in working across mediums and disciplines without being constrained by disciplinary definitions. In addition to design, I dabble in <a href="http://www.instagram.com/jarrettfuller">photography</a>, painting, <a href="http://www.jarrettfuller.com/playlists">producing playlists</a>, and making pizza.</p>
+
+<p>I spend my free time reading <a href="http://jarrettslibrary.tumblr.com">lots of books</a>, watching movies, and practicing yoga. Outside of work,  I'm interested in podcasts, media theory, philosophy, urbanism, genealogy, cooking, and coffee.</p>
 </article>
 </div>
 
