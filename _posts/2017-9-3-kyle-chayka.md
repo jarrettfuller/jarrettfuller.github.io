@@ -8,17 +8,15 @@ categories:
 - Interactive
 - Web Development
 year: 2017
-image: /images/projects/sts-exhibition-1.jpg
+image: /images/projects/kylechayka-1.png
 permalink: projects/kylechayka
 ---
 
 <img src="/images/projects/kylechayka-1.png">
 <img src="/images/projects/kylechayka-2.png">
 <img src="/images/projects/kylechayka-3.png">
-<div class="images-right"><p>&uarr; All the work sits upon these diagonally-lined frames and are interspersed with quotes from the interviews, blurring the lines between theory and practice, writing, and designing.</p></div>
-<section class="clear"></section>
 <img src="/images/projects/kylechayka-4.png">
-<div class="images-right"><p>&uarr; All the work sits upon these diagonally-lined frames and are interspersed with quotes from the interviews, blurring the lines between theory and practice, writing, and designing.</p></div>
+
 <section class="clear"></section>
 
 
