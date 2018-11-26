@@ -27,7 +27,7 @@ permalink: /about/
 
 <p>I'm drawn to the idea of the 'art monster' from Jenny Offill's book <i>Dept. of Speculation</i> (<a href="http://scratchingthesurface.fm/post/173503530035/74-peter-mendelsund">Peter Mendelsund introduced me to this concept in my interview with him</a>.) where one's interest is in working across mediums and disciplines without being constrained by disciplinary definitions. In addition to design, I dabble in <a href="http://www.instagram.com/jarrettfuller">photography</a>, painting, <a href="http://www.jarrettfuller.com/playlists">producing playlists</a>, and making pizza.</p>
 
-<p>I spend my free time reading <a href="http://jarrettslibrary.tumblr.com">lots of books</a>, watching movies, and practicing yoga. Outside of work,  I'm interested in podcasts, media theory, philosophy, urbanism, genealogy, cooking, and coffee.</p>
+<p>I spend my free time reading <a href="http://jarrettslibrary.tumblr.com">lots of books</a>, watching movies, and practicing yoga. Outside of work, I'm interested in podcasts, media theory, philosophy, urbanism, cooking, and coffee.</p>
 </article>
 </div>
 
@@ -48,10 +48,31 @@ permalink: /about/
 </article>
             </div>
 
-    </div>
+<div class="profile_section">
+            <h4>Gear</h4>
+            <article>
+                <p>I primarily work on a 15" Macbook Pro attached to a 27" Cinema Display and a 11" iPad Pro with Smart Keyboard Folio and Apple Pencil. I use:</p>
+<ul>
+            <li>— Adobe Creative Suite for designing</li>
+    <li>— <a href="https://ia.net/writer">IA Writer</a> for writing</li>
+                <li>— <a href="http://brackets.io">Brackets</a> for coding</li>
+                <li>— <a href="https://github.com">Github</a> + Terminal for repos</li>
+                <li>— <a href="https://www.dropbox.com/">Dropbox</a> and <a href="https://www.backblaze.com">Backblaze</a> for backups</li>
+                <li>— <a href="https://1password.com">1Password</a> for password management</li>
+                <li>— <a href="https://www.privateinternetaccess.com">Private Internet Access</a> for VPN</li>
+                </ul>
+
+<p></p>
+<p>I photograph with a Fuji X100, iPhone Xs, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://www.ecamm.com/mac/callrecorder/">CallRecorder for Skype</a> and edit in GarageBand. </p>
+
+</article>
 
 
-    <sidebar>
+</div>
+
+</div>
+
+<sidebar>
         <img src="/images/exhibition-portrait.jpg">
         <h4>Contact</h4>
                 <p><ul>
