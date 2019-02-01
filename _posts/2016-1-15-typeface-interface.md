@@ -1,7 +1,7 @@
 ---
 layout: text
 title: Typeface and Interface
-tags: Essay
+tags: Writing
 discription:
 publish: January 2016
 year: 2016

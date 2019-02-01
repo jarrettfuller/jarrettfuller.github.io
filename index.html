@@ -1,7 +1,21 @@
 ---
-layout: default
-title: "Jarrett Fuller"
+layout: projects
+title: Projects
 ---
 
-<div class="intro preview clearfix"><a href="/about">Jarrett Fuller<img src="/images/hp_portrait.jpg" alt="Jarrett Fuller"/></a> is a <a href="/projects">designer and writer<img src="/images/hp_text.jpg" alt="Design and writing"/></a> in Brooklyn, NY. He hosts a <a href="http://www.scratchingthesurface.fm">podcast<img src="/images/hp_surface.jpg" alt="podcast"/></a>, teaches design at various schools, takes <a href="http://jarrettfullerphotography.tumblr.com">photos<img src="/images/hp_photos.jpg" alt="photos"></a>, and reads a lot of <a href="http://jarrettslibrary.tumblr.com">books<img src="/images/hp_books.jpg" alt="I like to read."/></a>.</div>
+<main class="preview" id="all-container">
+  {% for post in site.posts %}
 
+        <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="object">
+            <div class="project">{{ post.title }}</div>
+            <div class="type">{{ post.tags }}</div>
+            <div class="year">{{ post.year }}</div>
+        </div>
+            <img src="{{ post.image }}"></a>
+
+    {% endfor %}
+
+    </main>
+
+<section class="clear"></section>

@@ -1,7 +1,7 @@
 ---
 layout: text
 title: "Windsor: An Ode to a Forgotten Typeface"
-tags: Essay
+tags: Writing
 publish: September 2017
 year: 2017
 image: /images/projects/windsor_specimen.jpg

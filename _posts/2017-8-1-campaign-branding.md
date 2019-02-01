@@ -1,7 +1,7 @@
 ---
 layout: text
 title: On the graphic design of the 2016 Presidential Campaign
-tags: Essay
+tags: Writing
 publish: July 2016
 year: 2017
 image: /images/projects/campaign_trump.png

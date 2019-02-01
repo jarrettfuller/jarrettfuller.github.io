@@ -1,7 +1,7 @@
 ---
 layout: text
 title: What Do We Want from Design Criticism?
-tags: Essay
+tags: Writing
 publish: February 2014
 year: 2014
 image:

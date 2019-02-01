@@ -1,7 +1,7 @@
 ---
 layout: text
 title: Leaky Containers and Blurry Edges
-tags: Essay
+tags: Writing
 discription:
 publish: November 2012
 year: 2012

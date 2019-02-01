@@ -1,7 +1,7 @@
 ---
 layout: text
 title: How do we get the most out of design criticism?
-tags: Essay
+tags: Writing
 publish: April 2017
 year: 2017
 image: /images/projects/100archive.png

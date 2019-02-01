@@ -1,7 +1,7 @@
 ---
 layout: text
 title: Graphic Design Needs a New Revolution
-tags: Essay
+tags: Writing
 discription:
 publish: September 2013
 year: 2013

@@ -1,11 +1,11 @@
 ---
 layout: text
 title: An Essay on Design
-tags: Essay
-discription: 
+tags: Writing
+discription:
 publish: April 2014
 year: 2014
-image: 
+image:
 permalink: /projects/reflexivity
 ---
 

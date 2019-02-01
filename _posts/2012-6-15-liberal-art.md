@@ -1,7 +1,7 @@
 ---
 layout: text
 title: Graphic Design as a Liberal Art
-tags: Essay
+tags: Writing
 publish: June 2012
 year: 2012
 image:

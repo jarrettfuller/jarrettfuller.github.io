@@ -1,7 +1,7 @@
 ---
 layout: text
 title: Black Mirror and Design fiction
-tags: Essay
+tags: Writing
 publish: October 2016
 year: 2016
 image: https://78.media.tumblr.com/adf193818d659bb60437e0e1a685a74f/tumblr_inline_of77312xyY1qzwy5u_1280.jpg

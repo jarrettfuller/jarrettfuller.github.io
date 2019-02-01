@@ -1,7 +1,7 @@
 ---
 layout: text
 title: The Humble Poster
-tags: Essay
+tags: Writing
 discription:
 publish: July 2014
 year: 2014

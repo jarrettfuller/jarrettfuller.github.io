@@ -1,7 +1,7 @@
 ---
 layout: text
 title: The Myth of Neutrality
-tags: Essay
+tags: Writing
 discription:
 publish: July 2016
 year: 2016
