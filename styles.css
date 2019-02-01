@@ -98,6 +98,12 @@ nav li:first-child {
   padding-left: 0px;
   margin-left: 0px;
 }
+.far {
+    color: rgba(0,0,0,.3);
+    padding-left: 2px;
+    font-size: 80%;
+    vertical-align: top;
+}
 /*----------- HOMEPAGE --------------*/
 .intro {
   width: auto;
