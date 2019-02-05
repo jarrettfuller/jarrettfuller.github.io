@@ -1,6 +1,6 @@
 ---
 layout: image
-title: "Culture is Not Always Popular"
+title: "Culture is Not Always Popular: Fifteen Years of Design Observer"
 tags: Design
 discription: To celebrate the fifteenth anniversary of Design Observer, I worked with Michael Bierut, Jessica Helfand, and MIT Press to design and edit a book collecting some of the site's best essays. In addition to designing and co-editing the book, I conducted an interview with Michael and Jessica that serves as the book's introduction.
 categories:
