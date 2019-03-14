@@ -1,0 +1,200 @@
+---
+layout: default
+---
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+<style type="text/css">
+    * {
+        box-sizing: border-box;
+    }
+    #playlist-container {
+        display: flex;
+       max-width: 100%;
+        padding: 50px;
+        border-top: 1px solid red;
+    }
+    .playlist-links {
+    width: 35%;
+    padding-right: 100px;
+        text-align: center;
+    }
+    .playlist-links img {
+        width: 100%;
+        padding-bottom: 25px;
+    }
+    .playlist-content {
+        width: 65%;
+    }
+    .playlist-content h1 {
+        font-size: 48px;
+        line-height: 48px;
+    }
+    .playlist-content h2 {
+        font-size: 48px;
+        line-height: 48px;
+        color: rgba(0,0,0,.4);
+    }
+    .playlist-content ol {
+        padding-top: 25px;
+        font-size: 26px;
+        padding-left: 30px;
+    }
+    .spotify {
+        position: fixed;
+        bottom: 0;
+    }
+    button {
+        border: 2px solid lightgray;
+        border-radius: 5px;
+        padding: 15px;
+        margin-top: 25px;
+        font-size: 24px;
+        background-color: white;
+        margin: auto;
+    }
+    button:hover {
+        background-color: lightgray;
+    }
+    button a {
+        padding-top: 0px;
+                font-size: 24px;
+    }
+    button a:hover {
+        border-bottom: 0px;
+    }
+    #more-playlists {
+        display: flex;
+      max-width: 100%;
+        border-top: 1px solid red;
+        padding: 25px;
+        flex-flow: wrap;
+    }
+    #more-playlists p {
+        margin: auto;
+    }
+.playlist-cover {
+    width: 20%;
+    padding: 25px;
+    overflow: hidden;
+}
+figure {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+}
+figure img {
+    width: 100%;
+}
+
+figcaption {
+    display: none;
+    position: absolute;
+    padding: 20px;
+    width: 100%;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255,255,255,.6);
+        color: black;
+}
+    figcaption h1 {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    figcaption h2 {
+        font-size: 16px;
+        line-height: 16px;
+        color: rgba(0,0,0,.4);
+    }
+figure:hover figcaption {
+    display: block;
+}
+    figure:hover img {
+        filter: blur(5px);
+    }
+@media only screen and (max-width: 1028px) {
+    #playlist-container {
+        display: block;
+        padding: 25px;
+    }
+    .playlist-content {
+        width: 100%;
+        padding: 0px;
+    }
+    .playlist-content h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .playlist-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .playlist-content ol {
+        padding-top: 25px;
+        font-size: 20px;
+        padding-left: 30px;
+    }
+    .playlist-links {
+        width: 100%;
+        padding-bottom: 25px;
+        padding-right: 0px;
+    }
+    #more-playlists {
+        display: block;
+        padding: 25px;
+    }
+    .playlist-cover {
+        width: 100%;
+        padding: 0px;
+    }
+    figure {
+        padding-bottom: 25px;
+    }
+    figcaption {
+    display: block;
+    position: inherit;
+    padding: 0px;
+}
+    figure:hover img {
+        filter: none;
+    }
+        }
+        </style>
+<body>
+<div id="playlist-container">
+            <div class="playlist-links">
+                <img src="{{ page.image}}"/>
+                  <button><a href="{{ page.stream }}"><i class="fa fa-spotify" aria-hidden="true"></i> Stream on Spotify</a></button>
+    </div>
+
+    <div class="playlist-content">
+            <h1>{{ page.title }}</h1>
+            <h2>{{ page.season }}</h2>
+            {{ page.content }}
+
+    </div>
+</div>
+
+<div id="more-playlists">
+{% for playlists in site.playlists limit:5 %}
+      <div class="playlist-cover">
+                <a href="{{ playlists.url }}">
+        <figure>
+            <img src="{{ playlists.image}}" alt="image"/>
+            <figcaption>
+           <h1>{{ playlists.title }}</h1>
+            <h2>{{ playlists.season }}</h2></figcaption>
+        </figure>
+          </a>
+        </div>
+  {% endfor %}
+
+       <p><a href="/playlists/">More Playlists &rarr;</a></p>
+
+    </div>
+
+
+</body>
+<!--    <iframe class="spotify" src="{{ page.spotify }}" width="100%" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>-->

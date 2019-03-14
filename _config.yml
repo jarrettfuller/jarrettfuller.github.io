@@ -51,6 +51,10 @@ collections:
         output: true
         permalink: /archive/:title
         title: Archive
+    playlists:
+        output: true
+        permalink: /playlists/:title
+        title: Playlists
 #
 # !! You don't need to change any of the configuration flags below !!
 #
