@@ -63,7 +63,17 @@ permalink: /about/
                 </ul>
 
 <p></p>
-<p>I photograph with a Fuji X100, iPhone Xs, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://www.ecamm.com/mac/callrecorder/">CallRecorder for Skype</a> and edit in GarageBand. </p>
+<p>I photograph with a Fuji X100f, iPhone Xs, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://zencastr.com">Zencastr</a> and edit in GarageBand. </p>
+
+</article>
+
+
+</div>
+
+<div class="profile_section">
+            <h4>About this Site</h4>
+            <article>
+                <p>I'm a believer in making work open source so this site is built entirely with open-source and free tools. The site uses <a href="https://jekyllrb.com">Jekyll</a>, an open-source, static-site generator, and is hosted <a href="https://github.com/jarrettfuller/jarrettfuller.github.io">on Github</a>. It’s set in <a href="https://fonts.google.com/specimen/Karla">Karla</a> and <a href="https://fonts.google.com/specimen/Tinos">Tinos</a> and served up via Google Fonts. You are free to adapt, remix, reuse, and update both the code and visual design for your own needs. That said, if you do use the code for your own site, please include a credit and link back here. Thanks!</p>
 
 </article>
 
