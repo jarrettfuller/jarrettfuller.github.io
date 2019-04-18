@@ -11,7 +11,7 @@ permalink: /about/
 
 <div class="profile_section">
 <h4>Official Biography (100 words)</h4>
-<article><p>Jarrett Fuller is a designer, writer, educator, and podcaster. He runs twenty-six, a multidisciplinary design and editorial studio; hosts Scratching the Surface, a weekly podcast about design criticism; and teaches in both undergraduate and graduate programs at Pratt Institute, The New School Parsons School of Design, and the University of the Arts. He previously worked as a designer at Facebook, Warby Parker, and The Whitney Museum of American Art. He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art. He lives with his wife in Brooklyn.</p>
+<article><p>Jarrett Fuller is a designer, writer, educator, and podcaster. He runs twenty-six, a multidisciplinary design and editorial studio; hosts Scratching the Surface, a weekly podcast about design criticism; and teaches in both undergraduate and graduate programs at Pratt Institute, The New School Parsons School of Design, and the University of the Arts. He previously worked as a designer at Facebook, Warby Parker, and The Whitney Museum of American Art. He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art. He lives with his family in Brooklyn.</p>
 </article>
 </div>
 
