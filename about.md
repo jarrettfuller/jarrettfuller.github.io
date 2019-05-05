@@ -11,7 +11,7 @@ permalink: /about/
 
 <div class="profile_section">
 <h4>Official Biography (100 words)</h4>
-<article><p>Jarrett Fuller is a designer, writer, educator, and podcaster. He runs twenty-six, a multidisciplinary design and editorial studio; hosts Scratching the Surface, a weekly podcast about design criticism; and teaches in both undergraduate and graduate programs at Pratt Institute, The New School Parsons School of Design, and the University of the Arts. He previously worked as a designer at Facebook, Warby Parker, and The Whitney Museum of American Art. He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art. He lives with his family in Brooklyn.</p>
+<article><p>Jarrett Fuller is a designer, writer, educator, and podcaster. He runs twenty-six, a multidisciplinary design and editorial studio; hosts Scratching the Surface, a weekly podcast about design criticism; and teaches in both undergraduate and graduate programs at Pratt Institute, The New School Parsons School of Design, and the University of the Arts. He previously worked as a designer at Facebook, Warby Parker, and The Whitney Museum of American Art. He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art. He lives in Brooklyn.</p>
 </article>
 </div>
 
@@ -34,6 +34,7 @@ permalink: /about/
 <div class="profile_section">
             <h4>Interviews/Features</h4>
             <article><ul>
+                <li><a href="http://www.eyemagazine.com/feature/article/the-designer-as-podcaster">The designer as Podcaster, <i>Eye Magazine</i></a>, feature</li>
                 <li><a href="http://perpetualbeta.vcfa.edu/2018/02/05/huh-34-an-interview-with-jarrett-fuller/">Perpetual Beta #34: An Interview with Jarrett Fuller</a>, interview</li>
                 <li><a href="http://amt.parsons.edu/blog/bfacd-faculty-highlight-jarrett-fuller/">Parsons BFACD Faculty Highlight</a>, interview</li>
             <li><a href="https://soundcloud.com/user-54181376/jarrettfuller">Exchanged: A podcast about design podcasts</a>, interview</li>
