@@ -1,7 +1,7 @@
 ---
 layout: text
 title: A Workshop with Soso Limited
-tags: Workshop
+tags: Research
 discription:
 categories:
 year: 2016

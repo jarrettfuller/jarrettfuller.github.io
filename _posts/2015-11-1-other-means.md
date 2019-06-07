@@ -1,7 +1,7 @@
 ---
 layout: text
 title: A Workshop With Other Means
-tags: Workshop
+tags: Research
 discription:
 categories:
 year: 2015
