@@ -248,6 +248,17 @@ border-top: 1px solid #ff0000;
   flex: 1;
   margin-left: 50px;
 }
+.profile sidebar p {
+  font-family: 'Karla', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+    line-height: 24px;
+}
+.profile sidebar p a{
+border-bottom: 1px solid black;
+}
+.profile sidebar p a:hover{
+border-bottom: 1px solid #ff0000;
+}
 .profile sidebar h4 {
     font-size: 16px;
 }
@@ -272,6 +283,28 @@ border-top: 1px solid #ff0000;
   width: 100%;
   margin-bottom: 0px;
   max-height: 400px;
+}
+.portrait {
+    border-radius: 50%;
+    border: 1px solid #ff0000;
+    margin-bottom: 25px;
+}
+input[type="email"] {
+    padding: 7px;
+    font-family: Karla;
+    font-size: 16px;
+    width: 60%;
+}
+input[type="submit"] {
+    background-color: lightgrey;
+    border-radius: 3px;
+    padding: 9px;
+    padding-left: 15px;
+    padding-right: 10px;
+    font-family: Karla;
+    font-size: 16px;
+    box-shadow: none;
+    border: none;
 }
 /*----------- WRITING --------------*/
 .essay {

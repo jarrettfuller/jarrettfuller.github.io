@@ -11,7 +11,7 @@ permalink: /about/
 
 <div class="profile_section">
 <h4>Official Biography (100 words)</h4>
-<article><p>Jarrett Fuller is a designer, writer, educator, and podcaster. He runs twenty-six, a multidisciplinary design and editorial studio; hosts Scratching the Surface, a weekly podcast about design criticism; and teaches in both undergraduate and graduate programs at Pratt Institute, The New School Parsons School of Design, and the University of the Arts. He previously worked as a designer at Facebook, Warby Parker, and The Whitney Museum of American Art. He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art. He lives in Brooklyn.</p>
+<article><p>Jarrett Fuller is a designer, writer, educator, and podcaster. He runs twenty-six, a multidisciplinary design and editorial studio; hosts Scratching the Surface, a weekly podcast about design criticism; and teaches in both undergraduate and graduate programs at Pratt Institute, The New School Parsons School of Design, and the University of the Arts; and serves on the board of directors for AIGA NY. He previously worked as a designer at Facebook, Warby Parker, and The Whitney Museum of American Art. He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art.</p>
 </article>
 </div>
 
@@ -21,7 +21,7 @@ permalink: /about/
 
 <p>In the last few years, teaching has become a central part of my practice. I've taught in both graduate and undergraduate design program at a variety of schools including The New School, Pratt Institute, University of the Arts, and Maryland Institute College of Art. For me, the classroom is where all my interests really come together: design, writing, criticism, discussion, thinking, making, performing, etc. As a teacher, I'm interested in fostering in my students a love of process and experimentation, cultivating authorship and voice, and thinking critically about their work and the profession at large. You can see a list of courses I've taught and sample syllabi <a href="http://www.jarrettfuller.com/teaching">here</a>.</p>
 
-<p>I also host and produced <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>, a weekly podcast which is ostensibly about the 'intersection of design criticism and practice' but has evolved to cover all sorts of things I'm interested in including expanded practices, teaching, and design theory. It's basically an excuse for me to talk to people I find interesting and has been featured on <i>Architectural Digest</i>, <i>Design Observer</i>, <i>Lecture in Progress</i>, and was included in <a href="https://www.curbed.com/2017/12/18/16778058/architecture-awards-2017">Curbed's Best Of 2017 list</a>.</p>
+<p>I also host and produce <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>, a weekly podcast which is ostensibly about the 'intersection of design criticism and practice' but has evolved to cover all sorts of things I'm interested in including expanded practices, teaching, and design theory. It's basically an excuse for me to talk to people I find interesting and has been featured on <i>Architectural Digest</i>, <i>Dezeen</i>, <i>Design Observer</i>, <i>Lecture in Progress</i>, and was included in <a href="https://www.curbed.com/2017/12/18/16778058/architecture-awards-2017">Curbed's Best Of 2017 list</a>.</p>
 
 <p>As a writer, my work focuses on a range of topics including design criticism, history, and cultural commentary. Recent writing and research have dealt with ideas around design education, technology, smart cities, the internet-of-things, and the intersection of philosophy and design. In 2018, I designed and co-edited <a href="https://amzn.to/2O3bDmU"><i>Culture is Not Always Popular: Fifteen Years of Design Observer</i></a> with Michael Bierut and Jessica Helfand, that collects over 60 essays from the website Design Observer.</p>
 
@@ -34,6 +34,7 @@ permalink: /about/
 <div class="profile_section">
             <h4>Interviews/Features</h4>
             <article><ul>
+                <li><a href="http://designdecode.org/article.php?p=jarrett-fuller">Design is Reality, <i>Design Decode</i></a>, interview</li>
                 <li><a href="http://www.eyemagazine.com/feature/article/the-designer-as-podcaster">The designer as Podcaster, <i>Eye Magazine</i></a>, feature</li>
                 <li><a href="http://perpetualbeta.vcfa.edu/2018/02/05/huh-34-an-interview-with-jarrett-fuller/">Perpetual Beta #34: An Interview with Jarrett Fuller</a>, interview</li>
                 <li><a href="http://amt.parsons.edu/blog/bfacd-faculty-highlight-jarrett-fuller/">Parsons BFACD Faculty Highlight</a>, interview</li>
@@ -84,18 +85,40 @@ permalink: /about/
 </div>
 
 <sidebar>
-        <img src="/images/exhibition-portrait.jpg">
+        <img src="/images/jf-portrait-2019.jpg" class="portrait">
+
+<h4>Studio</h4>
+                <p>I run a small Brooklyn-based design and editorial studio called <a href="http://twenty-six.design">twenty-six.design</a>. You can see recent work there. We're always taking on new clients.
+                    </p>
+
+<h4>Newsletter</h4>
+<p>Subscribe to my newsletter for updates on my work, photography, links, and other miscellany. Sent monthly(ish):</p>
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/jarrettfuller"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/jarrettfuller', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <input type="email" name="email" id="bd-email">
+  <input type="hidden" value="1" name="embed">
+  <input type="submit" value="Subscribe">
+  <p>
+  </p>
+</form>
         <h4>Contact</h4>
                 <p><ul>
                     <li><a href="mailto:jarrettfuller@gmail.com">Email</a></li>
                     <li><a href="http://www.twitter.com/jarrettfuller">Twitter</a></li>
                     <li><a href="http://www.instagram.com/jarrettfuller">Instagram</a></li>
                     <li><a href="https://github.com/jarrettfuller">Github</a></li><li><a href="https://are.na/jarrett-fuller">Are.na</a></li></ul>
-                                        <li><a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a></li>
+<!--                                        <li><a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a></li>-->
                     <li><a href="https://open.spotify.com/user/jarrettfuller">Spotify</a></li>
                     </p>
 
-                <h4>PDFs</h4>
+
+<h4>PDFs</h4>
                 <p><ul>
                     <li><a href="/extras/jarrettfuller-cv.pdf">Download CV</a></li>
                     </ul>
