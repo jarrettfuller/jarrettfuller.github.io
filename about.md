@@ -118,9 +118,9 @@ permalink: /about/
                     </p>
 
 
-<h4>PDFs</h4>
+<h4>CV</h4>
                 <p><ul>
-                    <li><a href="/extras/jarrettfuller-cv.pdf">Download CV</a></li>
+                    <li><a href="https://docs.google.com/document/d/1ZYmCwEPwgzn7XtCpVJmmxTG15Z5Ws38lkGUUVfoHmPo/edit?usp=sharing">View CV</a></li>
                     </ul>
                 </p>
         </sidebar>
