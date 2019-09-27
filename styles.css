@@ -642,3 +642,29 @@ TABLET
     width: 100%;
   }
 }
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #212028;
+        color: white;
+    }
+    a,
+    header h1,
+    .notes,
+.text article,
+article h3,
+article h4,
+.profile sidebar a,
+    text article a,
+    article a{
+  color: white;
+}
+    .profile sidebar a {
+  border-bottom: 0px white solid;
+}
+    .links:hover,
+.text article a,
+.profile sidebar p a{
+    color: white;
+border-bottom: 1px solid white;
+}
+}

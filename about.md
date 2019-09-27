@@ -65,7 +65,7 @@ permalink: /about/
                 </ul>
 
 <p></p>
-<p>I photograph with a Fuji X100f, iPhone Xs, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://zencastr.com">Zencastr</a> and edit in GarageBand. </p>
+<p>I photograph with a Fuji X100f, iPhone 11 Pro, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://zencastr.com">Zencastr</a> and edit in GarageBand. </p>
 
 </article>
 
