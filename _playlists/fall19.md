@@ -3,7 +3,7 @@ layout: playlists
 title: 'Heroes and Ghosts / Graveyards and Buildings'
 season: Fall 2019
 image: /images/fall19_playlist.jpg
-spotify: https://open.spotify.com/playlist/3Mpmr4HwysWHr6TSAASTbg?si=k5fLhjAKR2uxuVokAdrLvA
+stream: https://open.spotify.com/playlist/3Mpmr4HwysWHr6TSAASTbg?si=k5fLhjAKR2uxuVokAdrLvA
 ---
 
 1. *Design Guide* - William Doyle and Brian Eno
