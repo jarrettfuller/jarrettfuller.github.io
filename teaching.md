@@ -17,7 +17,7 @@ permalink: /teaching/
 
 <p><b>MFA Thesis I</b><br>
     Pratt Institute<br>
-    <a href="https://drive.google.com/open?id=1Uia0hB1fhpDZ1d3vV2P4LDL3m3tWPJqmbiqE7bubqNo">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+    <a href="https://drive.google.com/open?id=1CentPTkVXGim4kgfVswuRzeAG_n92T0phTd5OTBfmXc">Syllabus <i class="far fa-external-link-alt"></i></a></p>
 
     <p><b>Graduate Seminar B</b><br>
     Pratt Institute<br>

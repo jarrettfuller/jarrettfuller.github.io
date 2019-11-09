@@ -1,7 +1,7 @@
 ---
 layout: text
 title: A Conversation with Michael Bierut and Jessica Helfand
-tags: Writing
+tags: Interview
 publish: February 2019
 year: 2018
 image: http://twenty-six.design/images/do-09.jpg
