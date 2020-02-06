@@ -10,6 +10,27 @@ permalink: /teaching/
 <div class="text">
 
 <div class="profile_section">
+<h4>Spring 2020</h4>
+<article><p><b>Advanced Typography</b><br>
+    The New School, Parsons School of Design<br>
+    <a href="https://drive.google.com/open?id=1nJyzvj3U1CpSWa89MVBcJZMhneIJUYdekyLynw9W2NM">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+<p><b>MFA Thesis II</b><br>
+    Pratt Institute<br>
+    <a href="https://drive.google.com/open?id=11PS7J4WrRWXzo83xBMQCd5bT7aSbE31BHZuts1OoPqI">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+    <p><b>Design Writing</b><br>
+    Pratt Institute<br>
+    <a href="https://drive.google.com/open?id=1VjVNCY337h59CDes7nQJKrWaOPOVvEprHY9ugebEOmE">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+    <p><b>Portfolio</b><br>
+    Rutgers University, Mason Gross School of Art<br>
+<a href="https://drive.google.com/open?id=1Gz__zsjZDBj4brOs0GpnFn4kHBiOcR27cQb3JFW1rio">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+</article>
+</div>
+
+<div class="profile_section">
 <h4>Fall 2019</h4>
 <article><p><b>Core Studio Typography</b><br>
     The New School, Parsons School of Design<br>
