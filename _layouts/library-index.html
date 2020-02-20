@@ -1,0 +1,99 @@
+---
+layout: default
+---
+<style type="text/css">
+    * {
+        padding: 0px;
+        margin: 0px;
+        box-sizing: border-box;
+    }
+    .intro {
+      padding: 15px 25% 100px 50px;
+        height: auto;
+}
+.intro p {
+    font-size: 48px;
+}
+    #playlist-container {
+        display: flex;
+      max-width: 100%;
+        border-top: 1px solid red;
+        padding: 25px;
+        flex-flow: wrap;
+    }
+.playlist-cover {
+    width: 15%;
+    padding: 25px;
+    align-items: baseline;
+}
+figure {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+        align-items: baseline;
+}
+figure img {
+    width: 100%;
+    padding-bottom: 5px;
+    bottom: 0;
+        align-items: baseline;
+}
+
+figcaption {
+    width: 100%;
+        color: black;
+}
+    figcaption h1 {
+        font-size: 16px;
+        line-height: 17px;
+    }
+    figcaption h2 {
+        font-size: 16px;
+        line-height: 17px;
+        color: rgba(0,0,0,.4);
+    }
+
+@media only screen and (max-width: 1024px) {
+    #playlist-container {
+        display: block;
+    }
+    .playlist-cover {
+        width: 100%;
+                    padding: 0px;
+    }
+        figure {
+        padding-bottom: 50px;
+    }
+    figcaption {
+    display: block;
+    position: inherit;
+    padding: 0px;
+}
+    figure:hover img {
+        filter: none;
+    }
+        }
+        </style>
+<body>
+     <div class="intro">
+        <p>As both a designer and writer, my library is important to me. Below are a selection of my all-time favorite books from novels to essay collections, design theory to memoir.</p>
+
+</div>
+
+<div id="playlist-container">
+{% for library in site.library %}
+      <div class="playlist-cover">
+                <a href="{{ library.amazon }}">
+        <figure>
+            <img src="{{ library.image}}" alt="image"/>
+            <figcaption>
+           <h1>{{ library.title }}</h1>
+            <h2>{{ library.author }}</h2></figcaption>
+        </figure>
+          </a>
+        </div>
+  {% endfor %}
+    </div>
+
+</body>
