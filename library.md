@@ -1,7 +1,7 @@
 ---
 layout: library-index
 title: Library
-permalink: /library/
+permalink: /library
 ---
 
 {% for library in site.library %}
