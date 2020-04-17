@@ -23,8 +23,9 @@ layout: default
             align-items: baseline;
     }
 .playlist-cover {
-    width: 15%;
+    width: 16.5%;
     padding: 25px;
+    padding-bottom: 50px;
     align-items: baseline;
 }
 figure {
@@ -34,33 +35,34 @@ figure {
     position: relative;
         align-items: baseline;
 }
+        figure:hover {
+        opacity: 70%;
+    }
 figure img {
     width: 100%;
     padding-bottom: 5px;
     bottom: 0;
         align-items: baseline;
 }
-
 figcaption {
     width: 100%;
 }
     figcaption h1 {
         font-size: 16px;
         line-height: 18px;
+        color: rgba(0,0,0,.6);
     }
     figcaption h2 {
         font-size: 16px;
         line-height: 18px;
-color: lightgray;
+        color: rgba(0,0,0,.4);
+        font-weight: normal;
     }
 
 @media only screen and (max-width: 1024px) {
-    #playlist-container {
-        display: block;
-    }
+
     .playlist-cover {
-        width: 100%;
-                    padding: 0px;
+        width: 50%;;
     }
         figure {
         padding-bottom: 50px;
