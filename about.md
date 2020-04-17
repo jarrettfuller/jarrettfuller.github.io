@@ -19,7 +19,7 @@ permalink: /about/
 <h4>Statement</h4>
 <article><p>My work spans design, writing, broadcasting, criticism, and education. I’m interested in design as both a noun and a verb and my work focuses on design as a process; the act of forming ideas and giving ideas form. I believe that design is ideology made artifact and must respond to the world around it. In the last tweet years, design’s role has expanded but this should not be seen as colonizing bur rather as democratizing. Design, then, becomes a liberal art. My recent design work can be seen on <a href="http://www.twenty-six.design">my studio's website</a>.</p>
 
-<p>My writing as appeared on <a href="https://designobserver.com/profile/jarrettfuller/32550/">Design Observer</a>, Eye on Design, and, for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>. My writing focuses on a range of topics including design criticism, history, and cultural commentary. Recent writing and research has dealt with ideas around design education, design as a liberal art, smart cities and the internet-of-things, and the intersection of philosophy and design. In 2016, I particpated in Triple Canopy's Publication Intensive. In 2018, I designed and co-edited <a href="https://amzn.to/2O3bDmU"><i>Culture is Not Always Popular: Fifteen Years of Design Observer</i></a> with Michael Bierut and Jessica Helfand, that collects over 60 essays from the website Design Observer.</p>
+<p>My writing has appeared on <a href="https://designobserver.com/profile/jarrettfuller/32550/">Design Observer</a>, Eye on Design, and, for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>. My writing focuses on a range of topics including design criticism, history, and cultural commentary. Recent writing and research has dealt with ideas around design education, design as a liberal art, smart cities and the internet-of-things, and the intersection of philosophy and design. In 2016, I particpated in Triple Canopy's Publication Intensive. In 2018, I designed and co-edited <a href="https://amzn.to/2O3bDmU"><i>Culture is Not Always Popular: Fifteen Years of Design Observer</i></a> with Michael Bierut and Jessica Helfand, that collects over 60 essays from the website Design Observer.</p>
 
 <p>I also host and produce <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>, a weekly podcast design, theory, and creative practice. I sometimes describe is a podcast about designers who don’t want to be designers. In the end, though, it's basically an excuse for me to talk to people I find interesting. It’s been featured on <i>Architectural Digest</i>, <i>Dezeen</i>, <i>Design Observer</i>, <i>Lecture in Progress</i>, and was included in <a href="https://www.curbed.com/2017/12/18/16778058/architecture-awards-2017">Curbed's Best Of 2017 list</a>.</p>
 
@@ -27,7 +27,7 @@ permalink: /about/
 
 <p>In addition to design, I dabble in <a href="http://www.instagram.com/jarrettfuller">photography</a>, painting, <a href="http://www.jarrettfuller.com/playlists">producing playlists</a>, making pizza, and fermentation.</p>
 
-<p>I spend my free time reading <a href=“/library>lots of books</a>, watching movies, and practicing yoga. Outside of work, I'm interested in media theory, philosophy, urbanism, cooking, and natural wines.</p>
+<p>I spend my free time reading <a href="/library">lots of books</a>, watching movies, and practicing yoga. Outside of work, I'm interested in media theory, philosophy, urbanism, cooking, and natural wines.</p>
 
 </article>
 </div>
