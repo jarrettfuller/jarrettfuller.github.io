@@ -2,6 +2,7 @@
 layout: playlists
 title: A Ship Out to Nowhere
 season: Winter 2020
+permalink: /playlists/winter20
 image: https://www.jarrettfuller.blog/images/02.06.20_winter-2020-mix.jpg
 stream: https://open.spotify.com/playlist/6DsawyjwjXCUmxeKGUhZ24?si=u2NQqZ6KT2GlwkjzgG_rqg
 ---

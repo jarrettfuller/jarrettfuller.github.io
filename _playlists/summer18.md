@@ -2,6 +2,7 @@
 layout: playlists
 title: Summer Daze
 season: Summer 2018
+permalink: /playlists/summer18
 image: https://66.media.tumblr.com/c041a995f41be2793fbe1cc8870aad8e/tumblr_inline_paj7o145HQ1qzwy5u_500.jpg
 spotify: https://open.spotify.com/embed/user/jarrettfuller/playlist/1WPRCafuw1X5MC1tCmOdnf
 stream: https://open.spotify.com/user/jarrettfuller/playlist/6xJer2h67XHIoprPYv2NGR?si=bjX7fSOWShOkvArkH2q4Fg

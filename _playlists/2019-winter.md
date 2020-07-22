@@ -2,6 +2,7 @@
 layout: playlists
 title: We Can Hear When We Are Hollow
 season: Winter 2019
+permalink: /playlists/winter19
 image: https://www.jarrettfuller.blog/images/winter19_playlist.jpg
 stream: https://open.spotify.com/embed/user/jarrettfuller/playlist/1WPRCafuw1X5MC1tCmOdnf
 ---
