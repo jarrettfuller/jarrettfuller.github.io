@@ -10,6 +10,26 @@ permalink: /teaching/
 <div class="text">
 
 <div class="profile_section">
+<h4>Fall 2020</h4>
+<article><p><b>Core 1: Typography Studio </b><br>
+    The New School, Parsons School of Design<br>
+    <a href="https://docs.google.com/document/d/1Fw_-ZV9EGxyzGqwXXzigQ8YHOKPHU8Lli_tSo7Jv8B8/edit?usp=sharing">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+<p><b>MFA Thesis I</b><br>
+    Pratt Institute<br>
+    <a href="https://docs.google.com/document/d/1ruQdljlQD39kPs9Ih88_a3TFEvPo32H21qUi7g8cZyw/edit?usp=sharing">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+<p><b>Typography</b><br>
+    Pratt Institute<br>
+    <a href="https://docs.google.com/document/d/1EWpTAEkf5fvQ_bzmLAxipfuU8ZF97hbMHLMkEjijjDM/edit?usp=sharing">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+<p><b>Design Strategies: Brand Identity</b><br>
+    University of the Arts<br>
+    <a href="https://docs.google.com/document/d/1ed4yQOf7wlxQXFYgQs3D9B4kgWi2tiOzxB09q4WW-U8/edit?usp=sharing">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+</article>
+</div>
+
+<div class="profile_section">
 <h4>Spring 2020</h4>
 <article><p><b>Advanced Typography</b><br>
     The New School, Parsons School of Design<br>
