@@ -52,7 +52,9 @@ permalink: /writing/
 <div class="profile_section">
 <h4>Opinion</h4>
 <article>
-
+<p>
+    <a href="https://eyeondesign.aiga.org/every-act-of-design-is-an-act-of-future-making/">Every Act of Design is an Act of Future-making</a>, <i>Eye On Design</i>, September 2020
+</p>
 <p>
     <a href="https://designobserver.com/article.php?id=40090">Against Design?</a>, <i>Design Observer</i>, July 2019
 </p>
@@ -66,6 +68,9 @@ permalink: /writing/
     <a href="https://jarrettfuller.com/projects/celebrity-designers">Celebrity designers, context collapse, and rethinking how we teach design history</a>, <i>jarrettfuller.blog</i>, October 2018
 </p>
 <p>
+    <a href="http://new.100archive.com/article/viewpoints-jarrett-fuller">How do we get the most out of design criticism?</a>, <i>100Archive</i>, April 2017
+</p>
+<p>
     <a href="hhttps://jarrettfuller.com/projects/neutrality">The Myth of Neutrality</a>, <i>jarrettfuller.com</i>, July 2016
 </p>
 
@@ -76,6 +81,9 @@ permalink: /writing/
 <div class="profile_section">
 <h4>Interviews</h4>
 <article>
+<p>
+    <a href="https://mitpress.mit.edu/blog/conversation-michael-bierut-and-jessica-helfand-culture-not-always-popular-fifteen-years">A Conversation with Michael Bierut and Jessica Helfand</a>, <i>MIT Press</i>, February 2019
+</p>
 
 <p>
     <a href="https://medium.com/scratchingthesurfacefm/an-interview-with-experimental-jetset-91b49c245a6">Experimental Jetset</a>, <i>Scratching the Surface</i>, March 2017
@@ -90,10 +98,11 @@ permalink: /writing/
 <sidebar>
 <h4>Writing</h4>
     <p>I've write for a variety of publications about design, culture, and criticism, including Design Observer, Eye on Design, and for the last fifteen years, my own blog.</p>
-        <p>Since 2020, I've been a contributing editor for AIGA Eye on Design.</p>
+        <p>Since July 2020, I've been a contributing editor for AIGA Eye on Design.</p>
 
 <h4>Book</h4>
     <p>In 2018, I was the managing editor and designer for <i>Culture is Not Always Popular</i>, an anthology of writing from the first fifteen years of Design Observer.</p>
+    <p><a href="https://amzn.to/32NgZvP">Buy the book here.</a></p>
 <!--</sidebar>-->
 
 
