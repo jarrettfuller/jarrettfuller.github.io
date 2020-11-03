@@ -53,6 +53,9 @@ permalink: /writing/
 <h4>Opinion</h4>
 <article>
 <p>
+    <a href="https://eyeondesign.aiga.org/when-did-design-stop-being-multidisciplinary/">When Did Design Stop Being “Multidisciplinary?”</a>, <i>Eye On Design</i>, October 2020
+</p>
+<p>
     <a href="https://eyeondesign.aiga.org/every-act-of-design-is-an-act-of-future-making/">Every Act of Design is an Act of Future-making</a>, <i>Eye On Design</i>, September 2020
 </p>
 <p>
@@ -97,7 +100,7 @@ permalink: /writing/
 
 <sidebar>
 <h4>Writing</h4>
-    <p>I've write for a variety of publications about design, culture, and criticism, including Design Observer, Eye on Design, and for the last fifteen years, my own blog.</p>
+    <p>I've written for a variety of publications about design, culture, and criticism, including Design Observer, Eye on Design, and for the last fifteen years, my own blog.</p>
         <p>Since July 2020, I've been a contributing editor for AIGA Eye on Design.</p>
 
 <h4>Book</h4>
