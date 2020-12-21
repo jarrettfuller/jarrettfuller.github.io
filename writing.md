@@ -13,6 +13,10 @@ permalink: /writing/
 <h4>Criticism</h4>
 <article>
 <p>
+    <a href="https://eyeondesign.aiga.org/as-social-media-reshapes-branding-retail-stores-become-more-like-sponsored-content/">As Social Media Reshapes Branding, Retail Stores Become More Like Sponsored Content</a>, <i>Eye on Design</i>, December 2020
+</p>
+
+<p>
     <a href="https://www.jarrettfuller.blog/2020/01/abstract/">Netflix keeps design ‘Abstract’</a>, <i>jarrettfuller.blog</i>, January 2020
 </p>
     <p>
@@ -101,7 +105,7 @@ permalink: /writing/
 <sidebar>
 <h4>Writing</h4>
     <p>I've written for a variety of publications about design, culture, and criticism, including Design Observer, Eye on Design, and for the last fifteen years, my own blog.</p>
-        <p>Since July 2020, I've been a contributing editor for AIGA Eye on Design.</p>
+        <p>Since July 2020, I've been a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
 
 <h4>Book</h4>
     <p>In 2018, I was the managing editor and designer for <i>Culture is Not Always Popular</i>, an anthology of writing from the first fifteen years of Design Observer.</p>

@@ -1,6 +1,6 @@
 ---
 layout: text
-title: When Did Design Stop Being “Multidisciplinary?”
+title: When Did Design Stop Being “Multidisciplinary?
 tags: Writing
 publish: October 2020
 year: 2020
