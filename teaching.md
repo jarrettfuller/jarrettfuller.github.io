@@ -10,6 +10,44 @@ permalink: /teaching/
 <div class="text">
 
 <div class="profile_section">
+<h4>Spring 2021</h4>
+<article><p><b>Core 2: Typography</b><br>
+    The New School, Parsons School of Design<br>
+    <a href="https://docs.google.com/document/d/1Fw_-ZV9EGxyzGqwXXzigQ8YHOKPHU8Lli_tSo7Jv8B8/edit?usp=sharing">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+<p><b>MFA Thesis II</b><br>
+    Pratt Institute<br>
+    <a href="https://docs.google.com/document/d/1ruQdljlQD39kPs9Ih88_a3TFEvPo32H21qUi7g8cZyw/edit?usp=sharing">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+<p><b>Typographic + Info Design</b><br>
+    Pratt Institute<br>
+    <a href="https://docs.google.com/document/d/1EWpTAEkf5fvQ_bzmLAxipfuU8ZF97hbMHLMkEjijjDM/edit?usp=sharing">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+</article>
+</div>
+
+<div class="profile_section">
+<h4>Spring 2020</h4>
+<article><p><b>Advanced Typography</b><br>
+    The New School, Parsons School of Design<br>
+    <a href="https://drive.google.com/open?id=1nJyzvj3U1CpSWa89MVBcJZMhneIJUYdekyLynw9W2NM">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+<p><b>MFA Thesis II</b><br>
+    Pratt Institute<br>
+    <a href="https://drive.google.com/open?id=11PS7J4WrRWXzo83xBMQCd5bT7aSbE31BHZuts1OoPqI">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+    <p><b>Design Writing</b><br>
+    Pratt Institute<br>
+    <a href="https://drive.google.com/open?id=1VjVNCY337h59CDes7nQJKrWaOPOVvEprHY9ugebEOmE">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+    <p><b>Portfolio</b><br>
+    Rutgers University, Mason Gross School of Art<br>
+<a href="https://drive.google.com/open?id=1Gz__zsjZDBj4brOs0GpnFn4kHBiOcR27cQb3JFW1rio">Syllabus <i class="far fa-external-link-alt"></i></a></p>
+
+</article>
+</div>
+
+<div class="profile_section">
 <h4>Fall 2020</h4>
 <article><p><b>Core 1: Typography Studio </b><br>
     The New School, Parsons School of Design<br>

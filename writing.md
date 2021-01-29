@@ -45,6 +45,10 @@ permalink: /writing/
 <h4>Journalism</h4>
 <article>
 <p>
+    <a href="https://eyeondesign.aiga.org/isometric-studio-is-rethinking-what-it-means-to-design-for-social-good/">Isometric Studio is Rethinking What it Means to Design for Social Good</a>, <i>Eye on Design</i>, January 2021
+</p>
+
+<p>
     <a href="https://eyeondesign.aiga.org/design-criticism-is-everywhere-why-are-we-still-looking-for-it/">Design Criticism Is Everywhere—Why Are We Still Looking For It?</a>, <i>Eye on Design</i>, August 2020
 </p>
 <p>
@@ -56,6 +60,10 @@ permalink: /writing/
 <div class="profile_section">
 <h4>Opinion</h4>
 <article>
+<p>
+    <a href="https://designobserver.substack.com/p/january-newsletter-jarrett-fuller">On presence</a>, <i>Design Observer</i>, January 2021
+</p>
+
 <p>
     <a href="https://eyeondesign.aiga.org/when-did-design-stop-being-multidisciplinary/">When Did Design Stop Being “Multidisciplinary?”</a>, <i>Eye On Design</i>, October 2020
 </p>
@@ -104,7 +112,7 @@ permalink: /writing/
 
 <sidebar>
 <h4>Writing</h4>
-    <p>I've written for a variety of publications about design, culture, and criticism, including Design Observer, Eye on Design, and for the last fifteen years, my own blog.</p>
+    <p>I've written for a variety of publications about design, culture, and criticism, including Design Observer, Eye on Design, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
         <p>Since July 2020, I've been a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
 
 <h4>Book</h4>

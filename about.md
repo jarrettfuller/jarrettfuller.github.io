@@ -21,7 +21,7 @@ permalink: /about/
 
 <p>I run a small, independent design, editorial, and research studio called twenty-six where we engage with clients large and small, around the world, on projects ranging from visual design to editorial strategy to research initiatives. Recent clients have included Thames and Hudson, MIT Press, University of Nevada, Study Hall, and Design Observer. My recent design work can be seen on <a href="http://www.twenty-six.design">my studio's website</a>.</p>
 
-<p>My writing has appeared on <a href="https://designobserver.com/profile/jarrettfuller/32550/">Design Observer</a>, Eye on Design, and, for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>. My writing focuses on a range of topics including design criticism, history, and cultural commentary. Recent writing and research has dealt with ideas around design education, design as a liberal art, smart cities and the internet-of-things, and the intersection of philosophy and design. In 2016, I particpated in Triple Canopy's Publication Intensive. In 2018, I designed and co-edited <a href="https://amzn.to/2O3bDmU"><i>Culture is Not Always Popular: Fifteen Years of Design Observer</i></a> with Michael Bierut and Jessica Helfand, that collects over 60 essays from the website Design Observer. I'm currently a contributing editor for AIGA's design website, Eye on Design.</p>
+<p>My writing has appeared on <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">Eye on Design</a>, <a href="https://designobserver.com/profile/jarrettfuller/32550/">Design Observer</a>, and, for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>. My writing focuses on a range of topics including design criticism, history, and cultural commentary. Recent writing and research has dealt with ideas around design education, design as a liberal art, smart cities and the internet-of-things, and the intersection of philosophy and design. In 2016, I particpated in Triple Canopy's Publication Intensive. In 2018, I designed and co-edited <a href="https://amzn.to/2O3bDmU"><i>Culture is Not Always Popular: Fifteen Years of Design Observer</i></a> with Michael Bierut and Jessica Helfand, that collects over 60 essays from the website Design Observer. I'm currently a contributing editor for AIGA's design website, Eye on Design.An archive of recent writing can be found <a href="http://www.jarrettfuller.com/writing">here</a>.</p>
 
 <p>I also host and produce <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>, a weekly podcast design, theory, and creative practice. I sometimes describe is a podcast about designers who don’t want to be designers. In the end, though, it's basically an excuse for me to talk to people I find interesting. It’s been featured on <i>Architectural Digest</i>, <i>Dezeen</i>, <i>Design Observer</i>, <i>Lecture in Progress</i>, and was included in <a href="https://www.curbed.com/2017/12/18/16778058/architecture-awards-2017">Curbed's Best Of 2017 list</a>.</p>
 
@@ -59,16 +59,16 @@ permalink: /about/
                 <p>I primarily work on a 15" Macbook Pro attached to a 27" Cinema Display and a 11" iPad Pro with Smart Keyboard Folio and Apple Pencil. I use:</p>
 <ul>
             <li>— Adobe Creative Suite for designing</li>
-    <li>— <a href="https://ia.net/writer">IA Writer</a> for writing</li>
+    <li>— <a href="https://ulysses.app">Ulysses</a> for writing</li>
                 <li>— <a href="http://brackets.io">Brackets</a> for coding</li>
                 <li>— <a href="https://github.com">Github</a> + Terminal for repos</li>
                 <li>— <a href="https://www.dropbox.com/">Dropbox</a> and <a href="https://www.backblaze.com">Backblaze</a> for backups</li>
                 <li>— <a href="https://1password.com">1Password</a> for password management</li>
-                <li>— <a href="https://www.privateinternetaccess.com">Private Internet Access</a> for VPN</li>
+                <li>— <a href="https://airtable.com">AirTable</a> for organizing my life</li>
                 </ul>
 
 <p></p>
-<p>I photograph with a Fuji X100f, iPhone 11 Pro, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://zencastr.com">Zencastr</a> and edit in GarageBand. </p>
+<p>I photograph with a Fuji X100f, iPhone 11 Pro, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://zencastr.com">Zencastr</a> and edit in GarageBand. Transcripts are produced using <a href="https://otter.ai">Otter</a>.</p>
 
 </article>
 
