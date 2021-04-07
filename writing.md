@@ -45,6 +45,10 @@ permalink: /writing/
 <h4>Journalism</h4>
 <article>
 <p>
+    <a href="https://eyeondesign.aiga.org/graphic-designers-have-always-loved-minimalism-but-at-what-cost/">Graphic Designers Have Always Loved Minimalism. But At What Cost?</a>, <i>Eye on Design</i>, April 2021
+</p>
+
+<p>
     <a href="https://eyeondesign.aiga.org/isometric-studio-is-rethinking-what-it-means-to-design-for-social-good/">Isometric Studio is Rethinking What it Means to Design for Social Good</a>, <i>Eye on Design</i>, January 2021
 </p>
 
