@@ -47,6 +47,7 @@ permalink: /about/
 <div class="profile_section">
             <h4>Interviews/Features</h4>
             <article><ul>
+                <li><a href="https://www.designhistorysociety.org/news/view/dhs-podcasts-third-episode-is-out-listen-to-fiona-anderson-in-conversation-with-jarrett-fuller-the-2021-design-writing-prize-guest-judge">Conversation with Jarrett Fuller, <i>2021 Design Writing Prize</i></a>, interview</li>
                 <li><a href="http://designdecode.org/article.php?p=jarrett-fuller">Design is Reality, <i>Design Decode</i></a>, interview</li>
                 <li><a href="http://www.eyemagazine.com/feature/article/the-designer-as-podcaster">The designer as Podcaster, <i>Eye Magazine</i></a>, feature</li>
                 <li><a href="http://perpetualbeta.vcfa.edu/2018/02/05/huh-34-an-interview-with-jarrett-fuller/">Perpetual Beta #34: An Interview with Jarrett Fuller</a>, interview</li>
