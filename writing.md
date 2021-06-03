@@ -45,6 +45,10 @@ permalink: /writing/
 <h4>Journalism</h4>
 <article>
 <p>
+    <a href="https://eyeondesign.aiga.org/dot-dot-dot-is-the-most-influential-design-magazine-youve-never-heard-of/">Dot Dot Dot Is the Most Influential Design Magazine You’ve Never Heard Of</a>, <i>Eye on Design</i>, May 2021
+</p>
+
+<p>
     <a href="https://eyeondesign.aiga.org/graphic-designers-have-always-loved-minimalism-but-at-what-cost/">Graphic Designers Have Always Loved Minimalism. But At What Cost?</a>, <i>Eye on Design</i>, April 2021
 </p>
 
@@ -119,9 +123,10 @@ permalink: /writing/
     <p>I've written for a variety of publications about design, culture, and criticism, including Design Observer, Eye on Design, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
         <p>Since July 2020, I've been a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
 
-<h4>Book</h4>
-    <p>In 2018, I was the managing editor and designer for <i>Culture is Not Always Popular</i>, an anthology of writing from the first fifteen years of Design Observer.</p>
-    <p><a href="https://amzn.to/32NgZvP">Buy the book here.</a></p>
+<h4>Books</h4>
+    <p>I'm currently editing a forthcoming book about the history of the Communication Design program at Parsons School of Design called <i>1, 10, 100 Years: Form, Typography, and Interaction at Parsons</i>, to be published Summer 2021 by <a href="https://www.oroeditions.com/">Oro Editions</a>.
+
+    <p>In 2018, I was the managing editor and designer for <i>Culture is Not Always Popular</i>, an anthology of writing from the first fifteen years of Design Observer. <a href="https://amzn.to/32NgZvP">Buy the book here.</a></p>
 <!--</sidebar>-->
 
 
