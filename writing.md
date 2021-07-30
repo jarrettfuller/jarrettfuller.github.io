@@ -45,6 +45,10 @@ permalink: /writing/
 <h4>Journalism</h4>
 <article>
 <p>
+    <a href="https://eyeondesign.aiga.org/how-cranbrooks-design-program-redefined-how-we-make-and-talk-about-graphic-design/">How Cranbrook’s Design Program Redefined How We Make and Talk About Graphic Design</a>, <i>Eye on Design</i>, July 2021
+</p>
+
+<p>
     <a href="https://eyeondesign.aiga.org/dot-dot-dot-is-the-most-influential-design-magazine-youve-never-heard-of/">Dot Dot Dot Is the Most Influential Design Magazine You’ve Never Heard Of</a>, <i>Eye on Design</i>, May 2021
 </p>
 
