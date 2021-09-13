@@ -421,6 +421,27 @@ figcaption a:hover {
   width: 100%;
   height: 100%;
 }
+/*----------- RECENTLY --------------*/
+.recently {
+    border-top: 1px solid red;
+    padding: 25px;
+}
+.recently p {
+    padding: 0;
+    margin: 0;
+}
+.recently li {
+    padding: 15px;
+    background-color: lightgrey;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.recently li a {
+    border-bottom: 0px;
+    padding-bottom: 0px;
+    font-family: 'Karla', Helvetica, Arial, sans-serif;
+}
 /*----------- FOOTER --------------*/
 footer {
   border-top: 1px #ff0000 solid;
