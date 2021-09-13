@@ -1,7 +1,7 @@
 ---
 layout: links
 title: Recent Links
-permalink: /links/
+permalink: /links
 ---
 
 * [September Newsletter: On Big Red Machine](https://buttondown.email/jarrettfuller/archive/14-the-capaciousness-and-intimacy-in-big-red/)
