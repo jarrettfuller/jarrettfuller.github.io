@@ -4,7 +4,9 @@ title: Recent Links
 permalink: /links
 ---
 
-* [September Newsletter: On Big Red Machine](https://buttondown.email/jarrettfuller/archive/14-the-capaciousness-and-intimacy-in-big-red/)
+* [Latest newsletter: Contesting Design at Het Nieuwe Instituut](https://buttondown.email/jarrettfuller/archive/15-contesting-design-at-het-nieuwe-instituut/)
+
+* [Previous newsletter: On Big Red Machine](https://buttondown.email/jarrettfuller/archive/14-the-capaciousness-and-intimacy-in-big-red/)
 
 * [Sunset Park: A Photo Book](https://jarrettfuller.com/projects/sunsetpark)
 
