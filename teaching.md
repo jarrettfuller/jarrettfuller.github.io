@@ -10,6 +10,22 @@ permalink: /teaching/
 <div class="text">
 
 <div class="profile_section">
+<h4>Fall 2021</h4>
+<article><p><b>Research Methods</b> (co-teaching with Kelly Umstead)<br>
+    North Carolina State University <br>
+<!--    <a href="https://docs.google.com/document/d/1Fw_-ZV9EGxyzGqwXXzigQ8YHOKPHU8Lli_tSo7Jv8B8/edit?usp=sharing">Syllabus <i class="far fa-external-link-alt"></i></a>-->
+    </p>
+
+<p><b>Design, Context, Experience</b><br>
+    North Carolina State University<br>
+<!--    <a href="https://docs.google.com/document/d/1ruQdljlQD39kPs9Ih88_a3TFEvPo32H21qUi7g8cZyw/edit?usp=sharing">Syllabus <i class="far fa-external-link-alt"></i></a>-->
+</p>
+
+
+</article>
+</div>
+
+<div class="profile_section">
 <h4>Spring 2021</h4>
 <article><p><b>Core 2: Typography</b><br>
     The New School, Parsons School of Design<br>
