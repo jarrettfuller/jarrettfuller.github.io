@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [Scratching the Surface's 200th episode AMA](https://scratchingthesurface.fm/200-jarrett-fuller)
+
 * [Latest newsletter: Contesting Design at Het Nieuwe Instituut](https://buttondown.email/jarrettfuller/archive/15-contesting-design-at-het-nieuwe-instituut/)
 
 * [Previous newsletter: On Big Red Machine](https://buttondown.email/jarrettfuller/archive/14-the-capaciousness-and-intimacy-in-big-red/)
