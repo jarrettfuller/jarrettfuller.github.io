@@ -311,9 +311,9 @@ input[type="submit"] {
   width: 55%;
 }
 article {
-  font-family: 'Tinos', Georgia, Times, serif;
-  font-size: 20px;
-  line-height: 1.6em;
+  font-family: 'Plantin', Georgia, Times, serif;
+  font-size: 21px;
+  line-height: 1.5em;
 }
 article h3 {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
@@ -329,8 +329,8 @@ article h4 {
   font-size: 20px;
 }
 article a {
-  font-family: 'Tinos', Georgia, Times, serif;
-  font-size: 20px;
+  font-family: 'Plantin', Georgia, Times, serif;
+  font-size: 21px;
   border-bottom: 1px #ff0000 solid;
 }
 article a:hover {
