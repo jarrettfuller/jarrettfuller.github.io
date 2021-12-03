@@ -40,6 +40,7 @@ permalink: /about/
 </article>
 </div>
 
+<!--
 <div class="profile_section">
             <h4>Interviews/Features</h4>
             <article><ul>
@@ -59,6 +60,7 @@ permalink: /about/
 </ul>
 </article>
             </div>
+-->
 
 <div class="profile_section">
             <h4>Gear</h4>
@@ -119,22 +121,25 @@ permalink: /about/
   <p>
   </p>
 </form>
-        <h4>Contact</h4>
-                <p><ul>
-                    <li><a href="mailto:jarrettfuller@gmail.com">Email</a></li>
-                    <li><a href="http://www.twitter.com/jarrettfuller">Twitter</a></li>
-                    <li><a href="http://www.instagram.com/jarrettfuller">Instagram</a></li>
-                    <li><a href="https://github.com/jarrettfuller">Github</a></li><li><a href="https://are.na/jarrett-fuller">Are.na</a></li></ul>
-<!--                                        <li><a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a></li>-->
-                    <li><a href="https://open.spotify.com/user/jarrettfuller">Spotify</a></li>
-                    </p>
-
 
 <h4>CV</h4>
                 <p><ul>
-                    <li><a href="https://docs.google.com/document/d/1ZYmCwEPwgzn7XtCpVJmmxTG15Z5Ws38lkGUUVfoHmPo/edit?usp=sharing">View CV</a></li>
+        <li><a href="https://docs.google.com/document/d/1ZYmCwEPwgzn7XtCpVJmmxTG15Z5Ws38lkGUUVfoHmPo/edit?usp=sharing">View CV</a></li>
+        <li><a href="/about/press">Press/Interviews</a></li>
                     </ul>
                 </p>
+
+<h4>Contact</h4>
+        <p><ul>
+            <li><a href="mailto:jarrettfuller@gmail.com">Email</a></li>
+            <li><a href="http://www.twitter.com/jarrettfuller">Twitter</a></li>
+            <li><a href="http://www.instagram.com/jarrettfuller">Instagram</a></li>
+            <li><a href="https://github.com/jarrettfuller">Github</a></li><li><a href="https://are.na/jarrett-fuller">Are.na</a></li></ul>
+<!--                                        <li><a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a></li>-->
+            <li><a href="https://open.spotify.com/user/jarrettfuller">Spotify</a></li>
+                    </p>
+
+
         </sidebar>
 
 
