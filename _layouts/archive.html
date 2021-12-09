@@ -11,6 +11,22 @@ layout: default
 .about-intro p {
     font-size: 48px;
 }
+    .about-intro a {
+        font-size: 48px;
+        border-bottom: 2px solid lightgrey;
+    }
+    .about-intro a:hover {
+        border-bottom: 2px solid black;
+    }
+.images,
+.images-left,
+    .images-right {
+        color: black;
+    }
+    .preview h1 {
+        padding: 100px 25px 25px 50px;
+                 border-top: 1px solid #ff0000;
+    }
             .object:first { border-top: none; }
             .object {
               padding: 15px 50px 15px 50px;
@@ -20,8 +36,11 @@ layout: default
               display: flex;
               width: 100%;
               width: auto;
-                              box-sizing: border-box;
+            box-sizing: border-box;
             }
+    .preview a:hover {
+        opacity: 50%;
+    }
             .first {
               border-top: none;
             }
@@ -31,6 +50,11 @@ layout: default
               box-sizing: border-box;
                 font-weight: bold;
             }
+    .writing-title {
+        width: 50%;
+        margin-right: 15px;
+        font-style: italic;
+    }
             .press-title {
                 width: 35%;
               margin-right: 15px;
@@ -47,6 +71,7 @@ layout: default
     .about-intro {
       padding: 15px 25px 25px 25px;
       border-top: 1px solid #ff0000; }
+    .about-intro a {font-size: 32px; }
     .about-intro p { font-size: 32px; }
     .object { padding: 15px 25px 15px 25px; }
     .class { width: 100%; }
@@ -55,6 +80,11 @@ layout: default
     .term { width: 100%; }
     .school { width: 100%; }
     }
+    .preview h1 { padding: 50px 25px 15px 25px;
+                 border-top: 1px solid #ff0000;
+    }
+    .images h1 { padding: 15px 25px 25px 25px; }
+    .images-left, .images-right {padding-bottom: 25px;}
         </style>
 </head>
 <body>
