@@ -111,7 +111,7 @@ permalink: /writing/
 <a href="https://eyeondesign.aiga.org/graphic-designers-have-always-loved-minimalism-but-at-what-cost/">
 <div class="object">
         <div class="term">April 2021</div>
-        <div class="writing-title">https://eyeondesign.aiga.org/graphic-designers-have-always-loved-minimalism-but-at-what-cost/</div>
+        <div class="writing-title">Graphic Designers Have Always Loved Minimalism. But At What Cost?</div>
         <div class="school">Eye on Design</div>
 </div>
 </a>
