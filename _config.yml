@@ -59,6 +59,8 @@ collections:
         output: true
         permalink: /library/:title
         title: Library
+    category:
+        output: true
 #
 # !! You don't need to change any of the configuration flags below !!
 #

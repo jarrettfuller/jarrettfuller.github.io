@@ -1,0 +1,116 @@
+---
+layout: default
+---
+<style type="text/css">
+    * {
+        padding: 0px;
+        margin: 0px;
+        box-sizing: border-box;
+    }
+    .intro {
+      padding: 15px 25% 100px 50px;
+        height: auto;
+}
+.intro p {
+    font-size: 48px;
+}
+    .intro p a { font-size: 48px; }
+    #playlist-container {
+        display: flex;
+      max-width: 100%;
+        border-top: 1px solid red;
+        padding: 25px;
+        flex-flow: wrap;
+            align-items: baseline;
+    }
+.playlist-cover {
+    width: 20%;
+    padding: 15px;
+    padding-bottom: 50px;
+    align-items: baseline;
+}
+figure {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+        align-items: baseline;
+}
+        figure:hover {
+        opacity: 70%;
+    }
+figure img {
+    width: 100%;
+    padding-bottom: 5px;
+    bottom: 0;
+        align-items: baseline;
+}
+figcaption {
+    width: 100%;
+}
+    figcaption h1 {
+        font-size: 16px;
+        line-height: 18px;
+        color: rgba(0,0,0,.6);
+    }
+    figcaption h2 {
+        font-size: 16px;
+        line-height: 18px;
+        color: rgba(0,0,0,.4);
+        font-weight: normal;
+    }
+
+@media only screen and (max-width: 1024px) {
+    #playlist-container {
+        padding: 15px;
+    }
+    .playlist-cover {
+        width: 50%;
+                padding-bottom: 35px;
+        padding: 0px;
+    }
+        figure {
+            padding: 10px;
+        padding-bottom: 50px;
+    }
+    figcaption {
+    display: block;
+    position: inherit;
+    padding: 0px;
+}
+    figure:hover img {
+        filter: none;
+    }
+    .intro {
+        font-size: 14px;
+        padding: 20px;
+    }
+    .intro p {
+        font-size: 24px;
+    }
+    .intro p a { font-size: 24px; }
+    }
+@media (prefers-color-scheme: dark) {
+    figcaption h1 { color: white; }
+    figcaption h2 { color: rgba(255,255,255,.5); }
+        </style>
+
+
+    <div class="intro"><p>I've worked as a graphic designer for over a decade, both collaboratively and independently. I still take on projects when times allows so if you'd like to work together, <a href="mailto:jarrettfuller@gmail.com">get in touch</a>.</p></div>
+
+
+    <div id="playlist-container">
+    {% for post in site.tags[page.tag] %}
+      <div class="playlist-cover">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+        <figure>
+            <img src="{{ post.image }}">
+            <figcaption>
+           <h1>{{ post.title }}</h1>
+            <h2>{{ post.year }}</h2></figcaption>
+        </figure>
+          </a>
+        </div>
+  {% endfor %}
+    </div>
+

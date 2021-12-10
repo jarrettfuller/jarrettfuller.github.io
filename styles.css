@@ -688,6 +688,9 @@ article h4,
     color: white;
 border-bottom: 1px solid white;
 }
+.images-left,
+    .images-right {
+        color: white;
     figcaption {
         color: white;
     }
