@@ -30,6 +30,7 @@
 * {
   padding: 0px;
   margin: 0px;
+            box-sizing: border-box;
 }
 body {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
@@ -148,7 +149,6 @@ nav li:first-child {
   width: auto;
   border: none;
   text-align: left;
-  color: rgba(0, 0, 0, 0.4);
   padding: 15px 50px 50px 50px;
 }
 .images img {
@@ -158,14 +158,13 @@ nav li:first-child {
 }
 .images p {
     padding-top: 0px;
-    padding-bottom: 0px;
+    padding-bottom: 15px;
 }
 .images-left {
   width: 50%;
   padding-right: 15px;
   float: left;
   box-sizing: border-box;
-
 }
 .images-right {
   width: 50%;
@@ -421,6 +420,110 @@ figcaption a:hover {
   width: 100%;
   height: 100%;
 }
+/*----------- ARCHIVE--------------*/
+ .about-intro {
+      padding: 15px 25% 100px 50px;
+         border-top: 1px solid #ff0000;
+        height: auto;
+}
+.about-intro p {
+    font-size: 48px;
+}
+    .about-intro a {
+        font-size: 48px;
+        border-bottom: 2px solid lightgrey;
+    }
+    .about-intro a:hover {
+        border-bottom: 2px solid black;
+    }
+    .archive-preview h1 {
+        padding: 100px 50px 25px 50px;
+                 border-top: 1px solid #ff0000;
+    }
+    .archive-preview .object:first { border-top: none; }
+    .archive-preview .object {
+              padding: 15px 50px 15px 50px;
+              display: -webkit-flex;
+              display: -ms-flexbox;
+                flex-grow: 1;
+              display: flex;
+              width: 100%;
+              width: auto;
+            box-sizing: border-box;
+            }
+    .first {
+        border-top: none;
+            }
+    .class {
+        width: 35%;
+        margin-right: 15px;
+        box-sizing: border-box;
+        font-weight: bold;
+            }
+    .writing-title {
+        width: 50%;
+        margin-right: 15px;
+        font-style: italic;
+    }
+            .press-title {
+                width: 35%;
+              margin-right: 15px;
+              box-sizing: border-box;
+                font-style: italic;
+    }
+            .term {
+              width: 15%;
+            }
+            .school {
+              width: 25%;
+            }
+
+/*----------- PLAYLISTS LIBRARY --------------*/
+#playlist-container {
+        display: flex;
+      max-width: 100%;
+        border-top: 1px solid red;
+        padding: 25px;
+        flex-flow: wrap;
+            align-items: baseline;
+    }
+.playlist-cover {
+    width: 20%;
+    padding: 25px;
+    padding-bottom: 75px;
+    align-items: baseline;
+}
+.playlist-cover figure {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+        align-items: baseline;
+}
+.playlist-cover figure:hover {
+        opacity: 70%;
+    }
+.playlist-cover figure img {
+    width: 100%;
+    padding-bottom: 5px;
+    bottom: 0;
+        align-items: baseline;
+}
+.playlist-cover figcaption {
+    width: 100%;
+}
+.playlist-cover figcaption h1 {
+        font-size: 16px;
+        line-height: 18px;
+        color: rgba(0,0,0,.6);
+    }
+.playlist-cover figcaption h2 {
+        font-size: 16px;
+        line-height: 18px;
+        color: rgba(0,0,0,.4);
+        font-weight: normal;
+    }
+
 /*----------- RECENTLY --------------*/
 .recently {
     border-top: 1px solid red;
@@ -460,6 +563,7 @@ footer {
   width: 50%;
   margin-left: 25px;
 }
+
 /*-----------------------------------
 TABLET
 ----------------------------------- */
@@ -662,6 +766,46 @@ TABLET
     margin-left: 0px;
     width: 100%;
   }
+ /*ARCHIVE */
+    .about-intro {
+      padding: 15px 25px 25px 25px;
+      border-top: 1px solid #ff0000; }
+    .about-intro a {font-size: 28px; }
+    .about-intro p { font-size: 28px; }
+    .archive-preview .object { padding: 15px 25px 15px 25px; }
+    .class { width: 100%; }
+    .first {width: 100%; }
+    .press-title {width: 100%; }
+    .writing-title { width: 100%; }
+    .term { width: 100%; }
+    .school { width: 100%; }
+    .archive-preview h1 { padding: 50px 25px 15px 25px;
+                 border-top: 1px solid #ff0000;
+    }
+    .images h1 { padding: 15px 25px 25px 25px; }
+    .images-left, .images-right {padding-bottom: 25px;}
+
+/* PLAYLISTS */
+    #playlist-container {
+        padding: 15px;
+    }
+    .playlist-cover {
+        width: 50%;
+        padding-bottom: 35px;
+        padding: 0px;
+    }
+    .playlist-cover figure {
+            padding: 10px;
+        padding-bottom: 50px;
+    }
+    .playlist-cover figcaption {
+    display: block;
+    position: inherit;
+    padding: 0px;
+}
+    .playlist-cover figure:hover img {
+        filter: none;
+    }
 }
 @media (prefers-color-scheme: dark) {
     body {
@@ -691,7 +835,11 @@ border-bottom: 1px solid white;
 .images-left,
     .images-right {
         color: white;
+    }
     figcaption {
         color: white;
     }
+    .playlist-cover figcaption h1,
+    .playlist-cover figcaption h2 {
+        color: white;
 }

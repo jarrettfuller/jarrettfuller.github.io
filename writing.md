@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Writing
 permalink: /writing/
 ---
@@ -29,7 +29,7 @@ permalink: /writing/
 </div>
 
 
-<main class="preview">
+<main class="archive-preview">
 
 <h1>Criticism</h1>
 

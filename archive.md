@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Writing
 permalink: /archive/
 ---
@@ -11,7 +11,7 @@ permalink: /archive/
 
 </div>
 
-<main class="preview">
+<main class="archive-preview">
 
 <div class="object">
         <div class="term">Spring 2022</div>

@@ -3,18 +3,12 @@ layout: default
 ---
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <style type="text/css">
-    * {
-        box-sizing: border-box;
-    }
     #playlist-container {
-        display: flex;
-       max-width: 100%;
-        padding: 50px;
-        border-top: 1px solid red;
+        align-items: stretch;
     }
     .playlist-links {
-    width: 35%;
-    padding-right: 100px;
+    width: 49%;
+        padding: 25px;
         text-align: center;
     }
     .playlist-links img {
@@ -22,7 +16,8 @@ layout: default
         padding-bottom: 25px;
     }
     .playlist-content {
-        width: 65%;
+        width: 50%;
+        padding: 25px;
     }
     .playlist-content h1 {
         font-size: 48px;
@@ -37,10 +32,6 @@ layout: default
         padding-top: 25px;
         font-size: 26px;
         padding-left: 30px;
-    }
-    .spotify {
-        position: fixed;
-        bottom: 0;
     }
     button {
         border: 2px solid lightgray;
@@ -61,63 +52,13 @@ layout: default
     button a:hover {
         border-bottom: 0px;
     }
-    #more-playlists {
-        display: flex;
-      max-width: 100%;
-        border-top: 1px solid red;
-        padding: 25px;
-        flex-flow: wrap;
-    }
-    #more-playlists p {
+    .more {
         margin: auto;
-    }
-.playlist-cover {
-    width: 20%;
-    padding: 25px;
-    overflow: hidden;
-}
-figure {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    overflow: hidden;
-}
-figure img {
-    width: 100%;
-}
-
-figcaption {
-    display: none;
-    position: absolute;
-    padding: 20px;
-    width: 100%;
-    top:0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(255,255,255,.6);
-        color: black;
-}
-    figcaption h1 {
-        font-size: 16px;
-        line-height: 16px;
-    }
-    figcaption h2 {
-        font-size: 16px;
-        line-height: 16px;
-        color: rgba(0,0,0,.4);
-    }
-figure:hover figcaption {
-    display: block;
-}
-    figure:hover img {
-        filter: blur(5px);
+        text-align: center;
     }
 @media only screen and (max-width: 1028px) {
-    #playlist-container {
-        display: block;
-        padding: 25px;
+    .playlist-links {
+        padding: 0px;
     }
     .playlist-content {
         width: 100%;
@@ -141,26 +82,7 @@ figure:hover figcaption {
         padding-bottom: 25px;
         padding-right: 0px;
     }
-    #more-playlists {
-        display: block;
-        padding: 25px;
     }
-    .playlist-cover {
-        width: 100%;
-        padding: 0px;
-    }
-    figure {
-        padding-bottom: 25px;
-    }
-    figcaption {
-    display: block;
-    position: inherit;
-    padding: 0px;
-}
-    figure:hover img {
-        filter: none;
-    }
-        }
         </style>
 <body>
 <div id="playlist-container">
@@ -177,7 +99,7 @@ figure:hover figcaption {
     </div>
 </div>
 
-<div id="more-playlists">
+<div id="playlist-container">
 {% for playlists in site.playlists limit:5 %}
       <div class="playlist-cover">
                 <a href="{{ playlists.url }}">
@@ -191,7 +113,7 @@ figure:hover figcaption {
         </div>
   {% endfor %}
 
-       <p><a href="/playlists/">More Playlists &rarr;</a></p>
+       <p class="more"><a href="/playlists/">More Playlists &rarr;</a></p>
 
     </div>
 

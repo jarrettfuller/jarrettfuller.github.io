@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Interviews, Features, Press
 permalink: about/press
 ---
@@ -9,7 +9,7 @@ permalink: about/press
 
 </div>
 
-<main class="preview">
+<main class="archive-preview">
 
 <a href="https://www.designhistorysociety.org/news/view/dhs-podcasts-third-episode-is-out-listen-to-fiona-anderson-in-conversation-with-jarrett-fuller-the-2021-design-writing-prize-guest-judge">
 <div class="object">
