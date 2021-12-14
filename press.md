@@ -41,6 +41,16 @@ Design is Reality</div>
 </div>
 </a>
 
+<a href="https://www.eyemagazine.com/review/article/in-search-of-dialogue">
+<div class="object">
+        <div class="term">Autumn 2019</div>
+        <div class="press-title">
+In Search of Dialogue (On <i>Culture Is Not Always Popular</i></div>
+        <div class="school">Eye Magazine</div>
+        <div class="term">Review</div>
+</div>
+</a>
+
 <a href="https://www.typeroom.eu/design-matters-and-five-more-podcasts-to-feed-your-creative-soul">
 <div class="object">
         <div class="term">September 2019</div>

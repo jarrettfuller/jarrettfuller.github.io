@@ -1,6 +1,6 @@
 ---
 layout: image
-title: "With Apologies to Gerhard Ricter"
+title: "With Apologies to Gerhard Richter"
 tags: Art
 discription: " 24'' x 24''"
 categories:
