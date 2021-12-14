@@ -601,6 +601,21 @@ TABLET
   .text article {
     width: 100%;
   }
+    .about-intro {
+              padding: 15px 50px 100px 50px;
+    }
+    .about-intro p {
+        font-size: 30px;
+    }
+    .about-intro p a {
+        font-size: 30px;
+    }
+    #playlist-container {
+        padding: 50px;
+    }
+    .playlist-cover {
+        padding: 5px;
+    }
 }
 /* MOBILE
 ----------------------------------- */
