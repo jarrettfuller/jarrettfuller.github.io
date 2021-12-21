@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<!--<img class="img-hero" src="/images/portrait.jpg"/>-->
-
 <div class="profile">
 <div class="text">
 
@@ -40,27 +38,6 @@ permalink: /about/
 </article>
 </div>
 
-<!--
-<div class="profile_section">
-            <h4>Interviews/Features</h4>
-            <article><ul>
-                <li><a href="https://www.designhistorysociety.org/news/view/dhs-podcasts-third-episode-is-out-listen-to-fiona-anderson-in-conversation-with-jarrett-fuller-the-2021-design-writing-prize-guest-judge">Conversation with Jarrett Fuller, <i>2021 Design Writing Prize</i></a>, interview</li>
-                <li><a href="http://designdecode.org/article.php?p=jarrett-fuller">Design is Reality, <i>Design Decode</i></a>, interview</li>
-                <li><a href="http://www.eyemagazine.com/feature/article/the-designer-as-podcaster">The designer as Podcaster, <i>Eye Magazine</i></a>, feature</li>
-                <li><a href="http://perpetualbeta.vcfa.edu/2018/02/05/huh-34-an-interview-with-jarrett-fuller/">Perpetual Beta #34: An Interview with Jarrett Fuller</a>, interview</li>
-                <li><a href="http://amt.parsons.edu/blog/bfacd-faculty-highlight-jarrett-fuller/">Parsons BFACD Faculty Highlight</a>, interview</li>
-            <li><a href="https://soundcloud.com/user-54181376/jarrettfuller">Exchanged: A podcast about design podcasts</a>, interview</li>
-            <li><a href="https://www.dallasnews.com/arts/architecture/2017/08/26/podcast-takes-nitty-gritty-design-practice-criticism">Podcast takes on nitty gritty of design practice and criticism, Dallas Morning News</a>, feature</li>
-            <li><a href="http://designfeaster.blogspot.com/2017/03/jarrett-fuller-side-projects.html">Design Feaster,</a> interview</li>
-            <li><a href="http://designobserver.com/feature/rough-sketches/39367/">Design Observer: Rough Sketches</A>, feature</li>
-<li><a href="http://throughprocess.com/archive/2015/12/10/">Through Process: Back to School</a>, interview</li>
-<li><a href="http://nymag.com/thecut/2014/11/I-lost-my-work-husband.html">I Lost My Work Husband, New York Magazine</a>, feature</li>
-<li><a href="http://throughprocess.com/archive/2014/06/16/">Through Process: Minimalist LEGO Characters From Game Of Thrones</A>, interview</li>
-<li><a href="http://www.wearedesignbureau.com/projects/dialogue-jarrett-fuller/">Design Bureau</A>, interview</li>
-</ul>
-</article>
-            </div>
--->
 
 <div class="profile_section">
             <h4>Gear</h4>
@@ -101,6 +78,14 @@ permalink: /about/
 <sidebar>
         <img src="/images/jf-portrait-2019.jpg" class="portrait">
 
+<h4>More</h4>
+         <p><ul>
+            <li><a href="/about/bios">Official Biography</a></li>
+        <li><a href="/about/press">Press/Interviews</a></li>
+            <li><a href="https://docs.google.com/document/d/1ZYmCwEPwgzn7XtCpVJmmxTG15Z5Ws38lkGUUVfoHmPo/edit?usp=sharing">View CV</a></li>
+                    </ul>
+                </p>
+
 <h4>Studio</h4>
                 <p>I run a small Brooklyn-based design and editorial studio called <a href="http://twenty-six.design">twenty-six.design</a>. You can see recent work there. We're always taking on new clients.
                     </p>
@@ -122,12 +107,6 @@ permalink: /about/
   </p>
 </form>
 
-<h4>CV</h4>
-                <p><ul>
-        <li><a href="https://docs.google.com/document/d/1ZYmCwEPwgzn7XtCpVJmmxTG15Z5Ws38lkGUUVfoHmPo/edit?usp=sharing">View CV</a></li>
-        <li><a href="/about/press">Press/Interviews</a></li>
-                    </ul>
-                </p>
 
 <h4>Contact</h4>
         <p><ul>

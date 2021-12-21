@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [On the blog: Websites as time capsules](https://www.jarrettfuller.blog/2021/12/website/)
+
 * [Scratching the Surface's 200th episode AMA](https://scratchingthesurface.fm/200-jarrett-fuller)
 
 * [Latest newsletter: Contesting Design at Het Nieuwe Instituut](https://buttondown.email/jarrettfuller/archive/15-contesting-design-at-het-nieuwe-instituut/)
