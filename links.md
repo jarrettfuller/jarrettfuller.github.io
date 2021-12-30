@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [The Best Design Books of 2021 on *Eye on Design*](https://eyeondesign.aiga.org/the-best-design-books-of-2021/)
+
 * [On the blog: Websites as time capsules](https://www.jarrettfuller.blog/2021/12/website/)
 
 * [Scratching the Surface's 200th episode AMA](https://scratchingthesurface.fm/200-jarrett-fuller)
