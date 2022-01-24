@@ -142,6 +142,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://eyeondesign.aiga.org/the-best-design-books-of-2021/">
+<div class="object">
+        <div class="term">December 2021</div>
+        <div class="writing-title">The Best Design Books of 2021</div>
+        <div class="school">Eye on Design</div>
+</div>
+</a>
+
 <a href="https://designobserver.substack.com/p/january-newsletter-jarrett-fuller">
 <div class="object">
         <div class="term">January 2021</div>
