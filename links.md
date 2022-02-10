@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [Interview with Lucille Tenazas on *Eye on Design*](https://eyeondesign.aiga.org/designer-educator-lucille-tenazas-on-teaching-design-as-both-a-noun-and-a-verb/)
+
 * [The Best Design Books of 2021 on *Eye on Design*](https://eyeondesign.aiga.org/the-best-design-books-of-2021/)
 
 * [On the blog: Websites as time capsules](https://www.jarrettfuller.blog/2021/12/website/)
