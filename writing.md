@@ -224,6 +224,14 @@ permalink: /writing/
 
 <h1>Interviews</h1>
 
+<a href="https://eyeondesign.aiga.org/designer-educator-lucille-tenazas-on-teaching-design-as-both-a-noun-and-a-verb/">
+<div class="object">
+        <div class="term">February 2022</div>
+        <div class="writing-title">Teaching Design is Teaching a Moving Target: An Interview with Lucille Tenazas</div>
+        <div class="school">Eye on Design</div>
+</div>
+</a>
+
 <a href="https://mitpress.mit.edu/blog/conversation-michael-bierut-and-jessica-helfand-culture-not-always-popular-fifteen-years">
 <div class="object">
         <div class="term">February 2019</div>

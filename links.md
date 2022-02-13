@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [Winter 2022 Playlist on Spotify: *All We Ever Wanted*](https://open.spotify.com/playlist/5opXRMdsTfz36GQQKPHea9?si=385c2ab4d5204cfa)
+
 * [Interview with Lucille Tenazas on *Eye on Design*](https://eyeondesign.aiga.org/designer-educator-lucille-tenazas-on-teaching-design-as-both-a-noun-and-a-verb/)
 
 * [The Best Design Books of 2021 on *Eye on Design*](https://eyeondesign.aiga.org/the-best-design-books-of-2021/)
