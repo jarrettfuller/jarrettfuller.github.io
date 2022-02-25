@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [Design History Society Podcast interview with Emily Candela](https://www.designhistorysociety.org/news/view/the-final-episode-of-the-dhs-podcasts-is-out)
+
 * [New book: *1, 10, 100 Years of Form, Typography, and Interaction at Parsons*](https://amzn.to/35loRtE)
 
 * [Winter 2022 Playlist on Spotify: *All We Ever Wanted*](https://open.spotify.com/playlist/5opXRMdsTfz36GQQKPHea9?si=385c2ab4d5204cfa)
