@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<div class="about-intro"><p>Jarrett Fuller is a designer, writer, educator, editor and podcaster.</p></div>
+
 <div class="profile">
 <div class="text">
 
@@ -12,6 +14,7 @@ permalink: /about/
 <article><p>Jarrett Fuller is a designer, writer, educator, editor and podcaster. He is an assistant professor of graphic design at North Carolina State University; contributing editor at AIGA Eye On Design; director of twenty-six, a multidisciplinary design and editorial studio; and hosts the design podcast Scratching the Surface. He previously worked as a designer at Facebook, Warby Parker, and The Whitney Museum of American Art. He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art.</p>
 </article>
 </div>
+
 
 <div class="profile_section">
 <h4>Long Biography (369 words)</h4>
@@ -29,6 +32,7 @@ permalink: /about/
 </article>
 </div>
 
+
 <div class="profile_section">
 <h4>Now (updated October 3, 2021)</h4>
  <article><p>After years in Brooklyn, I recently relocated to Raleigh, NC to begin a tenure-track position at North Carolina State University. I've enjoyed many meetings, coffee chats, and lunches with faculty, students, and colleagues. We're exploring Raleigh's extensive park system and I'm enjoying riding my new bike. In the midst of this, I'm trying to find time to continue writing.</p>
@@ -39,6 +43,7 @@ permalink: /about/
 </div>
 
 
+<!--
 <div class="profile_section">
             <h4>Gear</h4>
             <article>
@@ -57,9 +62,8 @@ permalink: /about/
 <p>I photograph with a Fuji X100f, iPhone 11 Pro, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://zencastr.com">Zencastr</a> and edit in GarageBand. Transcripts are produced using <a href="https://otter.ai">Otter</a>.</p>
 
 </article>
-
-
 </div>
+-->
 
 <div class="profile_section">
     <h4>About this Site</h4>
@@ -67,10 +71,7 @@ permalink: /about/
             <p>I'm a believer in making work open source so this site is built entirely with open-source and free tools. The site uses <a href="https://jekyllrb.com">Jekyll</a>, an open-source, static-site generator, and is hosted <a href="https://github.com/jarrettfuller/jarrettfuller.github.io">on Github</a>. It’s set in <a href="https://fonts.google.com/specimen/Karla">Karla</a> and <a href="https://fonts.google.com/specimen/Tinos">Tinos</a> and served up via Google Fonts. You are free to adapt, remix, reuse, and update both the code and visual design for your own needs. That said, if you do use the code for your own site, please include a credit and link back here. Thanks!</p>
 
             <p>I live and work on land originally inhabited by two Indigenous tribes: the Tuscarora and the Catawba tribes. I honor these tribes by recognizing I'm on stolen land and honor them today to break the cycle of colonization.</p>
-
-</article>
-
-
+        </article>
 </div>
 
 </div>
@@ -87,7 +88,7 @@ permalink: /about/
                 </p>
 
 <h4>Studio</h4>
-                <p>I run a small Brooklyn-based design and editorial studio called <a href="http://twenty-six.design">twenty-six.design</a>. You can see recent work there. We're always taking on new clients.
+                <p>I take on select client projects at <a href="http://twenty-six.design">twenty-six.design</a>, a small design, editorial, and research studio. You can see recent work there.
                     </p>
 
 <h4>Newsletter</h4>
@@ -119,14 +120,5 @@ permalink: /about/
                     </p>
 
 
-        </sidebar>
-
-
-<!--
-### More Information
-
-
-
-### Contact
-
-[email@domain.com](mailto:email@domain.com)-->
+</sidebar>
+</div>

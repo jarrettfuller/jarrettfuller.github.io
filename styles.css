@@ -197,6 +197,7 @@ nav li:first-child {
   padding: 50px 50px 50px 50px;
 border-top: 1px solid #ff0000;
 }
+
 .text {
   width: 75%;
   border-top: none;
@@ -213,6 +214,7 @@ border-top: 1px solid #ff0000;
   padding-top: 0px;
 }
 .profile_section h4 {
+          line-height: 1.6em;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
@@ -279,13 +281,8 @@ border-bottom: 1px solid #ff0000;
   border-bottom: 1px #000000 solid;
   color: black;
 }
-.img-hero {
-  border-top: 1px #ff0000 solid;
-  width: 100%;
-  margin-bottom: 0px;
-  max-height: 400px;
-}
-.portrait {
+.profile sidebar .portrait {
+    width: 100%;
     border-radius: 50%;
     border: 1px solid #ff0000;
     margin-bottom: 25px;
