@@ -4,8 +4,6 @@ title: Official Biography
 permalink: about/bios/
 ---
 
-<!--<img class="img-hero" src="/images/portrait.jpg"/>-->
-
 <div class="profile">
 <div class="text">
 
@@ -25,8 +23,9 @@ permalink: about/bios/
 
 <p>Under the moniker twenty-six, Jarrett has worked with clients large and small, all around the world, on projects ranging from visual design to editorial strategy to research initiatives. Recent clients have included Thames and Hudson, MIT Press, University of Nevada, Study Hall, and Design Observer. </p>
 
-<p>Jarrett has taught in both undergraduate and graduate at Pratt Institute (NY), The New School Parsons School of Design (NY), University of the Arts (PA), Maryland Institute College of Art (MD), and Rutgers University (NJ) and has given lectures or presentations at Rhode Island School of Design, Kutztown University, The New School Parsons SChool of Design, Rochester Institute of Technology, and Northampton Community College. </p>
+<p>Jarrett has taught in both undergraduate and graduate at Pratt Institute (NY), The New School Parsons School of Design (NY), University of the Arts (PA), Maryland Institute College of Art (MD), and Rutgers University (NJ) and has given lectures or presentations at Rhode Island School of Design, Kutztown University, The New School Parsons School of Design, Rochester Institute of Technology, and Northampton Community College. </p>
 
 <p>His work and writing has been featured in Eye Magazine, Architectural Digest, Curbed, The Architect’s Newspaper, and Design Observer. He previously worked as a designer at Facebook (2013-2015), Warby Parker (2011-2013), and The Whitney Museum of American Art (2016). He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art.</p>
 </article>
 </div>
+
