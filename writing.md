@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 
 <div class="about-intro">
-        <p>I've written for a variety of publications about design, culture, and criticism, including Design Observer, Eye on Design, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
+        <p>I've written for a variety of publications about design, culture, and criticism, including <i>Eye on Design</i>, <i>Design and Culture</i>, <i>Design Observer</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
         <p>Since July 2020, I've been a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
 
 </div>
@@ -16,7 +16,9 @@ permalink: /writing/
 <!--<h1>Books</h1>-->
 <div class="images-left"><img src="/images/writing_parsons.jpg">
     <h3>1, 10, 100 Years of Form, Typography, and Interaction at Parsons (Oro Editions, 2021)</h3>
-    <p>I'm currently editing a forthcoming book about the history of the Communication Design program at Parsons School of Design called <i>1, 10, 100 Years: Form, Typography, and Interaction at Parsons</i>, to be published December 2021 by <a href="https://www.oroeditions.com/">Oro Editions</a></p>
+    <p>IN 2021, I worked with the Communication Design department at Parsons to edit this 400 page publication documenting the history of the program, organized around three distinct timescales: the last century, the last decade, and the last year. The book was released in February 2022 by <a href="https://www.oroeditions.com/">Oro Editions</a></p>
+
+    <p><a href="https://amzn.to/3EXIHZv">Buy the book here.</a></p>
 </div>
 
 <div class="images-right"><img src="/images/writing_designobserver.jpg">
@@ -32,6 +34,14 @@ permalink: /writing/
 <main class="archive-preview">
 
 <h1>Criticism</h1>
+
+<a href="https://www.tandfonline.com/doi/full/10.1080/17547075.2022.2061138">
+<div class="object">
+        <div class="term">April 2022</div>
+        <div class="writing-title">The Autho-Ethnographic Turn in Design (Book review)</div>
+        <div class="school">Design and Culture</div>
+</div>
+</a>
 
 <a href="https://eyeondesign.aiga.org/as-social-media-reshapes-branding-retail-stores-become-more-like-sponsored-content/">
 <div class="object">

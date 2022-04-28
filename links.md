@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [*The Auto-Ethnographic Turn in Design* book review for *Design & Culture*](https://www.tandfonline.com/doi/full/10.1080/17547075.2022.2061138)
+
 * [Design History Society Podcast interview with Emily Candela](https://www.designhistorysociety.org/news/view/the-final-episode-of-the-dhs-podcasts-is-out)
 
 * [New book: *1, 10, 100 Years of Form, Typography, and Interaction at Parsons*](https://amzn.to/35loRtE)
