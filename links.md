@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [5/26 — *Belgian Graphic Design Is a “Crossroads of Influences”*: Interview with Sara De Bondt for *Eye on Design*](https://eyeondesign.aiga.org/the-histories-of-belgian-graphic-design-are-a-crossroads-of-influences/)
+
 * [*The Auto-Ethnographic Turn in Design* book review for *Design & Culture*](https://www.tandfonline.com/doi/full/10.1080/17547075.2022.2061138)
 
 * [Design History Society Podcast interview with Emily Candela](https://www.designhistorysociety.org/news/view/the-final-episode-of-the-dhs-podcasts-is-out)

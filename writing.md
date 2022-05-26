@@ -234,6 +234,14 @@ permalink: /writing/
 
 <h1>Interviews</h1>
 
+<a href="https://eyeondesign.aiga.org/the-histories-of-belgian-graphic-design-are-a-crossroads-of-influences/">
+<div class="object">
+        <div class="term">May 2022</div>
+        <div class="writing-title">Belgian Graphic Design Is a “Crossroads of Influences”: Sara De Bondt</div>
+        <div class="school">Eye on Design</div>
+</div>
+</a>
+
 <a href="https://eyeondesign.aiga.org/designer-educator-lucille-tenazas-on-teaching-design-as-both-a-noun-and-a-verb/">
 <div class="object">
         <div class="term">February 2022</div>
