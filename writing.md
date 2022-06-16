@@ -234,6 +234,14 @@ permalink: /writing/
 
 <h1>Interviews</h1>
 
+<a href="https://eyeondesign.aiga.org/designing-the-invisible-macks-morgan-crowcroft-brown-on-the-understated-art-of-the-photo-book/">
+<div class="object">
+        <div class="term">June 2022</div>
+        <div class="writing-title">Designing the Invisible: MACK’s Morgan Crowcroft-Brown on the Understated Art of the Photo Book</div>
+        <div class="school">Eye on Design</div>
+</div>
+</a>
+
 <a href="https://eyeondesign.aiga.org/the-histories-of-belgian-graphic-design-are-a-crossroads-of-influences/">
 <div class="object">
         <div class="term">May 2022</div>
