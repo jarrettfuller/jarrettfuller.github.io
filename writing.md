@@ -152,6 +152,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://eyeondesign.aiga.org/what-makes-something-a-cult-and-something-else-a-brand/">
+<div class="object">
+        <div class="term">June 2022</div>
+        <div class="writing-title">Is There a Difference Between a Cult and a Brand?</div>
+        <div class="school">Eye on Design</div>
+</div>
+</a>
+
 <a href="https://eyeondesign.aiga.org/the-best-design-books-of-2021/">
 <div class="object">
         <div class="term">December 2021</div>

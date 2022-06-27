@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [6/27 — *Is There a Difference Between a Cult and a Brand?* for *Eye on Design*](https://eyeondesign.aiga.org/what-makes-something-a-cult-and-something-else-a-brand/)
+
 * [6/16 — *Designing the Invisible: MACK’s Morgan Crowcroft-Brown on the Understated Art of the Photo Book* for *Eye on Design*](https://eyeondesign.aiga.org/designing-the-invisible-macks-morgan-crowcroft-brown-on-the-understated-art-of-the-photo-book/)
 
 * [5/26 — *Belgian Graphic Design Is a “Crossroads of Influences”*: Interview with Sara De Bondt for *Eye on Design*](https://eyeondesign.aiga.org/the-histories-of-belgian-graphic-design-are-a-crossroads-of-influences/)
