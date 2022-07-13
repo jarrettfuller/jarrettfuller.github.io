@@ -11,6 +11,36 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/89831-when-books-become-brands-graphic-design-is-key.html">
+<div class="object">
+        <div class="term">July 2022</div>
+        <div class="press-title">
+When Books Become Brands, Graphic Design Is Key</div>
+        <div class="school">Publisher's Weekly</div>
+        <div class="term">Press</div>
+</div>
+</a>
+
+<a href="https://rss.com/podcasts/designisnotneutral/457670/">
+<div class="object">
+        <div class="term">April 2022</div>
+        <div class="press-title">
+Episode 2: Jarrett Fuller</div>
+        <div class="school">Design Is Not Neutral Podcast</div>
+        <div class="term">Interview</div>
+</div>
+</a>
+
+<a href="https://blogs.newschool.edu/news/2022/03/communication-design-at-parsons-celebrates-centennial-with-new-book/">
+<div class="object">
+        <div class="term">March 2022</div>
+        <div class="press-title">
+Communication Design at Parsons Celebrates Centennial with New Book</div>
+        <div class="school">The New School</div>
+        <div class="term">Press</div>
+</div>
+</a>
+
 <a href="https://www.designhistorysociety.org/news/view/dhs-podcasts-third-episode-is-out-listen-to-fiona-anderson-in-conversation-with-jarrett-fuller-the-2021-design-writing-prize-guest-judge">
 <div class="object">
         <div class="term">May 2021</div>
