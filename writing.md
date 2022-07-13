@@ -38,7 +38,7 @@ permalink: /writing/
 <a href="https://www.tandfonline.com/doi/full/10.1080/17547075.2022.2061138">
 <div class="object">
         <div class="term">April 2022</div>
-        <div class="writing-title">The Autho-Ethnographic Turn in Design (Book review)</div>
+        <div class="writing-title">The Auto-Ethnographic Turn in Design (Book review)</div>
         <div class="school">Design and Culture</div>
 </div>
 </a>
@@ -241,6 +241,14 @@ permalink: /writing/
 </a>
 
 <h1>Interviews</h1>
+
+<a href="https://eyeondesign.aiga.org/books-arent-going-anywhere-a-roundtable-discussion-on-publishing-and-branding-in-the-age-of-bookstagram/">
+<div class="object">
+        <div class="term">July 2022</div>
+        <div class="writing-title">“Books Aren’t Going Anywhere”: A Roundtable Discussion on Publishing and Branding in the Age of Bookstagram</div>
+        <div class="school">Eye on Design</div>
+</div>
+</a>
 
 <a href="https://eyeondesign.aiga.org/designing-the-invisible-macks-morgan-crowcroft-brown-on-the-understated-art-of-the-photo-book/">
 <div class="object">
