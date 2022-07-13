@@ -14,6 +14,21 @@ permalink: /teaching/
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">Fall 2022</div>
+        <div class="class">Typography and Technology</div>
+        <div class="school">North Carolina State University</div>
+        <div class="term"></div>
+</div>
+
+<div class="object">
+        <div class="term">Fall 2022</div>
+        <div class="class">Design, Context, Experience</div>
+        <div class="school">North Carolina State University</div>
+        <div class="term"></div>
+</div>
+
+
+<div class="object">
         <div class="term">Spring 2022</div>
         <div class="class">Publishing and Distribution</div>
         <div class="school">North Carolina State University</div>
