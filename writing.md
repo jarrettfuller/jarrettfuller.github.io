@@ -102,6 +102,14 @@ permalink: /writing/
 
 <h1>Journalism</h1>
 
+<a href="https://eyeondesign.aiga.org/andrew-satake-blauvelt-elevated-graphic-design-far-beyond-notions-of-problem-solving/">
+<div class="object">
+        <div class="term">August 2022</div>
+        <div class="writing-title">Andrew Satake Blauvelt Elevated Graphic Design Far Beyond Notions of “Problem Solving”</div>
+        <div class="school">Eye on Design</div>
+</div>
+</a>
+
 <a href="https://eyeondesign.aiga.org/how-cranbrooks-design-program-redefined-how-we-make-and-talk-about-graphic-design/">
 <div class="object">
         <div class="term">July 2021</div>
