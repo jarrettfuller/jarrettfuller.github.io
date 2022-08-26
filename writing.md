@@ -250,6 +250,14 @@ permalink: /writing/
 
 <h1>Interviews</h1>
 
+<a href="https://eyeondesign.aiga.org/open-manifesto-the-quiet-but-persistent-australian-design-journal-was-ahead-of-its-time/">
+<div class="object">
+        <div class="term">August 2022</div>
+        <div class="writing-title">Open Manifesto—the Quiet but Persistent Australian Design Journal—Was Ahead of Its Time</div>
+        <div class="school">Eye on Design</div>
+</div>
+</a>
+
 <a href="https://eyeondesign.aiga.org/books-arent-going-anywhere-a-roundtable-discussion-on-publishing-and-branding-in-the-age-of-bookstagram/">
 <div class="object">
         <div class="term">July 2022</div>

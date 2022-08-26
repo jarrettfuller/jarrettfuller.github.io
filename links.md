@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [8/25 — *Open Manifesto—the Quiet but Persistent Australian Design Journal—Was Ahead of Its Time* for *Eye on Design*](https://eyeondesign.aiga.org/open-manifesto-the-quiet-but-persistent-australian-design-journal-was-ahead-of-its-time/)
+
 * [8/8 — *Andrew Satake Blauvelt Elevated Graphic Design Far Beyond Notions of “Problem Solving”* for *Eye on Design*](https://eyeondesign.aiga.org/andrew-satake-blauvelt-elevated-graphic-design-far-beyond-notions-of-problem-solving/)
 
 * [6/27 — *Is There a Difference Between a Cult and a Brand?* for *Eye on Design*](https://eyeondesign.aiga.org/what-makes-something-a-cult-and-something-else-a-brand/)
