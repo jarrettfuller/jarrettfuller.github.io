@@ -11,6 +11,16 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://open.spotify.com/episode/06li0wRoTzambbWQNhwIMM?si=6c197def87894400">
+<div class="object">
+        <div class="term">August 2022</div>
+        <div class="press-title">
+Episode 002: Jarrett Fuller</div>
+        <div class="school">Tangent Podcast</div>
+        <div class="term">Interview</div>
+</div>
+</a>
+
 <a href="https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/89831-when-books-become-brands-graphic-design-is-key.html">
 <div class="object">
         <div class="term">July 2022</div>
