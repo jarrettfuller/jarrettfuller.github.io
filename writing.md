@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 
 <div class="about-intro">
-        <p>I've written for a variety of publications about design, culture, and criticism, including <i>Eye on Design</i>, <i>Design and Culture</i>, <i>Design Observer</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
+        <p>I've written for a variety of publications about design, culture, and criticism, including <i>Eye on Design</i>, <i>Design and Culture</i>, <i>Design Observer</i>, <i>Journal of Design History</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
         <p>Since July 2020, I've been a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
 
 </div>
@@ -34,6 +34,14 @@ permalink: /writing/
 <main class="archive-preview">
 
 <h1>Criticism</h1>
+
+<a href="https://academic.oup.com/jdh/advance-article-abstract/doi/10.1093/jdh/epac039/6760291?redirectedFrom=fulltext">
+<div class="object">
+        <div class="term">October 2022</div>
+        <div class="writing-title">After the Bauhaus, Before the Internet: A History of Graphic Design Pedagogy (Book review)</div>
+        <div class="school">Journal of Design History</div>
+</div>
+</a>
 
 <a href="https://www.tandfonline.com/doi/full/10.1080/17547075.2022.2061138">
 <div class="object">
