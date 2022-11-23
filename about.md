@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div class="about-intro"><p>Jarrett Fuller is a designer, writer, educator, editor and podcaster. He is an assistant professor of graphic design at North Carolina State University; contributing editor at AIGA Eye On Design; director of the design and editorial studio twenty-six; and host of the design podcast Scratching the Surface. </p></div>
+<div class="about-intro"><p>Jarrett Fuller is a designer, writer, educator, editor and podcaster. He is an assistant professor of graphic design at North Carolina State University; director of the design and editorial studio twenty-six; and host of the design podcast Scratching the Surface. </p></div>
 
 <div class="profile">
 <div class="text">
@@ -19,11 +19,11 @@ permalink: /about/
 
 <div class="profile_section">
 <h4>CV</h4>
-<article><p>My practice spans graphic design, writing, editing, journalism, and education. I’m based in Raleigh, North Carolina where I’m an assistant professor of graphic design at North Carolina State University. I’m also an editor for AIGA Eye on Design and the host of the design podcast Scratching the Surface. My research focuses on design discourse, media, and publishing, with a special interest in institutional histories, alternative practices, and critical design.</p>
+<article><p>My practice spans graphic design, writing, editing, journalism, and education. I’m based in Raleigh, North Carolina where I’m an assistant professor of graphic design at North Carolina State University. I’m also the host of the design podcast Scratching the Surface. My research focuses on design discourse, media, and publishing, with a special interest in institutional histories, alternative practices, and critical design.</p>
 
 <p>Since 2016, I’ve hosted and produced Scratching the Surface, a podcast about design, theory, and creative practice. On the show, I’ve interviewed a wide-range of designers, writers, academics, and artists including Pentagram partners Michael Beirut, Eddie Opara, Abbott Miller, and Michael Gericke, OMA partner Reinier de Graaf, MoMA curator Paola Antonelli, New York Times architecture critics Michael Kimmelman and Paul Goldberger, and RISD President Rosanne Somerson.</p>
 
-<p>As a writer and editor, I've written for a variety of publications and books. Since 2020, I've been a contributing editor at AIGA Eye on Design. I was the editor of <i>1, 10, 100 Years of Form, Typography, and Interaction at Parsons</i>, published by Oro Editions in 2021, and the designer and co-editor of <i>Culture is Not Always Popular: Fifteen Years of Design Observer</i>, published by MIT Press in 2018. In 2017, I launched readings.design, a free online library of design texts. In 2021, I was the judge for the Design History Society’s Design Writing Prize.</p>
+<p>As a writer and editor, I've written for a variety of publications and books. From July 2020 to November 2022, I was a contributing editor at AIGA Eye on Design. I was the editor of <i>1, 10, 100 Years of Form, Typography, and Interaction at Parsons</i>, published by Oro Editions in 2021, and the designer and co-editor of <i>Culture is Not Always Popular: Fifteen Years of Design Observer</i>, published by MIT Press in 2018. In 2017, I launched readings.design, a free online library of design texts. In 2021, I was the judge for the Design History Society’s Design Writing Prize.</p>
 
 <p>With my studio, twenty-six, I’ve worked with clients large and small, all around the world, on projects ranging from visual design to editorial strategy to research initiatives. Past clients have included Thames and Hudson, MIT Press, American University in Sharjah, University of Nevada, Instagram, and Design Observer.</p>
 

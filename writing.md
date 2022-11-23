@@ -5,8 +5,8 @@ permalink: /writing/
 ---
 
 <div class="about-intro">
-        <p>I've written for a variety of publications about design, culture, and criticism, including <i>Eye on Design</i>, <i>Design and Culture</i>, <i>Design Observer</i>, <i>Journal of Design History</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
-        <p>Since July 2020, I've been a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
+        <p>I’ve written for a variety of publications about design, culture, and criticism, including <i>Eye on Design</i>, <i>Design and Culture</i>, <i>Design Observer</i>, <i>Journal of Design History</i>, <i>Fast Company</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
+        <p>From July 2020 to November 2022, I was a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
 
 </div>
 
@@ -33,7 +33,7 @@ permalink: /writing/
 
 <main class="archive-preview">
 
-<h1>Criticism</h1>
+<h1>Criticism/Reviews</h1>
 
 <a href="https://academic.oup.com/jdh/advance-article-abstract/doi/10.1093/jdh/epac039/6760291?redirectedFrom=fulltext">
 <div class="object">
@@ -48,14 +48,6 @@ permalink: /writing/
         <div class="term">April 2022</div>
         <div class="writing-title">The Auto-Ethnographic Turn in Design (Book review)</div>
         <div class="school">Design and Culture</div>
-</div>
-</a>
-
-<a href="https://eyeondesign.aiga.org/as-social-media-reshapes-branding-retail-stores-become-more-like-sponsored-content/">
-<div class="object">
-        <div class="term">December 2020</div>
-        <div class="writing-title">As Social Media Reshapes Branding, Retail Stores Become More Like Sponsored Content</div>
-        <div class="school">Eye on Design</div>
 </div>
 </a>
 
@@ -150,6 +142,14 @@ permalink: /writing/
 </div>
 </a>
 
+<a href="https://eyeondesign.aiga.org/as-social-media-reshapes-branding-retail-stores-become-more-like-sponsored-content/">
+<div class="object">
+        <div class="term">December 2020</div>
+        <div class="writing-title">As Social Media Reshapes Branding, Retail Stores Become More Like Sponsored Content</div>
+        <div class="school">Eye on Design</div>
+</div>
+</a>
+
 <a href="https://eyeondesign.aiga.org/design-criticism-is-everywhere-why-are-we-still-looking-for-it/">
 <div class="object">
         <div class="term">July 2020</div>
@@ -167,6 +167,14 @@ permalink: /writing/
 </a>
 
 <h1>Opinion</h1>
+
+<a href="https://www.fastcompany.com/90814335/the-best-design-books-of-2022">
+<div class="object">
+        <div class="term">November 2022</div>
+        <div class="writing-title">The Best Design Books of 2022</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
 
 <a href="https://eyeondesign.aiga.org/what-makes-something-a-cult-and-something-else-a-brand/">
 <div class="object">

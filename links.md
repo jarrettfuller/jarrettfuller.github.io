@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [11/23 — *The Best Design Books of 2022* for *Fast Company*](https://www.fastcompany.com/90814335/the-best-design-books-of-2022)
+
 * [8/25 — *Open Manifesto—the Quiet but Persistent Australian Design Journal—Was Ahead of Its Time* for *Eye on Design*](https://eyeondesign.aiga.org/open-manifesto-the-quiet-but-persistent-australian-design-journal-was-ahead-of-its-time/)
 
 * [8/8 — *Andrew Satake Blauvelt Elevated Graphic Design Far Beyond Notions of “Problem Solving”* for *Eye on Design*](https://eyeondesign.aiga.org/andrew-satake-blauvelt-elevated-graphic-design-far-beyond-notions-of-problem-solving/)
