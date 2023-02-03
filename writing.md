@@ -16,7 +16,7 @@ permalink: /writing/
 <!--<h1>Books</h1>-->
 <div class="images-left"><img src="/images/writing_parsons.jpg">
     <h3>1, 10, 100 Years of Form, Typography, and Interaction at Parsons (Oro Editions, 2021)</h3>
-    <p>IN 2021, I worked with the Communication Design department at Parsons to edit this 400 page publication documenting the history of the program, organized around three distinct timescales: the last century, the last decade, and the last year. The book was released in February 2022 by <a href="https://www.oroeditions.com/">Oro Editions</a></p>
+    <p>In 2021, I worked with the Communication Design department at Parsons to edit this 400 page publication documenting the history of the program, organized around three distinct timescales: the last century, the last decade, and the last year. The book was released in February 2022 by <a href="https://www.oroeditions.com/">Oro Editions</a></p>
 
     <p><a href="https://amzn.to/3EXIHZv">Buy the book here.</a></p>
 </div>
@@ -167,6 +167,14 @@ permalink: /writing/
 </a>
 
 <h1>Opinion</h1>
+
+<a href="https://papress.com/collections/coming-soon/products/how-to-be-a-design-student">
+<div class="object">
+        <div class="term">March 2023</div>
+        <div class="writing-title">How To Be A Design Student (Foreword)</div>
+        <div class="school">Princeton Architectural Press</div>
+</div>
+</a>
 
 <a href="https://www.fastcompany.com/90814335/the-best-design-books-of-2022">
 <div class="object">
