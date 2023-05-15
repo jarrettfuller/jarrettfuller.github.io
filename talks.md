@@ -14,6 +14,14 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">April 21, 2023</div>
+        <div class="press-title">
+The History of Design is the History of Publishing</div>
+        <div class="school">Shenzhen International School of Design</div>
+        <div class="term">Invited Talk</div>
+</div>
+
+<div class="object">
         <div class="term">March 8, 2023</div>
         <div class="press-title">
 On Scratching the Surface</div>

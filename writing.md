@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 
 <div class="about-intro">
-        <p>I’ve written for a variety of publications about design, culture, and criticism, including <i>Eye on Design</i>, <i>Design and Culture</i>, <i>Design Observer</i>, <i>Journal of Design History</i>, <i>Fast Company</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
+        <p>I’ve written for a variety of publications about design, culture, and criticism, including <i>Eye on Design</i>, <i>Eye Magazine</i>, <i>Design and Culture</i>, <i>Design Observer</i>, <i>Journal of Design History</i>, <i>Fast Company</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
         <p>From July 2020 to November 2022, I was a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
 
 </div>
@@ -34,6 +34,14 @@ permalink: /writing/
 <main class="archive-preview">
 
 <h1>Criticism/Reviews</h1>
+
+<a href="https://www.eyemagazine.com/review/article/the-purpose-is-what-it-does">
+<div class="object">
+        <div class="term">May 2023</div>
+        <div class="writing-title">Graphic Events (Book review)</div>
+        <div class="school">Eye Magazine</div>
+</div>
+</a>
 
 <a href="https://academic.oup.com/jdh/advance-article-abstract/doi/10.1093/jdh/epac039/6760291?redirectedFrom=fulltext">
 <div class="object">
