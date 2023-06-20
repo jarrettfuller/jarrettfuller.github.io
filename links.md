@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [6/20 — *Manuel Lima thinks its time to redesign design* for *Fast Company*](https://www.fastcompany.com/90909909/manuel-lima-new-designer)
+
 * [12/20 — *Blue Christmas* playlist on Spotify](https://open.spotify.com/playlist/4C79H2xbLjzx32fm6QRT7Q?si=e8c284ad16b1476a)
 
 * [11/23 — *The Best Design Books of 2022* for *Fast Company*](https://www.fastcompany.com/90814335/the-best-design-books-of-2022)

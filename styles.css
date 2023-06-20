@@ -476,6 +476,9 @@ figcaption a:hover {
             .school {
               width: 25%;
             }
+#custom-substack-embed {
+    padding-bottom: 20px;
+}
 
 /*----------- PLAYLISTS LIBRARY --------------*/
 #playlist-container {

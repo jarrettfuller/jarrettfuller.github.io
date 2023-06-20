@@ -121,6 +121,16 @@ The designer as podcaster</div>
 </div>
 </a>
 
+<a href="https://www.theparisreview.org/blog/2018/06/08/ode-to-the-dinkus/">
+<div class="object">
+        <div class="term">June 2018</div>
+        <div class="press-title">
+Ode to the Dinkus (by Daisy Alioto)</div>
+        <div class="school">The Paris Review</div>
+        <div class="term">Commentary</div>
+</div>
+</a>
+
 <a href="https://www.architecturaldigest.com/story/design-podcasts-you-should-download-right-now">
 <div class="object">
         <div class="term">May 2018</div>
@@ -138,6 +148,16 @@ The designer as podcaster</div>
 Huh? #34: An interview with Jarrett Fuller</div>
         <div class="school">Perpetual Beta</div>
         <div class="term">Interview</div>
+</div>
+</a>
+
+<a href="https://www.wearedesignbureau.com/projects/dialogue-jarrett-fuller/">
+<div class="object">
+        <div class="term">January 2018</div>
+        <div class="press-title">
+The most exciting design events of 2018, selected by leading designers, scholars, and experts (by Anne Quito)</div>
+        <div class="school">Quartz</div>
+        <div class="term">Commentary</div>
 </div>
 </a>
 

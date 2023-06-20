@@ -282,6 +282,14 @@ permalink: /writing/
 
 <h1>Interviews</h1>
 
+<a href="https://www.fastcompany.com/90909909/manuel-lima-new-designer">
+<div class="object">
+        <div class="term">June 2023</div>
+        <div class="writing-title">Manuel Lima thinks it's time to redesign design</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+
 <a href="https://eyeondesign.aiga.org/open-manifesto-the-quiet-but-persistent-australian-design-journal-was-ahead-of-its-time/">
 <div class="object">
         <div class="term">August 2022</div>
