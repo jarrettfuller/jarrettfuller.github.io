@@ -176,6 +176,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://www.fastcompany.com/90955359/5-essential-design-books-to-read-this-fall">
+<div class="object">
+        <div class="term">September 2023</div>
+        <div class="writing-title">5 essential design books to read this fall</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+
 <a href="https://www.fastcompany.com/90912036/6-essential-design-books-for-summer">
 <div class="object">
         <div class="term">June 2023</div>
