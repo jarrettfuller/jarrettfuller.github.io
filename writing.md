@@ -14,6 +14,24 @@ permalink: /writing/
 
 
 <!--<h1>Books</h1>-->
+<div class="images-left"><img src="/images/writing_eod.jpg">
+    <h3>What It Means To Be a Designer Today (Princeton Architectural Press, 2024)</h3>
+    <p>With Liz Stinson, I co-edited this collection of essays from the first ten years of AIGA's Eye on Design. Organized around the framework of moments, questions, and reflections, this book includes both previously published and original writing about the state of graphic design. Coming April 2024 from Princeton Architectural Press.</p>
+
+    <p><a href="https://amzn.to/47v2Gf9">Preorder the book here.</a></p>
+</div>
+
+<div class="images-right"><img src="/images/writing_latham.jpg">
+    <h3>Where Must Design Go Next? (Oro Editions, 2023)</h3>
+    <p>A collection of roundtable conversations with the faculty of the Institute of Design (ID) at Illinois Tech about the future of design pedagogy, practice, and theory. This book is published jointly by Oro Editions and ID and results from my work as the 2022-23 Latham Fellow at ID.</p>
+
+    <p><a href="https://bookshop.org/p/books/where-does-architecture-go-next-janett-fuller/20624416?ean=9781961856097">Buy the book here.</a></p>
+</div>
+
+</div>
+
+<div class="images clearfix">
+
 <div class="images-left"><img src="/images/writing_parsons.jpg">
     <h3>1, 10, 100 Years of Form, Typography, and Interaction at Parsons (Oro Editions, 2021)</h3>
     <p>In 2021, I worked with the Communication Design department at Parsons to edit this 400 page publication documenting the history of the program, organized around three distinct timescales: the last century, the last decade, and the last year. The book was released in February 2022 by <a href="https://www.oroeditions.com/">Oro Editions</a></p>

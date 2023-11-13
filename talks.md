@@ -14,6 +14,15 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">October 11, 2023</div>
+        <div class="press-title">
+            <a href="https://jarrettfuller.com/projects/sva-talk">
+Scratching the Surface of Alternative Publishing <i class="far fa-external-link-alt"></i></a><br></div>
+        <div class="school">SVA Design Research, Writing, and Criticism</div>
+        <div class="term">Public Lecture</div>
+</div>
+
+<div class="object">
         <div class="term">April 21, 2023</div>
         <div class="press-title">
 The History of Design is the History of Publishing</div>
