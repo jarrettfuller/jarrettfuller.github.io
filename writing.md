@@ -53,6 +53,14 @@ permalink: /writing/
 
 <h1>Criticism/Reviews</h1>
 
+<a href="https://www.eyemagazine.com/review/article/one-brain-four-eyes">
+<div class="object">
+        <div class="term">November 2023</div>
+        <div class="writing-title">One brain, four eyes (Skolos+Wedell book review)</div>
+        <div class="school">Eye Magazine</div>
+</div>
+</a>
+
 <a href="https://www.eyemagazine.com/review/article/the-purpose-is-what-it-does">
 <div class="object">
         <div class="term">May 2023</div>
