@@ -53,6 +53,14 @@ permalink: /writing/
 
 <h1>Criticism/Reviews</h1>
 
+<a href="https://www.untappedjournal.com/issues/issue-8/advanced-school-of-collective-feeling-bauhaus-nile-greenberg-matthew-kennedy">
+<div class="object">
+        <div class="term">December 2023</div>
+        <div class="writing-title">The Extraordinary Link Between Aerobics and Architecture</div>
+        <div class="school">Untapped Journal</div>
+</div>
+</a>
+
 <a href="https://www.eyemagazine.com/review/article/one-brain-four-eyes">
 <div class="object">
         <div class="term">November 2023</div>

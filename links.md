@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [12/4 — The Extraordinary Link Between Aerobics and Architecture* for *Untapped*](https://www.untappedjournal.com/issues/issue-8/advanced-school-of-collective-feeling-bauhaus-nile-greenberg-matthew-kennedy)
+
 * [9/21 — *5 essential design books to read this fall* for *Fast Company*](https://www.fastcompany.com/90955359/5-essential-design-books-to-read-this-fall)
 
 * [6/21 — *6 essential design books to read this summer* for *Fast Company*](https://www.fastcompany.com/90912036/6-essential-design-books-for-summer)
