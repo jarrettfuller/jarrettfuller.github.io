@@ -4,6 +4,8 @@ title: Recent Links
 permalink: /links
 ---
 
+* [12/26 — *The best design books of 2023* for *Fast Company*](https://www.fastcompany.com/91002098/the-best-design-books-of-2023)
+
 * [12/7 — New Book! *Where Must Design Go Next?* produced with the Institute of Design at Illinois Tech and published by Oro Editions](https://id.iit.edu/story/id-faculty-discuss-designs-next-step-in-new-book/)
 
 * [12/4 — *The Extraordinary Link Between Aerobics and Architecture* for *Untapped*](https://www.untappedjournal.com/issues/issue-8/advanced-school-of-collective-feeling-bauhaus-nile-greenberg-matthew-kennedy)

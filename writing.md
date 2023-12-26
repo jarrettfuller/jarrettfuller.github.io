@@ -210,6 +210,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://www.fastcompany.com/91002098/the-best-design-books-of-2023">
+<div class="object">
+        <div class="term">December 2023</div>
+        <div class="writing-title">The best design books of 2023</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+
 <a href="https://www.fastcompany.com/90955359/5-essential-design-books-to-read-this-fall">
 <div class="object">
         <div class="term">September 2023</div>
