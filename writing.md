@@ -144,6 +144,14 @@ permalink: /writing/
 
 <h1>Journalism</h1>
 
+<a href="https://www.fastcompany.com/91107849/is-the-rise-of-strategy-the-death-of-design">
+<div class="object">
+        <div class="term">April 2024</div>
+        <div class="writing-title">Is the rise of strategy the death of design?</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+
 <a href="https://eyeondesign.aiga.org/andrew-satake-blauvelt-elevated-graphic-design-far-beyond-notions-of-problem-solving/">
 <div class="object">
         <div class="term">August 2022</div>
