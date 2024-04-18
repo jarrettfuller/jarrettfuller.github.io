@@ -4,7 +4,7 @@ title: Recent Links
 permalink: /links
 ---
 
-* [4/18 — *Is The Rise of Strategy the Death of Design?* for *Fast Company](https://www.fastcompany.com/91107849/is-the-rise-of-strategy-the-death-of-design)
+* [4/18 — *Is The Rise of Strategy the Death of Design?* for *Fast Company*](https://www.fastcompany.com/91107849/is-the-rise-of-strategy-the-death-of-design)
 
 * [2/2 — New Book! *What It Means To Be A Designer*, co-edited with Liz Stinson. Coming this Spring from Princeton Architectural Press.](https://www.aiga.org/perspectives/aiga-eye-on-design)
 
