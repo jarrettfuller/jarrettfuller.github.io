@@ -218,6 +218,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://www.untappedjournal.com/issues/issue-11/jarrett-fuller-building-with-simple-tools-longevity">
+<div class="object">
+        <div class="term">May 2024</div>
+        <div class="writing-title">Using Simple Tools as a Radical Act of Independence</div>
+        <div class="school">Untapped Journal</div>
+</div>
+</a>
+
 <a href="https://www.fastcompany.com/91002098/the-best-design-books-of-2023">
 <div class="object">
         <div class="term">December 2023</div>
