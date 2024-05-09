@@ -4,11 +4,17 @@ title: Recent Links
 permalink: /links
 ---
 
+#### LATEST
+
 * [5/6 — *Using Simple Tools as a Radical Act of Independence* for *Untapped*](https://www.untappedjournal.com/issues/issue-11/jarrett-fuller-building-with-simple-tools-longevity)
+
+#### 2024
 
 * [4/18 — *Is The Rise of Strategy the Death of Design?* for *Fast Company*](https://www.fastcompany.com/91107849/is-the-rise-of-strategy-the-death-of-design)
 
 * [2/2 — New Book! *What It Means To Be A Designer*, co-edited with Liz Stinson. Coming this Spring from Princeton Architectural Press.](https://www.aiga.org/perspectives/aiga-eye-on-design)
+
+#### 2023
 
 * [12/26 — *The best design books of 2023* for *Fast Company*](https://www.fastcompany.com/91002098/the-best-design-books-of-2023)
 
@@ -21,6 +27,8 @@ permalink: /links
 * [6/21 — *6 essential design books to read this summer* for *Fast Company*](https://www.fastcompany.com/90912036/6-essential-design-books-for-summer)
 
 * [6/20 — *Manuel Lima thinks it's time to redesign design* for *Fast Company*](https://www.fastcompany.com/90909909/manuel-lima-new-designer)
+
+#### 2022
 
 * [12/20 — *Blue Christmas* playlist on Spotify](https://open.spotify.com/playlist/4C79H2xbLjzx32fm6QRT7Q?si=e8c284ad16b1476a)
 
@@ -46,6 +54,8 @@ permalink: /links
 
 * [Interview with Lucille Tenazas on *Eye on Design*](https://eyeondesign.aiga.org/designer-educator-lucille-tenazas-on-teaching-design-as-both-a-noun-and-a-verb/)
 
+#### 2021
+
 * [The Best Design Books of 2021 on *Eye on Design*](https://eyeondesign.aiga.org/the-best-design-books-of-2021/)
 
 * [On the blog: Websites as time capsules](https://www.jarrettfuller.blog/2021/12/website/)
@@ -60,4 +70,3 @@ permalink: /links
 
 * [For *Eye on Design*: How Cranbrook’s Design Program Redefined How We Make and Talk About Graphic Design](https://eyeondesign.aiga.org/how-cranbrooks-design-program-redefined-how-we-make-and-talk-about-graphic-design/)
 
-* [Scratching the Surface](https://scratchingthesurface.fm/)

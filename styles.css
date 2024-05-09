@@ -529,7 +529,7 @@ figcaption a:hover {
 /*----------- RECENTLY --------------*/
 .recently {
     border-top: 1px solid red;
-    padding: 25px;
+    padding: 15px;
 }
 .recently p {
     padding: 0;
@@ -538,8 +538,8 @@ figcaption a:hover {
 .recently li {
     padding: 15px;
     background-color: lightgrey;
-    margin: 20px;
-    border-radius: 10px;
+    margin-bottom: 10px;
+/*    border-radius: 10px;*/
     text-align: center;
 }
 .recently li a {
@@ -547,6 +547,31 @@ figcaption a:hover {
     padding-bottom: 0px;
     font-family: 'Karla', Helvetica, Arial, sans-serif;
 }
+.recently h4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.recently-feature {
+        border-top: 1px solid red;
+    padding: 15px;
+    display: flex;
+    box-sizing: border-box;
+}
+.recently-feature .left, 
+.recently-feature .right {
+    width: 50%;
+        text-align: center;
+    padding: 5px;
+}
+.recently-feature img {
+    width: 100%;
+/*    padding: 5px;*/
+}
+.recently-feature a:hover {
+    border-bottom: none;
+}
+
+
 /*----------- FOOTER --------------*/
 footer {
   border-top: 1px #ff0000 solid;

@@ -11,6 +11,16 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://linksiwouldgchatyou.substack.com/p/why-does-everything-online-look-the">
+<div class="object">
+        <div class="term">May 2024</div>
+        <div class="press-title">
+Why does everything online look the same?</div>
+        <div class="school">Links I Would GChat You If We Were Friends</div>
+        <div class="term">Interview</div>
+</div>
+</a>
+
 <a href="https://open.spotify.com/episode/06li0wRoTzambbWQNhwIMM?si=6c197def87894400">
 <div class="object">
         <div class="term">August 2022</div>
