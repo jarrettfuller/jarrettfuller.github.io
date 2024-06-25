@@ -6,9 +6,11 @@ permalink: /links
 
 #### LATEST
 
-* [5/6 — *Using Simple Tools as a Radical Act of Independence* for *Untapped*](https://www.untappedjournal.com/issues/issue-11/jarrett-fuller-building-with-simple-tools-longevity)
+* [6/25 — *James Biber on The Architect & Designer Birthday Book* for *Scratch*](https://scratchingthesurface.fm/stories/designer-birthday-book)
 
 #### 2024
+
+* [5/6 — *Using Simple Tools as a Radical Act of Independence* for *Untapped*](https://www.untappedjournal.com/issues/issue-11/jarrett-fuller-building-with-simple-tools-longevity)
 
 * [4/18 — *Is The Rise of Strategy the Death of Design?* for *Fast Company*](https://www.fastcompany.com/91107849/is-the-rise-of-strategy-the-death-of-design)
 
