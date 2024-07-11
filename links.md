@@ -6,9 +6,11 @@ permalink: /links
 
 #### LATEST
 
-* [6/25 — *James Biber on The Architect & Designer Birthday Book* for *Scratch*](https://scratchingthesurface.fm/stories/designer-birthday-book)
+* [7/11 — *The world is on fire. Can design help save it?* for *Fast Company*](https://www.fastcompany.com/91153344/stanford-design-book-assembling-tomorrow)
 
 #### 2024
+
+* [6/25 — *James Biber on The Architect & Designer Birthday Book* for *Scratch*](https://scratchingthesurface.fm/stories/designer-birthday-book)
 
 * [5/6 — *Using Simple Tools as a Radical Act of Independence* for *Untapped*](https://www.untappedjournal.com/issues/issue-11/jarrett-fuller-building-with-simple-tools-longevity)
 
