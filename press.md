@@ -11,6 +11,16 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://www.newyorker.com/culture/infinite-scroll/why-i-finally-quit-spotify">
+<div class="object">
+        <div class="term">August 2024</div>
+        <div class="press-title">
+Why I Finally Quit Spotify</div>
+        <div class="school">The New Yorker</div>
+        <div class="term">Commentary</div>
+</div>
+</a>
+
 <a href="https://linksiwouldgchatyou.substack.com/p/why-does-everything-online-look-the">
 <div class="object">
         <div class="term">May 2024</div>
