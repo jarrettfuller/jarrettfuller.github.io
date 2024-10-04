@@ -13,6 +13,15 @@ permalink: about/talks
 
 <main class="archive-preview">
 
+
+<div class="object">
+        <div class="term">October 3, 2024</div>
+        <div class="press-title">
+I Don't Know What Graphic Design Is</div>
+        <div class="school">University of Canterbury School of Fine Arts</div>
+        <div class="term">Invited Talk</div>
+</div>
+
 <div class="object">
         <div class="term">October 11, 2023</div>
         <div class="press-title">
