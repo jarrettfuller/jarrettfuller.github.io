@@ -13,6 +13,22 @@ permalink: about/talks
 
 <main class="archive-preview">
 
+<div class="object">
+        <div class="term">October 16, 2024</div>
+        <div class="press-title">
+On Scratching the Surface</div>
+        <div class="school">Pratt Institute, School of Achitecture (Architecture Media class)</div>
+        <div class="term">Invited Talk</div>
+</div>
+
+<div class="object">
+        <div class="term">October 11, 2024</div>
+        <div class="press-title">
+Radically Democratizing Graphic Design's Past to Joyfully Imagine Its Future<br>
+    Moderated panel with Louise Sandhaus, Elizabeth Goodspeed, Caspar Lam, and YuJune Park</div>
+        <div class="school">AIGA Design Conference</div>
+        <div class="term">Moderator</div>
+</div>
 
 <div class="object">
         <div class="term">October 3, 2024</div>
@@ -20,6 +36,22 @@ permalink: about/talks
 I Don't Know What Graphic Design Is</div>
         <div class="school">University of Canterbury School of Fine Arts</div>
         <div class="term">Invited Talk</div>
+</div>
+
+<div class="object">
+        <div class="term">April 4, 2024</div>
+        <div class="press-title">
+Designer as Luddite</div>
+        <div class="school">North Carolina State University, Design Ethics and Justic course</div>
+        <div class="term">Invited Talk</div>
+</div>
+
+<div class="object">
+        <div class="term">December 11, 2022</div>
+        <div class="press-title">
+Graphic Design MFA</div>
+        <div class="school">Maryland Institute College of Art</div>
+        <div class="term">Guest Critic</div>
 </div>
 
 <div class="object">
