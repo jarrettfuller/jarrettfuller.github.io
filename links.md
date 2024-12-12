@@ -6,9 +6,11 @@ permalink: /links
 
 #### LATEST
 
-* [7/11 — *The world is on fire. Can design help save it?* for *Fast Company*](https://www.fastcompany.com/91153344/stanford-design-book-assembling-tomorrow)
+* [12/12 — *The design industry is broken. These design coaches want to fix it* for *Fast Company*](https://www.fastcompany.com/91244915/the-design-industry-is-broken-these-design-coaches-want-to-fix-it)
 
 #### 2024
+
+* [7/11 — *The world is on fire. Can design help save it?* for *Fast Company*](https://www.fastcompany.com/91153344/stanford-design-book-assembling-tomorrow)
 
 * [6/25 — *James Biber on The Architect & Designer Birthday Book* for *Scratch*](https://scratchingthesurface.fm/stories/designer-birthday-book)
 

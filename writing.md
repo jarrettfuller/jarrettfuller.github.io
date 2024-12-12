@@ -144,6 +144,14 @@ permalink: /writing/
 
 <h1>Journalism</h1>
 
+<a href="https://www.fastcompany.com/91244915/the-design-industry-is-broken-these-design-coaches-want-to-fix-it">
+<div class="object">
+        <div class="term">December 2024</div>
+        <div class="writing-title">The design industry is broken. These design coaches want to fix it</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+
 <a href="https://www.fastcompany.com/91107849/is-the-rise-of-strategy-the-death-of-design">
 <div class="object">
         <div class="term">April 2024</div>
