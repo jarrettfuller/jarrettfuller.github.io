@@ -14,6 +14,14 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">December 9-10, 2024</div>
+        <div class="press-title">
+Graphic Design MFA</div>
+        <div class="school">Maryland Institute College of Art</div>
+        <div class="term">Guest Critic</div>
+</div>
+
+<div class="object">
         <div class="term">October 16, 2024</div>
         <div class="press-title">
 On Scratching the Surface</div>
