@@ -12,7 +12,7 @@ permalink: /projects/design-coaches
 <img src="../images/projects/designer-coaches.jpg">
 </figure>
 
-**This piece was [originally published in *Fast Company* on December 12, 2024.](https://www.fastcompany.com/91244915/the-design-industry-is-broken-these-design-coaches-want-to-fix-it).**
+**This piece was [originally published in *Fast Company* on December 12, 2024](https://www.fastcompany.com/91244915/the-design-industry-is-broken-these-design-coaches-want-to-fix-it).**
 
 ***
 

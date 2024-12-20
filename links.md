@@ -6,9 +6,11 @@ permalink: /links
 
 #### LATEST
 
-* [12/12 — *The design industry is broken. These design coaches want to fix it* for *Fast Company*](https://www.fastcompany.com/91244915/the-design-industry-is-broken-these-design-coaches-want-to-fix-it)
+* [12/20 — *The best design books of 2024* for *Fast Company*](https://www.fastcompany.com/91245522/the-best-design-books-of-2024)
 
 #### 2024
+
+* [12/12 — *The design industry is broken. These design coaches want to fix it* for *Fast Company*](https://www.fastcompany.com/91244915/the-design-industry-is-broken-these-design-coaches-want-to-fix-it)
 
 * [7/11 — *The world is on fire. Can design help save it?* for *Fast Company*](https://www.fastcompany.com/91153344/stanford-design-book-assembling-tomorrow)
 

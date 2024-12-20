@@ -12,7 +12,7 @@ permalink: /projects/html-simple-tools
 <img src="../images/projects/untapped-html.png">
 </figure>
 
-**This piece was [originally published in *Untapped Journal* on May 6, 2024.](https://www.untappedjournal.com/issues/issue-11/jarrett-fuller-building-with-simple-tools-longevity).**
+**This piece was [originally published in *Untapped Journal* on May 6, 2024](https://www.untappedjournal.com/issues/issue-11/jarrett-fuller-building-with-simple-tools-longevity).**
 
 ***
 

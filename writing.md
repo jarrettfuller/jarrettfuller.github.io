@@ -226,6 +226,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://www.fastcompany.com/91245522/the-best-design-books-of-2024">
+<div class="object">
+        <div class="term">December 2024</div>
+        <div class="writing-title">The best design books of 2024</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+
 <a href="https://www.untappedjournal.com/issues/issue-11/jarrett-fuller-building-with-simple-tools-longevity">
 <div class="object">
         <div class="term">May 2024</div>
