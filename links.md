@@ -6,9 +6,12 @@ permalink: /links
 
 #### LATEST
 
-* [12/20 — *The best design books of 2024* for *Fast Company*](https://www.fastcompany.com/91245522/the-best-design-books-of-2024)
+* [1/22 — *In A Century of Tomorrows, Glenn Adamson chronicles the history of predicting the future* for *The Architect's Newspaper*](https://www.archpaper.com/2025/01/in-a-century-of-tomorrows-glenn-adamson-chronicles-the-history-of-predicting-the-future/)
+
 
 #### 2024
+
+* [12/20 — *The best design books of 2024* for *Fast Company*](https://www.fastcompany.com/91245522/the-best-design-books-of-2024)
 
 * [12/12 — *The design industry is broken. These design coaches want to fix it* for *Fast Company*](https://www.fastcompany.com/91244915/the-design-industry-is-broken-these-design-coaches-want-to-fix-it)
 

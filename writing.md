@@ -53,6 +53,14 @@ permalink: /writing/
 
 <h1>Criticism/Reviews</h1>
 
+<a href="https://www.archpaper.com/2025/01/in-a-century-of-tomorrows-glenn-adamson-chronicles-the-history-of-predicting-the-future/">
+<div class="object">
+        <div class="term">January 2025</div>
+        <div class="writing-title">In A Century of Tomorrows, Glenn Adamson chronicles the history of predicting the future</div>
+        <div class="school">The Architect's Newspaper</div>
+</div>
+</a>
+
 <a href="https://www.untappedjournal.com/issues/issue-8/advanced-school-of-collective-feeling-bauhaus-nile-greenberg-matthew-kennedy">
 <div class="object">
         <div class="term">December 2023</div>
