@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 
 <div class="about-intro">
-        <p>I’ve written for a variety of publications about design, culture, and criticism, including <i>Eye on Design</i>, <i>Eye Magazine</i>, <i>Design and Culture</i>, <i>Design Observer</i>, <i>Journal of Design History</i>, <i>Fast Company</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
+        <p>I’ve written for a variety of publications about design, culture, and criticism, including <i>Fast Company</i>, <i>Eye Magazine</i>, <i>The Architect's Newspaper</i>, <i>Design and Culture</i>, <i>Design Observer</i>, <i>Journal of Design History</i>, <i>Eye on Design</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
         <p>From July 2020 to November 2022, I was a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
 
 </div>
