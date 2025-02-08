@@ -14,6 +14,15 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">February 8, 2025</div>
+        <div class="press-title">
+Real Talk About Publishing<br>
+    Panel discussion with Christopher and Kathleen Sleboda and Liese Zahabi. Moderated by Patricia Childers</div>
+        <div class="school">AIGA Design Educators Community</div>
+        <div class="term">Panel</div>
+</div>
+
+<div class="object">
         <div class="term">December 9-10, 2024</div>
         <div class="press-title">
 Graphic Design MFA</div>
