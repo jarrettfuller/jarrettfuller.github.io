@@ -11,6 +11,16 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://nearfuturelaboratory.com/podcast/e097/">
+<div class="object">
+        <div class="term">May 2025</div>
+        <div class="press-title">
+Going Home with Jarrett Fuller</div>
+        <div class="school">Near Future Laboratory Podcast</div>
+        <div class="term">Interview</div>
+</div>
+</a>
+
 <a href="https://www.aiany.org/membership/oculus-magazine/article/winter-2025/architecture-on-the-air-oculus-editors-top-podcast-picks/">
 <div class="object">
         <div class="term">January 2025</div>

@@ -14,6 +14,14 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">March 25, 2025</div>
+        <div class="press-title">
+I Don't Know What Graphic Design Is</div>
+        <div class="school">UNC-Chapel Hill</div>
+        <div class="term">Invited Talk</div>
+</div>
+
+<div class="object">
         <div class="term">February 8, 2025</div>
         <div class="press-title">
 Real Talk About Publishing<br>
