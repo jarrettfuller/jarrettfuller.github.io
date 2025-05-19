@@ -234,6 +234,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://untappedjournal.com/stories/the-lesson-i-learned-at-summer-camp">
+<div class="object">
+        <div class="term">May 2025</div>
+        <div class="writing-title">The Lesson I Learned at Summer Camp</div>
+        <div class="school">Untapped Journal</div>
+</div>
+</a>
+
 <a href="https://www.fastcompany.com/91245522/the-best-design-books-of-2024">
 <div class="object">
         <div class="term">December 2024</div>

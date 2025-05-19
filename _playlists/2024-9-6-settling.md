@@ -1,7 +1,7 @@
 ---
 layout: playlists
 title: Settling
-season: Summer 2023
+season: Summer 2024
 permalink: /playlists/settling
 image: https://jarrettfuller.photo/images/IMG_9952-2.jpg
 stream: https://open.spotify.com/playlist/1NzQ2uS3h9qAQS4Gd2ALr7?si=2240bc67bac24683
