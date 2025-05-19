@@ -6,6 +6,8 @@ permalink: /links
 
 #### LATEST
 
+* [5/19 — *The Lesson I Learned at Summer Camp* for *Untapped Journal*](https://untappedjournal.com/stories/the-lesson-i-learned-at-summer-camp)
+
 * [1/22 — *In A Century of Tomorrows, Glenn Adamson chronicles the history of predicting the future* for *The Architect's Newspaper*](https://www.archpaper.com/2025/01/in-a-century-of-tomorrows-glenn-adamson-chronicles-the-history-of-predicting-the-future/)
 
 
