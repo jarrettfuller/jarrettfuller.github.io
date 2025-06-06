@@ -24,7 +24,8 @@ I Don't Know What Graphic Design Is</div>
 <div class="object">
         <div class="term">February 8, 2025</div>
         <div class="press-title">
-Real Talk About Publishing<br>
+<a href="https://jarrettfuller.com/projects/real-talk">
+Real Talk About Publishing <i class="far fa-external-link-alt"></i></a><br>
     Panel discussion with Christopher and Kathleen Sleboda and Liese Zahabi. Moderated by Patricia Childers</div>
         <div class="school">AIGA Design Educators Community</div>
         <div class="term">Panel</div>

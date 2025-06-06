@@ -168,6 +168,14 @@ permalink: /writing/
 </div>
 </a>
 
+<a href="https://jarrettfuller.com/projects/ncsu-graphic-design">
+<div class="object">
+        <div class="term">March 2023</div>
+        <div class="writing-title">The History of Graphic Design at NC State Collge of Design</div>
+        <div class="school">DesignLife</div>
+</div>
+</a>
+
 <a href="https://eyeondesign.aiga.org/andrew-satake-blauvelt-elevated-graphic-design-far-beyond-notions-of-problem-solving/">
 <div class="object">
         <div class="term">August 2022</div>
