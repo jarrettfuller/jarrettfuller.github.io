@@ -396,6 +396,15 @@ permalink: /writing/
 
 <h1>Interviews</h1>
 
+<a href="https://www.fastcompany.com/91349939/david-reinfurt-on-why-its-time-to-rethink-how-we-teach-design">
+<div class="object">
+        <div class="term">June 2025</div>
+        <div class="writing-title">David Reinfurt on why it’s time to rethink how we teach design
+</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+
 <a href="https://www.fastcompany.com/91153344/stanford-design-book-assembling-tomorrow">
 <div class="object">
         <div class="term">July 2024</div>
