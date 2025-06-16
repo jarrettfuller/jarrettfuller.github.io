@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div class="about-intro"><p>Jarrett Fuller is a designer, writer, educator, editor and podcaster. He is an assistant professor of graphic design at North Carolina State University; director of the design and editorial studio twenty-six; and host of the design podcast Scratching the Surface. </p></div>
+<div class="about-intro"><p>Jarrett Fuller is a designer, writer, educator, editor and podcaster. He is an assistant professor and director of undergraduate programs in graphic design at North Carolina State University; director of the design and editorial studio twenty-six; and host of the design podcast Scratching the Surface. </p></div>
 
 <div class="profile">
 <div class="text">
@@ -19,7 +19,7 @@ permalink: /about/
 
 <div class="profile_section">
 <h4>Now</h4>
-<article><p>My professional practice spans graphic design, writing, editing, journalism, and education. I’m based in Raleigh, North Carolina where I’m an assistant professor of graphic design at North Carolina State University. I’m also the host of the design podcast Scratching the Surface. I'm especially interested in design discourse, media infrastructures, experimental publishing, institutional histories, and alternative practices.</p>
+<article><p>My professional practice spans graphic design, writing, editing, journalism, and education. I’m based in Raleigh, North Carolina where I’m an assistant professor and the director of undergraduate programs in Graphic and Experience Design at North Carolina State University. I’m also the host of the design podcast Scratching the Surface. I'm especially interested in design discourse, media infrastructures, experimental publishing, institutional histories, and alternative practices.</p>
 
 <p>I've worked for nearly twenty years as a graphic designer, focusing on books, brands, and websites, most recently with my independent studio, <a href="http://www.twenty-six.design">twenty-six</a>. Before that, I worked as a at Facebook, Warby Parker, and The Whitney Museum of American Art. I try to take on 2-3 projects a year. If you're interested in working, let me know! </p>
 
