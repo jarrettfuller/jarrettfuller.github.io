@@ -14,6 +14,22 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">June 12, 2025</div>
+        <div class="press-title">
+Shearing Layers: A Speculative Framework for Responsive Graphic Design Pedagogy</div>
+        <div class="school">AIGA Design Educators Conference</div>
+        <div class="term">Academic Presentation</div>
+</div>
+        
+<div class="object">
+        <div class="term">June 12, 2025</div>
+        <div class="press-title">
+Making Public and Making Publics: Connecting Graphic Design to Media Studies</div>
+        <div class="school">AIGA Design Educators Conference</div>
+        <div class="term">Academic Presentation</div>
+</div>
+        
+<div class="object">
         <div class="term">March 25, 2025</div>
         <div class="press-title">
 I Don't Know What Graphic Design Is</div>

@@ -42,7 +42,7 @@ permalink: /about/
         <article>
             <p>I'm a believer in making work open source so this site is built entirely with open-source and free tools. The site uses <a href="https://jekyllrb.com">Jekyll</a>, an open-source, static-site generator, and is hosted <a href="https://github.com/jarrettfuller/jarrettfuller.github.io">on Github</a>. It’s set in <a href="https://fonts.google.com/specimen/Karla">Karla</a> and <a href="https://fonts.google.com/specimen/Tinos">Tinos</a> and served up via Google Fonts. You are free to adapt, remix, reuse, and update both the code and visual design for your own needs. That said, if you do use the code for your own site, please include a credit and link back here. Thanks!</p>
 
-            <p>I live and work on land originally inhabited by two Indigenous tribes: the Tuscarora and the Catawba tribes. I honor these tribes by recognizing I'm on stolen land and honor them today to break the cycle of colonization.</p>
+            <p>I <a href="/about/studio/">live and work</a> on land originally inhabited by two Indigenous tribes: the Tuscarora and the Catawba tribes. I honor these tribes by recognizing I'm on stolen land and honor them today to break the cycle of colonization.</p>
         </article>
 </div>
 
@@ -56,6 +56,7 @@ permalink: /about/
             <li><a href="/about/bios">Official Biography</a></li>
         <li><a href="/about/press">Press/Interviews</a></li>
             <li><a href="/about/talks">Talks/Speaking</a></li>
+                <li><a href="/about/studio">Studio</a></li>
             <li><a href="https://docs.google.com/document/d/1ZYmCwEPwgzn7XtCpVJmmxTG15Z5Ws38lkGUUVfoHmPo/edit?usp=sharing">View CV</a></li>
                     </ul>
                 </p>

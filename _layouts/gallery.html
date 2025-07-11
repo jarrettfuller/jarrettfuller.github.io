@@ -1,0 +1,280 @@
+---
+layout: default
+---
+<head>
+    <style type="text/css">
+/* lightbox.css */
+.gallery {
+    max-width: auto;
+    margin: 0 auto;
+    padding: 20px;
+    border-top: 1px solid red;
+}
+
+.thumbnails {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 30px;
+    margin: 50px;
+}
+
+.thumbnail {
+    position: relative;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.thumbnail:hover {
+    opacity: 50%;
+}
+
+.thumbnail img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: block;
+}
+
+/* Lightbox Styles */
+.lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.95);
+    display: none;
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.lightbox-content {
+    position: relative;
+    width: 90vw;
+    height: 90vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lightbox img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+.lightbox-close {
+    position: absolute;
+    top: -40px;
+    right: -40px;
+    background: none;
+    color: lightgrey;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 60px;
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+}
+
+.lightbox-close:hover {
+    background: white;
+}
+
+.lightbox-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0);
+    color: lightgray;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 60px;
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+}
+
+.lightbox-nav:hover {
+    /*background: rgba(0,0,0,0.9);*/
+}
+
+.lightbox-prev {
+    left: -70px;
+}
+
+.lightbox-next {
+    right: -70px;
+}
+
+.lightbox-counter {
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #666;
+    font-size: 14px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .thumbnails {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 10px;
+    }
+
+    .thumbnail img {
+        height: 150px;
+    }
+
+    .lightbox-close {
+        top: -30px;
+        right: -30px;
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+    }
+
+    .lightbox-nav {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .lightbox-prev {
+        left: -50px;
+    }
+
+    .lightbox-next {
+        right: -50px;
+    }
+}
+
+@media (max-width: 480px) {
+    .thumbnails {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    }
+
+    .thumbnail img {
+        height: 120px;
+    }
+
+    .lightbox-prev {
+        left: -30px;
+    }
+
+    .lightbox-next {
+        right: -30px;
+    }
+}
+        </style>
+</head>
+<body>
+
+{{ content }}
+    
+    <!-- jQuery and inline JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+    let currentIndex = 0;
+    const images = $('.thumbnail img');
+    const totalImages = images.length;
+    
+    // Create lightbox HTML if it doesn't exist
+    if ($('#lightbox').length === 0) {
+        $('body').append(`
+            <div class="lightbox" id="lightbox">
+                <div class="lightbox-content">
+                    <button class="lightbox-close" id="lightbox-close">&times;</button>
+                    <button class="lightbox-nav lightbox-prev" id="lightbox-prev">&#8249;</button>
+                    <button class="lightbox-nav lightbox-next" id="lightbox-next">&#8250;</button>
+                    <img id="lightbox-image" src="" alt="">
+
+                </div>
+            </div>
+        `);
+    }
+    
+    // Open lightbox when thumbnail is clicked
+    $('.thumbnail').click(function() {
+        currentIndex = parseInt($(this).data('index'));
+        openLightbox();
+    });
+    
+    // Close lightbox
+    $(document).on('click', '#lightbox-close, #lightbox', function(e) {
+        if (e.target === this) {
+            closeLightbox();
+        }
+    });
+    
+    // Navigation
+    $(document).on('click', '#lightbox-prev', function(e) {
+        e.stopPropagation();
+        currentIndex = (currentIndex - 1 + totalImages) % totalImages;
+        updateLightboxImage();
+    });
+    
+    $(document).on('click', '#lightbox-next', function(e) {
+        e.stopPropagation();
+        currentIndex = (currentIndex + 1) % totalImages;
+        updateLightboxImage();
+    });
+    
+    // Keyboard navigation
+    $(document).keydown(function(e) {
+        if ($('#lightbox').is(':visible')) {
+            switch(e.keyCode) {
+                case 27: closeLightbox(); break;
+                case 37: 
+                    currentIndex = (currentIndex - 1 + totalImages) % totalImages;
+                    updateLightboxImage();
+                    break;
+                case 39:
+                    currentIndex = (currentIndex + 1) % totalImages;
+                    updateLightboxImage();
+                    break;
+            }
+        }
+    });
+    
+    function openLightbox() {
+        updateLightboxImage();
+        $('#lightbox').fadeIn(300).css('display', 'flex');
+    }
+    
+    function closeLightbox() {
+        $('#lightbox').fadeOut(300);
+    }
+    
+    function updateLightboxImage() {
+        const currentImg = images.eq(currentIndex);
+        $('#lightbox-image').attr('src', currentImg.attr('src'));
+        $('#lightbox-image').attr('alt', currentImg.attr('alt'));
+        $('#lightbox-counter').text((currentIndex + 1) + ' / ' + totalImages);
+    }
+});
+</script>
+    
+</body>
