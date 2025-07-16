@@ -54,9 +54,9 @@ permalink: /about/
 <h4>More</h4>
          <p><ul>
             <li><a href="/about/bios">Official Biography</a></li>
+                <li><a href="/about/studio">Studio</a></li>
         <li><a href="/about/press">Press/Interviews</a></li>
             <li><a href="/about/talks">Talks/Speaking</a></li>
-                <li><a href="/about/studio">Studio</a></li>
             <li><a href="https://docs.google.com/document/d/1ZYmCwEPwgzn7XtCpVJmmxTG15Z5Ws38lkGUUVfoHmPo/edit?usp=sharing">View CV</a></li>
                     </ul>
                 </p>
