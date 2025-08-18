@@ -242,6 +242,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://www.fastcompany.com/91382025/ai-isnt-designs-biggest-problem">
+<div class="object">
+        <div class="term">August 2025</div>
+        <div class="writing-title">AI isn't design's biggest problem</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+        
 <a href="https://untappedjournal.com/stories/the-lesson-i-learned-at-summer-camp">
 <div class="object">
         <div class="term">May 2025</div>

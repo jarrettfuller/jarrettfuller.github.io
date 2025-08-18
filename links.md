@@ -6,6 +6,8 @@ permalink: /links
 
 #### LATEST
 
+* [8/18 — *AI isn't design's biggest problem* for *Fast Company*](https://www.fastcompany.com/91382025/ai-isnt-designs-biggest-problem)
+
 * [6/14 — *‘The point is to get disoriented, not oriented’: David Reinfurt on why it’s time to rethink how we teach design* for *Fast Company*](https://www.fastcompany.com/91349939/david-reinfurt-on-why-its-time-to-rethink-how-we-teach-design)
 
 * [5/19 — *The Lesson I Learned at Summer Camp* for *Untapped Journal*](https://untappedjournal.com/stories/the-lesson-i-learned-at-summer-camp)
