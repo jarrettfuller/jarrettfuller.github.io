@@ -242,6 +242,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://www.fastcompany.com/91392941/5-great-design-books-to-add-to-your-back-to-school-reading-list">
+<div class="object">
+        <div class="term">August 2025</div>
+        <div class="writing-title">5 great design books to add to your back-to-school reading list</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+        
 <a href="https://www.fastcompany.com/91382025/ai-isnt-designs-biggest-problem">
 <div class="object">
         <div class="term">August 2025</div>
