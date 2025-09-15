@@ -11,6 +11,26 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://www.softlabor.biz/the-soft-labor-questionnaire-jarrett-fuller/">
+<div class="object">
+        <div class="term">September 2025</div>
+        <div class="press-title">
+The Soft Labor Questionnaire: Jarrett Fuller</div>
+        <div class="school">Soft Labor</div>
+        <div class="term">Interview</div>
+</div>
+</a>
+        
+<a href="https://open.spotify.com/episode/5r84tBsM4SuzchymNyFgwM?si=8b99d38b04204aa9">
+<div class="object">
+        <div class="term">September 2025</div>
+        <div class="press-title">
+Design as Ideology with Jarrett Fuller</div>
+        <div class="school">Type Speaks Podcast</div>
+        <div class="term">Interview</div>
+</div>
+</a>
+        
 <a href="https://nearfuturelaboratory.com/podcast/e097/">
 <div class="object">
         <div class="term">May 2025</div>
