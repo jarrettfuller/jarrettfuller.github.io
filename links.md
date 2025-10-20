@@ -6,6 +6,8 @@ permalink: /links
 
 #### LATEST
 
+* [10/20 — *Why Bruno Munari Taught Designers to Embrace Flexibility*](https://untappedjournal.com/stories/why-bruno-munari-taught-designers-to-embrace-flexibility
+
 * [8/27 — *5 great design books to add to your back-to-school reading list*](https://www.fastcompany.com/91392941/5-great-design-books-to-add-to-your-back-to-school-reading-list)
 
 * [8/18 — *AI isn't design's biggest problem* for *Fast Company*](https://www.fastcompany.com/91382025/ai-isnt-designs-biggest-problem)

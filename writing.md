@@ -53,6 +53,14 @@ permalink: /writing/
 
 <h1>Criticism/Reviews</h1>
 
+<a href="https://untappedjournal.com/stories/why-bruno-munari-taught-designers-to-embrace-flexibility">
+<div class="object">
+        <div class="term">October 2025</div>
+        <div class="writing-title">Why Bruno Munari Taught Designers to Embrace Flexibility</div>
+        <div class="school">Untapped Journal</div>
+</div>
+</a>
+        
 <a href="https://www.archpaper.com/2025/01/in-a-century-of-tomorrows-glenn-adamson-chronicles-the-history-of-predicting-the-future/">
 <div class="object">
         <div class="term">January 2025</div>
