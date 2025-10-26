@@ -14,6 +14,14 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">October 26, 2025</div>
+        <div class="press-title">
+Visualizing Complexity: A Pedagogical Approach Through Industry/Academic Partnerships</div>
+        <div class="school">SECAC Conference</div>
+        <div class="term">Academic Presentation</div>
+</div>
+        
+<div class="object">
         <div class="term">June 12, 2025</div>
         <div class="press-title">
 Shearing Layers: A Speculative Framework for Responsive Graphic Design Pedagogy</div>
