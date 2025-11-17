@@ -68,23 +68,11 @@ permalink: /about/
 <h4>Newsletter</h4>
 <p>Subscribe to my newsletter for updates on my work, photography, links, and other miscellany. Sent monthly(ish):</p>
 
-<div id="custom-substack-embed"></div>
+<!-- Subscribe embed code -->
+<div data-supascribe-embed-id="907513995071" data-supascribe-subscribe></div>
 
-<script>
-  window.CustomSubstackWidget = {
-    substackUrl: "jarrettfuller.substack.com",
-    placeholder: "example@gmail.com",
-    buttonText: "Subscribe",
-    theme: "custom",
-    colors: {
-      primary: "#000000",
-      input: "#FFFFFF",
-      email: "#000000",
-      text: "#FFFFFF",
-    }
-  };
-</script>
-<script src="https://substackapi.com/widget.js" async></script>
+<!-- Supascribe Script -->
+<script src="https://js.supascribe.com/v1/loader/WRj7mGJbbDfjY4CpCPnPMJUIJF63.js" async></script>
 
 
 
@@ -103,7 +91,7 @@ permalink: /about/
   </p>
 </form>
 -->
-
+<p></p>
 
 <h4>Contact</h4>
         <p><ul>
