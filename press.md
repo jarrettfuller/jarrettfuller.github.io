@@ -11,6 +11,16 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://observer.co.uk/news/national/article/spotify-rapped-results-dont-reflect-what-weve-listened-to">
+<div class="object">
+        <div class="term">December 2025</div>
+        <div class="press-title">
+Spotify rapped: results don't reflect the music we like</div>
+        <div class="school">The Observer</div>
+        <div class="term">Commentary</div>
+</div>
+</a>
+        
 <a href="https://www.softlabor.biz/the-soft-labor-questionnaire-jarrett-fuller/">
 <div class="object">
         <div class="term">September 2025</div>

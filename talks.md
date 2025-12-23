@@ -14,6 +14,14 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">December 8-9, 2025</div>
+        <div class="press-title">
+Graphic Design MFA</div>
+        <div class="school">Maryland Institute College of Art</div>
+        <div class="term">Guest Critic</div>
+</div>
+        
+<div class="object">
         <div class="term">October 26, 2025</div>
         <div class="press-title">
 Visualizing Complexity: A Pedagogical Approach Through Industry/Academic Partnerships</div>
