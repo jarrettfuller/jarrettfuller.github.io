@@ -11,6 +11,16 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://www.madamearchitect.org/expanding-the-conversation/2026/1/22/jarrett-fuller">
+<div class="object">
+        <div class="term">January 2026</div>
+        <div class="press-title">
+Expanding Definitions: Scratching the Surface's Jarrett Fuller on Graphic Design, the Art of the Interview, and a New Design Culture</div>
+        <div class="school">Madame Architect</div>
+        <div class="term">Interview</div>
+</div>
+</a>
+        
 <a href="https://observer.co.uk/news/national/article/spotify-rapped-results-dont-reflect-what-weve-listened-to">
 <div class="object">
         <div class="term">December 2025</div>
