@@ -14,6 +14,23 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">March 2, 2026</div>
+        <div class="press-title">
+The Honest Studio: Design Talks<br>
+        with Maria Raddatz, Mack Garrison, Amber Harmon, Ian Wenstrand</div>
+        <div class="school">AIGA Raleigh</div>
+        <div class="term">Panel</div>
+</div>
+        
+<div class="object">
+        <div class="term">February 26, 2026</div>
+        <div class="press-title">
+Shearing Layers: A Speculative Framework for Reframing Graphic Design Education</div>
+        <div class="school">CAA Design Incubation Colloquium</div>
+        <div class="term">Academic Presentation</div>
+</div>
+        
+<div class="object">
         <div class="term">December 8-9, 2025</div>
         <div class="press-title">
 Graphic Design MFA</div>
