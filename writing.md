@@ -250,6 +250,14 @@ permalink: /writing/
 
 <h1>Opinion</h1>
 
+<a href="https://readymag.com/readymag/unlearned/jarretfuller/">
+<div class="object">
+        <div class="term">March 2026</div>
+        <div class="writing-title">I Thought I Knew What Design Was</div>
+        <div class="school">Readmag</div>
+</div>
+</a>
+        
 <a href="https://www.fastcompany.com/91392941/5-great-design-books-to-add-to-your-back-to-school-reading-list">
 <div class="object">
         <div class="term">August 2025</div>

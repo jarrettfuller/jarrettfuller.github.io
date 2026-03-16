@@ -6,6 +6,10 @@ permalink: /links
 
 #### LATEST
 
+* [3/16 — *I Thought I Knew What Design Was* for *Readymag*](https://readymag.com/readymag/unlearned/jarretfuller/)
+
+#### 2025
+
 * [12/23 — *The beset Design Books of 2025* for *Fast Company*](https://www.fastcompany.com/91461267/the-best-design-books-of-2025)
 
 * [10/20 — *Why Bruno Munari Taught Designers to Embrace Flexibility* for *Untapped*](https://untappedjournal.com/stories/why-bruno-munari-taught-designers-to-embrace-flexibility)
