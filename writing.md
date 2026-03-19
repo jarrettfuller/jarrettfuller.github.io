@@ -49,6 +49,77 @@ permalink: /writing/
 </div>
 
 
+<div class="images clearfix">
+<h1>Contributed Chapters</h1>
+</div>
+
+<div id="playlist-container">
+
+<div class="playlist-cover">
+      <a href="https://www.setmargins.press/books/ninety-nine-graphic-design-workshops/">
+              <figure>
+          <img src="https://m.media-amazon.com/images/I/41qvgLP4OCL.jpg">
+                  <figcaption>
+          <h1>Ninety-Nine Graphic Design Workshops (2026)</h1>
+        <h2>"Design Writing"</h2>
+                      </figcaption>
+                    </figure>
+          </a>
+    </div>
+
+<div class="playlist-cover">
+      <a href="https://amzn.to/3PvV3RU">
+              <figure>
+          <img src="https://m.media-amazon.com/images/I/71mdWgKiVnL._SL1500_.jpg">
+                  <figcaption>
+          <h1>Guiding Principles for Inclusive Design Values: Reimagining Design Practice and Education (2026)</h1>
+        <h2>"Publishing Creates Publics"</h2>
+                      </figcaption>
+                    </figure>
+          </a>
+    </div>
+        
+<div class="playlist-cover">
+      <a href="https://amzn.to/4sUfVkj">
+              <figure>
+          <img src="https://m.media-amazon.com/images/I/41rlbS1+smL._SY445_SX342_ML2_.jpg">
+                  <figcaption>
+          <h1>The Education of a Design Writer (2025)</h1>
+        <h2>"Tourist/Purist"</h2>
+                      </figcaption>
+                    </figure>
+          </a>
+    </div>
+        
+<div class="playlist-cover">
+      <a href="https://jarrettfuller.com/projects/eod-book">
+              <figure>
+          <img src="https://m.media-amazon.com/images/I/71n6t1GSRVL._SY522_.jpg">
+                  <figcaption>
+          <h1>What It Means to Be A Designer Today: Reflections, Questions, and Ideas from AIGA's Eye on Design (2024)</h1>
+        <h2>"All Media is Design Media"</h2>
+                      </figcaption>
+                    </figure>
+          </a>
+    </div>
+        
+<div class="playlist-cover">
+      <a href="https://jarrettfuller.com/projects/how-to-foreword">
+              <figure>
+          <img src="https://m.media-amazon.com/images/I/71rLeBHW2WL._SL1500_.jpg">
+                  <figcaption>
+          <h1>How To Be A Design Student by Mitch Goldstein (2023)</h1>
+        <h2>Foreword</h2>
+                      </figcaption>
+                    </figure>
+          </a>
+    </div>
+
+</div>
+        
+
+
+
 <main class="archive-preview">
 
 <h1>Criticism/Reviews</h1>
@@ -254,7 +325,7 @@ permalink: /writing/
 <div class="object">
         <div class="term">March 2026</div>
         <div class="writing-title">I Thought I Knew What Design Was</div>
-        <div class="school">Readmag</div>
+        <div class="school">Readymag</div>
 </div>
 </a>
         
