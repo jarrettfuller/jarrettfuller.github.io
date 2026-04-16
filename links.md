@@ -6,6 +6,8 @@ permalink: /links
 
 #### LATEST
 
+* [4/16 — *Recent exhibitions and publications put forth a vision for a design-based pedagogy* for *The Architect's Newspaper*](https://www.archpaper.com/2026/04/recent-exhibitions-publications-design-pedagogy/)
+
 * [3/16 — *I Thought I Knew What Design Was* for *Readymag*](https://readymag.com/readymag/unlearned/jarretfuller/)
 
 #### 2025

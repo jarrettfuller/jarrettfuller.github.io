@@ -124,6 +124,14 @@ permalink: /writing/
 
 <h1>Criticism/Reviews</h1>
 
+<a href="https://www.archpaper.com/2026/04/recent-exhibitions-publications-design-pedagogy/">
+<div class="object">
+        <div class="term">April 2026</div>
+        <div class="writing-title">Recent exhibitions and publications put forth a vision for a design-based pedagogy</div>
+        <div class="school">The Architect's Newspaper</div>
+</div>
+</a>
+        
 <a href="https://untappedjournal.com/stories/why-bruno-munari-taught-designers-to-embrace-flexibility">
 <div class="object">
         <div class="term">October 2025</div>
