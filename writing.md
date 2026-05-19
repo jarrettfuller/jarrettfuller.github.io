@@ -6,19 +6,26 @@ permalink: /writing/
 
 <div class="about-intro">
         <p>I’ve written for a variety of publications about design, culture, and criticism, including <i>Fast Company</i>, <i>Eye Magazine</i>, <i>The Architect's Newspaper</i>, <i>Design and Culture</i>, <i>Design Observer</i>, <i>Journal of Design History</i>, <i>Eye on Design</i>, and for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>.</p>
-        <p>From July 2020 to November 2022, I was a contributing editor for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
+        <p>From July 2020 to November 2022, I was a contributing <a href="/editing">editor</a> for <a href="https://eyeondesign.aiga.org/author/jarrett_fulleraiga-org/">AIGA Eye on Design</a>.</p>
 
 </div>
 
 <div class="images clearfix">
 
+<img src="/images/writing_gdagd.jpg">
+    <div class="images-right"><h3>Graphic Designers After Graphic Design: Designer as Publishing / Researcher / Change Maker / Performer / Artist (Princeton Architectural Press, 2026)</h3>
+    <p>A fascinating exploration of contemporary designers who are redefining what it means to be a graphic designer, offering a vibrant celebration and an inspirational reimagining of the medium for students, professionals, and educators in the field. Coming September 2026 from Princeton Architectural Press.</p>
 
-<!--<h1>Books</h1>-->
+            <p><a href="https://www.chroniclebooks.com/products/graphic-designers-after-graphic-design">Preorder the book here.</a></p></div>
+ 
+</div>
+<div class="images clearfix"> 
+<h1>Edited Books</h1>
 <div class="images-left"><img src="/images/writing_eod.jpg">
     <h3>What It Means To Be a Designer Today (Princeton Architectural Press, 2024)</h3>
-    <p>With Liz Stinson, I co-edited this collection of essays from the first ten years of AIGA's Eye on Design. Organized around the framework of moments, questions, and reflections, this book includes both previously published and original writing about the state of graphic design. Coming April 2024 from Princeton Architectural Press.</p>
+    <p>With Liz Stinson, I co-edited this collection of essays from the first ten years of AIGA's Eye on Design. Organized around the framework of moments, questions, and reflections, this book includes both previously published and original writing about the state of graphic design.</p>
 
-    <p><a href="https://amzn.to/47v2Gf9">Preorder the book here.</a></p>
+    <p><a href="https://amzn.to/47v2Gf9">Buy the book here.</a></p>
 </div>
 
 <div class="images-right"><img src="/images/writing_latham.jpg">

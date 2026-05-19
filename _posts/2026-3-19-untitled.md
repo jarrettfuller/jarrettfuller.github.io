@@ -9,7 +9,7 @@ categories:
 - Drawing
 year: 2026
 image: /images/projects/painting_untitled-2026.jpeg
-permalink: projects/connections
+permalink: projects/untitled-2026
 ---
 
 <img src="/images/projects/painting_untitled-2026.jpeg">
