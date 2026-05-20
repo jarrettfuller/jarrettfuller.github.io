@@ -6,6 +6,8 @@ permalink: /links
 
 #### LATEST
 
+* [5/20 — NEW BOOK! *Graphic Designers After Graphic Design*, available September 29th from Princeton Architectural Press](https://www.chroniclebooks.com/products/graphic-designers-after-graphic-design)
+
 * [4/16 — *Recent exhibitions and publications put forth a vision for a design-based pedagogy* for *The Architect's Newspaper*](https://www.archpaper.com/2026/04/recent-exhibitions-publications-design-pedagogy/)
 
 * [3/16 — *I Thought I Knew What Design Was* for *Readymag*](https://readymag.com/readymag/unlearned/jarretfuller/)
