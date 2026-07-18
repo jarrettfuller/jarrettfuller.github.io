@@ -287,11 +287,36 @@ border-bottom: 1px solid #ff0000;
     border: 1px solid #ff0000;
     margin-bottom: 25px;
 }
+.profile sidebar .download {
+  width: 100%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.profile sidebar .downloadlink {
+  display: block;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+    background-color: lightgrey;
+    border-radius: 3px;
+    padding: 9px;
+    padding-left: 15px;
+    padding-right: 10px;
+    box-shadow: none;
+    border: none;
+}
+.profile sidebar .downloadlink:hover {
+  border-bottom: none;
+  text-underline: 0px;
+  background-color: grey;
+}
 input[type="email"] {
     padding: 7px;
     font-family: Karla;
     font-size: 16px;
     width: 60%;
+    
 }
 input[type="submit"] {
     background-color: lightgrey;

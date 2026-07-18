@@ -18,22 +18,22 @@ permalink: /about/
 -->
 
 <div class="profile_section">
-<h4>Now</h4>
-<article><p>My professional practice spans graphic design, writing, editing, journalism, and education. I’m based in Raleigh, North Carolina where I’m an assistant professor and the director of undergraduate programs in Graphic and Experience Design at North Carolina State University. I’m also the host of the design podcast Scratching the Surface. I'm especially interested in design discourse, media infrastructures, experimental publishing, institutional histories, and alternative practices.</p>
+<h4>About</h4>
+<article><p>Jarrett Fuller is a designer, writer, educator, editor and podcaster whose interests span design, art, architecture, media, and philosophy. He’s an Assistant Professor and Director of Undergraduate Programs in Graphic &amp; Experience Design at North Carolina State University; director of the design and editorial studio twenty-six; and host of the podcast Scratching the Surface.</p>
+   
+  <p>On Scratching the Surface, Jarrett has interviewed a wide range of designers, writers, academics, and artists including OMA partner Reinier de Graaf, curator Helen Molesworth, MoMA curator Paola Antonelli, New York Times architecture critics Michael Kimmelman and Paul Goldberger, former RISD President Rosanne Somerson, Harvard GSD deans Sarah Whiting and Mohsen Mostafavi, and curator Hans Ulrich Obrist.</p>
+   
+  <p>Jarrett's writing has appeared in Fast Company, The Architect's Newspaper, Eye Magazine, Design Observer, Untapped, Design &amp; Culture, and AIGA Eye on Design, where he also served as a contributing editor from 2020 to 2023. He is the editor or co-editor of four books including <em>What It Means To Be a Designer Today</em> (Princeton Architectural Press, co-edited with Liz Stinson, 2024), <em>Where Must Design Go Next?</em> (Oro Editions, 2023), <em>1, 10, 100 Years of Form, Typography, and Interaction at Parsons</em> (Oro Editions, 2022), and <em>Culture is Not Always Popular</em> (MIT Press, co-edited with Michael Bierut and Jessica Helfand, 2018). His forthcoming book, <em>Graphic Designers After Graphic Design</em>, will be published by Princeton Architectural Press in September 2026.</p>
+   
+  <p>At NC State, he teaches classes in strategy, media studies, and design theory. He previously has taught in both undergraduate and graduate programs at Pratt Institute (NY), The New School Parsons School of Design (NY), University of the Arts (PA), Maryland Institute College of Art (MD), and Rutgers University (NJ) and has given lectures or presentations at Rhode Island School of Design, School of Visual Arts, CalArts, Otis College of Art, The New School Parsons School of Design, Royal College of Art, and Shenzhen International School of Design.</p>
+   
+  <p>Under the moniker twenty-six, Jarrett has worked with clients large and small, all around the world, on projects ranging from visual design to editorial strategy to research initiatives. Recent clients have included J-Card Press, Odyssey Works, and Thames and Hudson.</p>
+   
+  <p>In 2021, he was the judge for the Design History Society’s Design Writing Prize. He was a juror for the 2024 365: AIGA Year in Design Award and a co-curator of the 2024 AIGA Design Conference. He's served on the AIGA Design Educators Community Steering Committee since 2021 and previously served on the board of AIGANY.</p>
+   
+  <p>His work has won numerous awards including from The Type Directors Club and Communication Arts and has been featured in The New Yorker, Eye Magazine, Architectural Digest, Curbed, The Architect's Newspaper, and Design Observer. He previously worked as a designer at Facebook (2013–2015), Warby Parker (2011–2013), and The Whitney Museum of American Art (2016). He received his BFA in communication design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art.</p>
 
-<p>I've worked for nearly twenty years as a graphic designer, focusing on books, brands, and websites, most recently with my independent studio, <a href="http://www.twenty-six.design">twenty-six</a>. Before that, I worked as a at Facebook, Warby Parker, and The Whitney Museum of American Art. I try to take on 2-3 projects a year. If you're interested in working, let me know! </p>
-
-<p>Increasingly, I work as a writer and editor. I've written for a variety of publications and books, and from July 2020 to November 2022, I was a contributing editor at <a href="http://eyeondesign.aiga.org"><i>AIGA Eye on Design</i></a>. I am also the editor or co-editor of four books including <i>What It Means To Be a Designer Today</i> (co-edited with Liz Stinson), <i>Where Must Design Go Next?</i>,  <i>1, 10, 100 Years of Form, Typography, and Interaction at Parsons</i>, and <i>Culture is Not Always Popular</i> (co-edited with Michael Bierut and Jessica Helfand). </p>
-
-<p>Since 2016, I’ve hosted and produced <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>, a podcast about design, theory, and creative practice. On the show, I’ve interviewed over 200 designers, writers, academics, and artists. In 2023, I launched a companion online publishing platform, <a href="http://www.scratchingthesurface.fm/stories">Scratch</a>, where we publish experimental, interdisciplinary writing on design in the widest sense.</p>
-
-<p>I’ve taught in both undergraduate and graduate at Pratt Institute , The New School Parsons School of Design, University of the Arts, Maryland Institute College of Art, and Rutgers University.</p>
-
-<p>Outside of work, I'm passionate about photography, reading, watching movies, gardening, cooking, poetry, and learning to play piano.</p>
-
-<p>(Updated June 1, 2024)</p>
-
-<p> For official bios for press use are available <a href="/about/bios">here</a>.</p>
+<p><i>Official bios and headshots for press use are available <a href="/about/bios">here</a>.</i></p>
 </article>
 </div>
 
@@ -42,7 +42,6 @@ permalink: /about/
         <article>
             <p>I'm a believer in making work open source so this site is built entirely with open-source and free tools. The site uses <a href="https://jekyllrb.com">Jekyll</a>, an open-source, static-site generator, and is hosted <a href="https://github.com/jarrettfuller/jarrettfuller.github.io">on Github</a>. It’s set in <a href="https://fonts.google.com/specimen/Karla">Karla</a> and <a href="https://fonts.google.com/specimen/Tinos">Tinos</a> and served up via Google Fonts. You are free to adapt, remix, reuse, and update both the code and visual design for your own needs. That said, if you do use the code for your own site, please include a credit and link back here. Thanks!</p>
 
-            <p>I <a href="/about/studio">live and work</a> on land originally inhabited by two Indigenous tribes: the Tuscarora and the Catawba tribes. I honor these tribes by recognizing I'm on stolen land and honor them today to break the cycle of colonization.</p>
         </article>
 </div>
 
