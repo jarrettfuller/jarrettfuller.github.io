@@ -11,6 +11,16 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://chicagographicdesign.club/?underscore_episode=jarrett-fuller">
+<div class="object">
+        <div class="term">July 2026</div>
+        <div class="press-title">
+Episode 111: Jarrett Fuller</div>
+        <div class="school">Underscore</div>
+        <div class="term">Podcast</div>
+</div>
+</a>
+
 <a href="https://www.madamearchitect.org/expanding-the-conversation/2026/1/22/jarrett-fuller">
 <div class="object">
         <div class="term">January 2026</div>
