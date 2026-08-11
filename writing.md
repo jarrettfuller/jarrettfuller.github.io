@@ -246,6 +246,14 @@ permalink: /writing/
 
 <h1>Journalism</h1>
 
+<a href="https://www.fastcompany.com/91582682/design-is-on-its-deathbed-long-live-design">
+<div class="object">
+        <div class="term">August 2026</div>
+        <div class="writing-title">Design is on its deathbed. Long live design!</div>
+        <div class="school">Fast Company</div>
+</div>
+</a>
+
 <a href="https://www.fastcompany.com/91244915/the-design-industry-is-broken-these-design-coaches-want-to-fix-it">
 <div class="object">
         <div class="term">December 2024</div>
