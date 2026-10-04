@@ -11,6 +11,26 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://open.spotify.com/show/7k0ehMkIFMaitavBc0QJKT?si=AJs6xWcKQmyYiCbMUY9prg">
+<div class="object">
+        <div class="term">September 2026</div>
+        <div class="press-title">
+Graphic Designers After Graphic Design with Jarrett Fuller</div>
+        <div class="school">AIGA Design Podcast</div>
+        <div class="term">Podcast</div>
+</div>
+</a>
+
+<a href="https://design.ncsu.edu/graphic-design/2026/09/29/blurring-the-lines-between-graphic-design-and-what-lays-beyond-fullers-new-book-explores-the-changing-nature-of-graphic-design/">
+<div class="object">
+        <div class="term">September 2026</div>
+        <div class="press-title">
+Blurring the lines between graphic design and what lays beyond: Fuller’s new book explores the changing nature of graphic design</div>
+        <div class="school">NC State College of Design</div>
+        <div class="term">Feature</div>
+</div>
+</a>
+
 <a href="https://chicagographicdesign.club/?underscore_episode=jarrett-fuller">
 <div class="object">
         <div class="term">July 2026</div>

@@ -14,6 +14,14 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">July 27, 2026</div>
+        <div class="press-title">
+Inverting Foundations to Prioritize Ideas over Skills</div>
+        <div class="school">AIGA Design Educations Conference</div>
+        <div class="term">Academic Presentation</div>
+</div>
+
+<div class="object">
         <div class="term">March 2, 2026</div>
         <div class="press-title">
 The Honest Studio: Design Talks<br>

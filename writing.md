@@ -16,7 +16,7 @@ permalink: /writing/
     <div class="images-right"><h3>Graphic Designers After Graphic Design: Designer as Publishing / Researcher / Change Maker / Performer / Artist (Princeton Architectural Press, 2026)</h3>
     <p>A fascinating exploration of contemporary designers who are redefining what it means to be a graphic designer, offering a vibrant celebration and an inspirational reimagining of the medium for students, professionals, and educators in the field. Coming September 2026 from Princeton Architectural Press.</p>
 
-            <p><a href="https://www.chroniclebooks.com/products/graphic-designers-after-graphic-design">Preorder the book here.</a></p></div>
+            <p><a href="https://jarrettfuller.store/products/graphic-designers-after-graphic-design">Buy the book here.</a></p></div>
  
 </div>
 <div class="images clearfix"> 
@@ -25,14 +25,14 @@ permalink: /writing/
     <h3>What It Means To Be a Designer Today (Princeton Architectural Press, 2024)</h3>
     <p>With Liz Stinson, I co-edited this collection of essays from the first ten years of AIGA's Eye on Design. Organized around the framework of moments, questions, and reflections, this book includes both previously published and original writing about the state of graphic design.</p>
 
-    <p><a href="https://amzn.to/47v2Gf9">Buy the book here.</a></p>
+    <p><a href="https://jarrettfuller.store/products/what-it-means-to-be-a-designer-today">Buy the book here.</a></p>
 </div>
 
 <div class="images-right"><img src="/images/writing_latham.jpg">
     <h3>Where Must Design Go Next? (Oro Editions, 2023)</h3>
     <p>A collection of roundtable conversations with the faculty of the Institute of Design (ID) at Illinois Tech about the future of design pedagogy, practice, and theory. This book is published jointly by Oro Editions and ID and results from my work as the 2022-23 Latham Fellow at ID.</p>
 
-    <p><a href="https://bookshop.org/p/books/where-does-architecture-go-next-janett-fuller/20624416?ean=9781961856097">Buy the book here.</a></p>
+    <p><a href="https://jarrettfuller.store/products/where-must-design-go-next>Buy the book here.</a></p>
 </div>
 
 </div>
