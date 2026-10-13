@@ -11,6 +11,16 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://www.fastcompany.com/91621640/graphic-design-isnt-dying-its-expanding">
+<div class="object">
+        <div class="term">October 2026</div>
+        <div class="press-title">
+Graphic design isn't dying. It's expanding.</div>
+        <div class="school">Fast Company</div>
+        <div class="term">Interview</div>
+</div>
+</a>
+
 <a href="https://open.spotify.com/show/7k0ehMkIFMaitavBc0QJKT?si=AJs6xWcKQmyYiCbMUY9prg">
 <div class="object">
         <div class="term">September 2026</div>
