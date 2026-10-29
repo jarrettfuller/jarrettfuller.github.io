@@ -11,6 +11,16 @@ permalink: about/press
 
 <main class="archive-preview">
 
+<a href="https://design-notes.show/#graphic-designers-after-graphic-design">
+<div class="object">
+        <div class="term">October 2026</div>
+        <div class="press-title">
+Graphic Designers After Graphic Design</div>
+        <div class="school">Design Notes</div>
+        <div class="term">Podcast</div>
+</div>
+</a>
+
 <a href="https://www.fastcompany.com/91621640/graphic-design-isnt-dying-its-expanding">
 <div class="object">
         <div class="term">October 2026</div>

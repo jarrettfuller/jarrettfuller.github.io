@@ -14,6 +14,22 @@ permalink: about/talks
 <main class="archive-preview">
 
 <div class="object">
+        <div class="term">October 23, 2026</div>
+        <div class="press-title">
+Publishing Creates Publics</div>
+        <div class="school">SECAC Conference</div>
+        <div class="term">Academic Presentation</div>
+</div>
+
+<div class="object">
+        <div class="term">October 20, 2026</div>
+        <div class="press-title">
+AIA Architecture Writing Workshops</div>
+        <div class="school">AIA (Virtual)</div>
+        <div class="term">Guest Speaker</div>
+</div>
+
+<div class="object">
         <div class="term">July 27, 2026</div>
         <div class="press-title">
 Inverting Foundations to Prioritize Ideas over Skills</div>
